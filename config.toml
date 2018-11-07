@@ -1,7 +1,7 @@
 baseURL = "."
 languageCode = "en-us"
 title = "Casual Gaming"
-theme = "hugo-assembly"
+theme = "casual-assembly"
 publishDir = "public" 
 enableEmoji = true
 
