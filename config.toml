@@ -1,0 +1,70 @@
+baseURL = "."
+languageCode = "en-us"
+title = "Casual Gaming"
+theme = "hugo-assembly"
+publishDir = "public" 
+enableEmoji = true
+
+[params]
+  author = "Casual Gaming"
+  description = ""
+
+[params.banner]
+  title = "CASUAL GAMING"
+  byline = "Byline, byline, byline ..."
+
+[params.actions]
+  enable = false
+  register = "CTA Now!"
+
+[params.nav]
+  home = ""
+  services = "Arrangementer"
+  welcome = "Om oss"
+  contact = "Kontakt oss"
+
+[params.services]
+  enable = true
+  title = "Arrangementer"
+  subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+
+  [[params.services.item]]
+    weight = "A"
+    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    button_item_info = "TrøndeLAN"
+
+  [[params.services.item]]
+    weight = "B"
+    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    button_item_info = "StudLAN"
+
+  [[params.services.item]]
+    weight = "C"
+    description = "Possimus id dicta consequuntur veritatis, reiciendis at sint distinctio eligend Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    button_item_info = "Konsoll- og brettspillkvelder"
+
+[params.welcome]
+  enable = true
+  title = "Om oss"
+  subtitle = "Computing the conversion of instructions in low-level code to machine code by an assembler."
+  description = "This is <strong>Assembly</strong>, a free, fully standards-compliant CSS template designed by <a href=\"http://templated.co\" rel=\"nofollow\">TEMPLATED</a>. The photos in this template are from <a href=\"http://fotogrph.com/\"> Fotogrph</a>. This free template is released under the <a href=\"http://templated.co/license\">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :)"
+  button_text = "Call Now"
+
+[params.contact]
+  enable = false
+  title = "Kontakt oss"
+  message = "<message1>"
+  name_placeholder = "<name>"
+  email_placeholder = "<email>"
+  email_disclaimer = "<disclaimer>"
+  message_placeholder = "<message2>"
+  button_text = "Send"
+
+[params.footer]
+  enable = true
+  copy = "2018 &copy; Casual Gaming | All rights reserved"
+  twitter = ""
+  facebook = "https://www.facebook.com/CasualGamingTrondheim/"
+  instagram = "casualgamingno"
+
+

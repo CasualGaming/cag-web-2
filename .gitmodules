@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/casualgaming/casualgaming.github.io.git
+[submodule "themes/hugo-assembly"]
+	path = themes/hugo-assembly
+	url = https://github.com/salsysd/hugo-assembly.git
