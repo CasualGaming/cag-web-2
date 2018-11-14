@@ -5,11 +5,7 @@ shopt -s dotglob
 
 TIMESTAMP=$(date +"%Y-%m-%dT%H:%M:%S")
 
-# Clean
-find master -regextype sed -not -regex "^master$" -not -regex "^master/.git$" -delete
-
-# Build
-hugo -v
+./build.sh
 
 # Publish
 read -p "Press enter to publish, or CTRL+C to cancel"
