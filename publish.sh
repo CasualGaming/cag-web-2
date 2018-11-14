@@ -16,7 +16,7 @@ hugo -v
 
 # Publish to master
 read -p "Press enter to publish, or CTRL+C to cancel"
-cd master
+cd public
 git add -A
 git commit -m "Build $TIMESTAMP"
 git push --force
