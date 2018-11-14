@@ -1,5 +1,6 @@
 # Site settings
-baseURL = ""
+# Needs to be an absolute prefix
+baseURL = "/"
 languageCode = "en-us"
 title = "Casual Gaming "
 theme = "forty"
