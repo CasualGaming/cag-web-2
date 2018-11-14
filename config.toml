@@ -21,21 +21,17 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Casual Gaming"
+  description = ""
 
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
-  #favicon    = ""
-
-  # Just a custom image variable, please define it in .md files for content.
-  image = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Side kunne ikke finnes"
-    text = "Please visit [this page](/)"
+    heading = "Siden kunne ikke finnes"
+    text = "Vennligst gå [hjem](/)."
 
   # Navigation Section
   [params.navigation]
@@ -43,8 +39,7 @@ disqusShortname = ""
     subtitle = ""
     menu = "Meny"
     # Optional logo as brand stored in img/
-    logo = "logo-text_h60.png"
-    # logo = "logo.png"
+    logo = "logo-text.png"
 
     [[params.navigation.links]]
       name = "Hjem"
@@ -64,7 +59,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "For bedrifter"
-      url = "spons"
+      url = "for-bedrifter"
 
     [[params.navigation.links]]
       name = "Bli med i crew"
@@ -87,7 +82,6 @@ disqusShortname = ""
     # the 'static/img' folder.
     title = "Casual Gaming"
     subtitle = "For gamere og spillinteresserte i Trondheim"
-    #buttonText = "Hopp inn"
 
 
   # Tiles Section
@@ -100,30 +94,35 @@ disqusShortname = ""
       subtitle = "Et dataparty for alle"
       image = "home/trondelan.jpg"
       url = "trondelan"
+      class=""
 
     [[params.tiles.showcase]]
       title = "StudLAN"
       subtitle = "Et tradisjonsrikt LAN for studenter"
-      image = "home/studlan.JPG"
+      image = "home/studlan.jpg"
       url = "studlan"
+      class=""
 
     [[params.tiles.showcase]]
       title = "Spillkvelder"
       subtitle = "Sosialt og gøy"
-      image = "home/konsoll_brett.JPG"
+      image = "home/konsoll_brett.jpg"
       url = "spillkvelder"
+      class=""
 
     [[params.tiles.showcase]]
       title = "For bedrifter"
       subtitle = "Ønsker din bedrift å sponse oss?"
       image = ""
-      url = "spons"
+      url = "for-bedrifter"
+      class=""
 
     [[params.tiles.showcase]]
       title = "Bli med i Causal Gaming"
       subtitle = ""
-      image = "home/bli_med.jpg"
+      image = "home/bli_med.png"
       url = "opptak"
+      class = "fullwidth"
 
     # You can make more showcases by copy and pasting the code above
 
@@ -213,6 +212,6 @@ disqusShortname = ""
       label = "E-Mail"
 
     [[params.footer.quicklinks]]
-      text = "Design: "
+      text = "Theme made by "
       url= "https://www.html5up.net"
       alt = "HTML5 UP"

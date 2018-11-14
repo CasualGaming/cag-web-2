@@ -2855,12 +2855,6 @@
 				width: 60%;
 			}
 
-			/* CaG: Changed width of last tile to 100% */
-
-			.tiles article:nth-child(5n) {
-				width: 100%;
-			}
-
 			/* CaG: Changed background colors */
 
 			.tiles article:nth-child(6n - 5):before {
@@ -3287,7 +3281,10 @@
 			position: absolute;
 		}
 
-			#header.alt.style1 .logo strong {
+		/*
+		CaG: Remove #header.alt.styleX
+
+		#header.alt.style1 .logo strong {
 				color: #6fc3df;
 			}
 
@@ -3310,6 +3307,7 @@
 			#header.alt.style6 .logo strong {
 				color: #87c5a4;
 			}
+		*/
 
 		body.is-loading #header.alt {
 			opacity: 0;
@@ -3522,6 +3520,9 @@
 				opacity: 0.75;
 			}
 
+		/*
+		CaG: Remove #banner.styleX
+
 		#banner.style1:after {
 			background-color: #6fc3df;
 		}
@@ -3545,6 +3546,7 @@
 		#banner.style6:after {
 			background-color: #87c5a4;
 		}
+		*/
 
 		body.is-loading #banner:after {
 			opacity: 1.0;
@@ -3988,3 +3990,17 @@
 			opacity: 1;
 			visibility: visible;
 		}
+
+/* CaG extra below: */
+#header .logo img {
+	height: 100%;
+	max-width: 100%;
+}
+
+.tiles article {
+	background-size: contain;
+}
+
+.tiles article.fullwidth {
+	width: 100%;
+}
