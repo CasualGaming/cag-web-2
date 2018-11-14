@@ -4,3 +4,6 @@
 [submodule "themes/casual-assembly"]
 	path = themes/casual-assembly
 	url = https://github.com/CasualGaming/casual-assembly.git
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty

@@ -1,5 +1,218 @@
+# Site settings
 baseURL = "."
 languageCode = "en-us"
-title = "Casual Gaming"
+title = "Casual Gaming "
+theme = "forty"
 publishDir = "public"
 enableEmoji = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Enter your disqus shortname to enable comments
+disqusShortname = ""
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name = "Your name"
+  description = "Your description"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  #favicon    = ""
+
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
+
+  # 404 error customization
+  [params.error404]
+    heading = "Side kunne ikke finnes"
+    text = "Please visit [this page](/)"
+
+  # Navigation Section
+  [params.navigation]
+    title = "Casual Gaming"
+    subtitle = ""
+    menu = "Meny"
+    # Optional logo as brand stored in img/
+    logo = "logo-text_h60.png"
+    # logo = "logo.png"
+
+    [[params.navigation.links]]
+      name = "Hjem"
+      url = "#"
+
+    [[params.navigation.links]]
+      name = "TrøndeLAN"
+      url = "trondelan"
+
+    [[params.navigation.links]]
+      name = "StudLAN"
+      url = "studlan"
+
+    [[params.navigation.links]]
+      name = "Spillkvelder"
+      url = "spillkvelder"
+
+    [[params.navigation.links]]
+      name = "For bedrifter"
+      url = "spons"
+
+    [[params.navigation.links]]
+      name = "Bli med i crew"
+      url = "opptak"
+
+
+    # Add custom links here by uncommenting code below. To remove links just delete
+    # the [[params.navigation.links]] map associated with that link. Copy and paste
+    # code below if you need more links. Buttons work in the same way.
+    # [[params.navigation.links]]
+    #    name = "NameOfLink"
+    #    url = "UrlOfLink"
+
+    # Button Style 1
+
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "Casual Gaming"
+    subtitle = "For gamere og spillinteresserte i Trondheim"
+    #buttonText = "Hopp inn"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+
+    [[params.tiles.showcase]]
+      title = "TrøndeLAN"
+      subtitle = "Et dataparty for alle"
+      image = "home/trondelan.jpg"
+      url = "trondelan"
+
+    [[params.tiles.showcase]]
+      title = "StudLAN"
+      subtitle = "Et tradisjonsrikt LAN for studenter"
+      image = "home/studlan.JPG"
+      url = "studlan"
+
+    [[params.tiles.showcase]]
+      title = "Spillkvelder"
+      subtitle = "Sosialt og gøy"
+      image = "home/konsoll_brett.JPG"
+      url = "spillkvelder"
+
+    [[params.tiles.showcase]]
+      title = "For bedrifter"
+      subtitle = "Ønsker din bedrift å sponse oss?"
+      image = ""
+      url = "spons"
+
+    [[params.tiles.showcase]]
+      title = "Bli med i Causal Gaming"
+      subtitle = ""
+      image = "home/bli_med.jpg"
+      url = "opptak"
+
+    # You can make more showcases by copy and pasting the code above
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
+  # Section Type Two
+  [params.two]
+    enable = true
+    title = "Casual Gaming"
+    subtitle = """Casual Gaming er en non-profit studentorganisasjon som har til formål
+     å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Casual Gaming er
+     medlemsforening i Hyperion."""
+    buttonText = "Følg oss på Facebook!"
+    url = "https://www.facebook.com/CasualGamingTrondheim/"
+
+
+  # Contact section
+  # [params.contact]
+  #   enable = true
+  #   buttonSend = "Send epost"
+  #   buttonClear = "Slett"
+  #
+  #   # Since this template is static, the contact form uses www.formspree.io as a
+  #   # proxy. The form makes a POST request to their servers to send the actual
+  #   # email. Visitors can send up to a 1000 emails each month for free.
+  #   #
+  #   # What you need to do for the setup?
+  #   #
+  #   # - set your email address under 'email' below and uncomment
+  #   # - upload the generated site to your server
+  #   # - send a dummy email yourself to confirm your account
+  #   # - click the confirm link in the email from www.formspree.io
+  #   # - you're done. Happy mailing!
+  #   formEmail = "post@casualgaming.no"
+  #
+  #   # Contact Section
+  #   # You can add multiple emails, phone numbers, or addresses
+  #   # by copying the corresponding map with frontmatter code.
+  #   [[params.contact.email]]
+  #   title = "Email"
+  #   email = "eksempel@domene.com"
+  #
+  #   [[params.contact.phone]]
+  #   title = "Mobil"
+  #   phone = "000 00 000"
+  #
+  #   [[params.contact.address]]
+  #   title = "Address"
+  #   street = "Street"
+  #   city = "City, ST 00000"
+  #   country = "Country"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Casual Gaming"
+
+    # # Uses font awesome icons
+    # [[params.footer.social]]
+    #   icon = "fa-twitter"
+    #   url= "https://www.twitter.com"
+    #   label = "Twitter"
+
+    [[params.footer.social]]
+      icon = "fa-facebook"
+      url= "https://www.facebook.com/CasualGamingTrondheim/"
+      label = "Facebook"
+
+    [[params.footer.social]]
+      icon = "fa-instagram"
+      url= "https://www.instagram.com/casualgamingno"
+      label = "Instagram"
+
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://www.github.com/CasualGaming"
+      label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fa-envelope-square"
+      url= "mailto:post@casualgaming.no"
+      label = "E-Mail"
+
+    [[params.footer.quicklinks]]
+      text = "Design: "
+      url= "https://www.html5up.net"
+      alt = "HTML5 UP"
