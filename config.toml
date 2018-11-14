@@ -43,27 +43,27 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Hjem"
-      url = "#"
+      url = "/"
 
     [[params.navigation.links]]
       name = "TrøndeLAN"
-      url = "trondelan"
+      url = "/trondelan"
 
     [[params.navigation.links]]
       name = "StudLAN"
-      url = "studlan"
+      url = "/studlan"
 
     [[params.navigation.links]]
       name = "Spillkvelder"
-      url = "spillkvelder"
+      url = "/spillkvelder"
 
     [[params.navigation.links]]
       name = "For bedrifter"
-      url = "for-bedrifter"
+      url = "/for-bedrifter"
 
     [[params.navigation.links]]
       name = "Bli med i crew"
-      url = "opptak"
+      url = "/opptak"
 
 
     # Add custom links here by uncommenting code below. To remove links just delete
