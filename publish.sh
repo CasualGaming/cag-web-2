@@ -11,7 +11,7 @@ TIMESTAMP=$(date +"%Y-%m-%dT%H:%M:%S")
 # Prepare master dir
 cd public
 git fetch --all
-git checkout master
+git checkout --force master
 find . -regextype sed -not -regex "^\\.$" -not -regex "^\\./\\.git$" -delete
 cd ..
 
