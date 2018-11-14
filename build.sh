@@ -4,7 +4,7 @@ set -e
 shopt -s dotglob
 
 # Clean
-find public -regextype sed -not -regex "^master$" -not -regex "^master/.git$" -delete
+find public -regextype sed -not -regex "^public$" -not -regex "^public/\\.git$" -delete
 
 # Build
 hugo -v
