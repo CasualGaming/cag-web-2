@@ -5,6 +5,9 @@ shopt -s dotglob
 
 TIMESTAMP=$(date +"%Y-%m-%dT%H:%M:%S")
 
+# Make sure submodules are updated
+./update-submodules.sh
+
 # Prepare master dir
 cd public
 git fetch --all
