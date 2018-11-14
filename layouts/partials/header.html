@@ -8,7 +8,7 @@
 	<title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
 	{{ "<!-- Stylesheets -->" | safeHTML }}
 	<!--[if lte IE 8]><script src="js/ie/html5shiv.js"></script><![endif]-->
-	<link rel="stylesheet" href="{{ "css/main.css" | absURL}}"/>
+	<link rel="stylesheet" href="{{ "/css/main.css" | absURL}}"/>
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "css/ie9.css" }}"/><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "css/ie8.css" }}"/><![endif]-->
 
@@ -17,7 +17,7 @@
 	{{ end }}
 
 	{{ "<!-- Custom Fonts -->" | safeHTML }}
-	<link href="{{ "css/font-awesome.min.css" | absURL }}" rel="stylesheet" type="text/css">
+	<link href="{{ "/css/font-awesome.min.css" | absURL }}" rel="stylesheet" type="text/css">
 
 	<!-- CaG: added favicon -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">

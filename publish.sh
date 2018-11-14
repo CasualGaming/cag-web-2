@@ -22,5 +22,5 @@ hugo -v
 read -p "Press enter to publish, or CTRL+C to cancel"
 cd public
 git add -A
-git commit -m "Build $TIMESTAMP"
+git commit --allow-empty -m "Build $TIMESTAMP"
 git push --force

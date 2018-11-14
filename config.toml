@@ -93,35 +93,35 @@ disqusShortname = ""
       title = "TrøndeLAN"
       subtitle = "Et dataparty for alle"
       image = "home/trondelan.jpg"
-      url = "trondelan"
+      url = "/trondelan"
       class=""
 
     [[params.tiles.showcase]]
       title = "StudLAN"
       subtitle = "Et tradisjonsrikt LAN for studenter"
       image = "home/studlan.jpg"
-      url = "studlan"
+      url = "/studlan"
       class=""
 
     [[params.tiles.showcase]]
       title = "Spillkvelder"
       subtitle = "Sosialt og gøy"
       image = "home/konsoll_brett.jpg"
-      url = "spillkvelder"
+      url = "/spillkvelder"
       class=""
 
     [[params.tiles.showcase]]
       title = "For bedrifter"
       subtitle = "Ønsker din bedrift å sponse oss?"
       image = ""
-      url = "for-bedrifter"
+      url = "/for-bedrifter"
       class=""
 
     [[params.tiles.showcase]]
       title = "Bli med i Causal Gaming"
       subtitle = ""
       image = "home/bli_med.png"
-      url = "opptak"
+      url = "/opptak"
       class = "fullwidth"
 
     # You can make more showcases by copy and pasting the code above
