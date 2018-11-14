@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "."
+baseURL = ""
 languageCode = "en-us"
 title = "Casual Gaming "
 theme = "forty"
