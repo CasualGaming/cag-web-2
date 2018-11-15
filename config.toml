@@ -203,6 +203,11 @@ disqusShortname = ""
       label = "Instagram"
 
     [[params.footer.social]]
+      icon = "fa-twitch"
+      url= "https://www.twitch.tv/casualgamingnorway"
+      label = "Twitch"
+
+    [[params.footer.social]]
       icon = "fa-github"
       url= "https://www.github.com/CasualGaming"
       label = "GitHub"
@@ -213,6 +218,6 @@ disqusShortname = ""
       label = "E-Mail"
 
     [[params.footer.quicklinks]]
-      text = "Theme made by "
+      text = "Hugo theme made by "
       url= "https://www.html5up.net"
       alt = "HTML5 UP"
