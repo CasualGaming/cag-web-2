@@ -19,7 +19,7 @@ cd ..
 hugo -v
 
 # Publish to master
-read -p "Press enter to publish, or CTRL+C to cancel"
+read -p "Press ENTER to publish, or CTRL+C to cancel"
 cd public
 git add -A
 git commit --allow-empty -m "Build $TIMESTAMP"

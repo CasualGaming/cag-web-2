@@ -1,5 +1,5 @@
 # Casual Gaming Website
-The static hugo website for the organization, served by GitHub Pages.
+Static hugo website served by GitHub Pages.
 
 ## Branches
 * **master-src**: Contains the hugo site source.
@@ -9,6 +9,8 @@ The static hugo website for the organization, served by GitHub Pages.
 * Checkout master-src.
 * IMPORTANT: Run the update-submodules.sh script to clone the required submodules.
 * Make sure the site is working properly using the local development server, by running either run-\*-server.sh scripts.
-* Run the build-and-publish.sh script to build the site and push the generated site to the remote master branch.
-* Remember to always pull the master-src branch and the submodule branches, using the update-submodules.sh script.
+* Run the publish.sh script to build the site and push the generated site to the remote master branch.
+
+## Tips
 * The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/).
+* Images can be compressed (esp. JPEGs), for instance with <https://compressjpeg.com/> at 75% quality.
