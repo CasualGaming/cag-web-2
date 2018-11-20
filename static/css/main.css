@@ -2777,7 +2777,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 40%;
+			width: 45%;
 		}
 
 			.tiles article .image {
@@ -2852,7 +2852,7 @@
 			}
 
 			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
-				width: 60%;
+				width: 55%;
 			}
 
 			/* CaG: Changed background colors */
