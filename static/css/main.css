@@ -3495,12 +3495,8 @@
 			}
 
 				#banner > .inner .content > * {
-					margin-left: 1.5em;
+					margin: auto auto auto auto;
 					margin-bottom: 0;
-				}
-
-				#banner > .inner .content > :first-child {
-					margin-left: 0;
 				}
 
 				#banner > .inner .content p {
@@ -3514,6 +3510,7 @@
 			height: 75vh;
 			min-height: 30em;
 			max-height: 50em;
+			text-align: center;
 		}
 
 			#banner.major.alt {
@@ -4003,4 +4000,8 @@
 
 .tiles article.fullwidth {
 	width: 100%;
+}
+
+.homepage #header.alt .logo {
+	visibility: hidden;
 }

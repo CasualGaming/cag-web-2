@@ -81,7 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Casual Gaming"
+    #title = "Casual Gaming"
+    image = "/img/logo-text.png"
     subtitle = "For gamere og spillinteresserte i Trondheim"
 
 

@@ -2,11 +2,10 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ .Site.Params.Banner.title }}</h1>
+                <img src="{{ .Site.Params.Banner.image | absURL }}" alt="header logo" />
             </header>
             <div class="content">
                 <p>{{ .Site.Params.Banner.subtitle }}</p>
-                <!-- CaG: removed button-->
             </div>
         </div>
     </section>

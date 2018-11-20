@@ -6,20 +6,18 @@
 	{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
 	{{ .Hugo.Generator }}
 	<title>{{ .Title }}{{ if not .IsHome }} &middot; {{ .Site.Title }}{{ end }}</title>
+
 	{{ "<!-- Stylesheets -->" | safeHTML }}
 	<!--[if lte IE 8]><script src="js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "/css/main.css" | absURL}}"/>
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "css/ie9.css" }}"/><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "css/ie8.css" }}"/><![endif]-->
-
 	{{ range .Site.Params.custom_css }}
 		<link rel="stylesheet" href="{{ . | absURL }}">
 	{{ end }}
-
-	{{ "<!-- Custom Fonts -->" | safeHTML }}
 	<link href="{{ "/css/font-awesome.min.css" | absURL }}" rel="stylesheet" type="text/css">
 
-	<!-- CaG: added favicon -->
+	{{ "<!-- Favicon -->" | safeHTML }}
 	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
