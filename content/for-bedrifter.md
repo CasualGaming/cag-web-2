@@ -8,6 +8,7 @@ draft: false
 ## Profilering
 
 Vi tilbyr følgende muligheter for profilering:
+
 * Reklame på arrangementer
 * Annonsering på nettsider og sosiale medier
 * Stand på større arrangementer
