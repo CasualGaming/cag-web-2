@@ -20,7 +20,7 @@ googleAnalytics = ""
 
   # Provide your metadata here.
   name = "Casual Gaming"
-  description = ""
+  description = "For spillinteresserte i Trondheim"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -29,7 +29,7 @@ googleAnalytics = ""
   # 404 error customization
   [params.error404]
     heading = "Siden kunne ikke finnes"
-    text = "Vennligst gå [hjem](/)."
+    text = "Vennligst [gå hjem](/)."
 
   # Navigation Section
   [params.navigation]
@@ -63,24 +63,12 @@ googleAnalytics = ""
       name = "Bli med i crew"
       url = "/opptak"
 
-
-    # Add custom links here by uncommenting code below. To remove links just delete
-    # the [[params.navigation.links]] map associated with that link. Copy and paste
-    # code below if you need more links. Buttons work in the same way.
-    # [[params.navigation.links]]
-    #    name = "NameOfLink"
-    #    url = "UrlOfLink"
-
-    # Button Style 1
-
-
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    #title = "Casual Gaming"
     image = "/img/logo-text.png"
-    subtitle = "For gamere og spillinteresserte i Trondheim"
+    subtitle = "For spillinteresserte i Trondheim"
 
 
   # Tiles Section
@@ -96,7 +84,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "StudLAN"
-      subtitle = "Et tradisjonsrikt LAN for studenter"
+      subtitle = "Et tradisjonsrikt dataparty for studenter"
       image = "home/studlan.jpg"
       url = "/studlan"
 
@@ -132,9 +120,9 @@ googleAnalytics = ""
   [params.two]
     enable = true
     title = "Casual Gaming"
-    subtitle = """Casual Gaming er en non-profit studentorganisasjon som har til formål
-     å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Casual Gaming er
-     medlemsforening i Hyperion."""
+    subtitle = """Casual Gaming er en ideell/non-profit studentorganisasjon som har til formål
+      å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi er
+      medlemsforening i [Hyperion](http://n4f.no/)."""
     buttonText = "Følg oss på Facebook!"
     url = "https://www.facebook.com/CasualGamingTrondheim/"
 
@@ -143,28 +131,35 @@ googleAnalytics = ""
     enable = true
     copyright = "Casual Gaming"
 
+    # "fas" means FontAwesome solid, "fab" means FA brands
+
     [[params.footer.social]]
-      icon = "fa-facebook"
+      icon = "fab fa-facebook"
       url= "https://www.facebook.com/CasualGamingTrondheim/"
       label = "Facebook"
 
     [[params.footer.social]]
-      icon = "fa-instagram"
+      icon = "fab fa-instagram"
       url= "https://www.instagram.com/casualgamingno"
       label = "Instagram"
 
     [[params.footer.social]]
-      icon = "fa-twitch"
+      icon = "fab fa-twitch"
       url= "https://www.twitch.tv/casualgamingnorway"
       label = "Twitch"
 
     [[params.footer.social]]
-      icon = "fa-github"
+      icon = "fab fa-discord"
+      url= "https://discord.gg/C7UDyte"
+      label = "Discord"
+
+    [[params.footer.social]]
+      icon = "fab fa-github"
       url= "https://www.github.com/CasualGaming"
       label = "GitHub"
 
     [[params.footer.social]]
-      icon = "fa-envelope-square"
+      icon = "fas fa-envelope"
       url= "mailto:post@casualgaming.no"
       label = "E-Mail"
 
