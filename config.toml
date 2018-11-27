@@ -96,14 +96,8 @@ googleAnalytics = ""
       url = "/spillkvelder"
 
     [[params.tiles.showcase]]
-      title = "For bedrifter"
-      subtitle = "Ønsker din bedrift å sponse oss?"
-      image = ""
-      url = "/for-bedrifter"
-
-    [[params.tiles.showcase]]
-      title = "Bli med i Causal Gaming"
-      subtitle = ""
+      title = "Crew-opptak"
+      subtitle = "Bli med å arrangere"
       image = "home/bli_med.png"
       containImage = true
       url = "/opptak"

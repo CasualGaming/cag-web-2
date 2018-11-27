@@ -2,7 +2,7 @@
 title: "For bedrifter"
 draft: false
 ---
-Ønsker bedriften deres å støtte data og spillinteresserte ungdom i et stadig voksende marked i Trondheim og omegn? Ved å støtte Casual Gaming hjelper dere oss å tilby et stadig bedre tilbud samtidig som dere vil bli profilert i en raskt voksende målgruppe.
+Ønsker bedriften deres å støtte data- og spillinteresserte ungdom i et stadig voksende marked i Trondheim og omegn? Ved å støtte Casual Gaming hjelper dere oss å tilby et stadig bedre tilbud samtidig som dere vil bli profilert i en raskt voksende målgruppe.
 
 ## Profilering
 
