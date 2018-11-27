@@ -14,3 +14,4 @@ Static hugo website served by GitHub Pages.
 ## Tips
 * The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/).
 * Images can be compressed (esp. JPEGs), for instance with <https://compressjpeg.com/> at 75% quality.
+* When updating the theme, make sure HEAD isn't detatched.

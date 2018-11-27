@@ -33,15 +33,16 @@ googleAnalytics = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Casual Gaming"
-    subtitle = ""
-    menu = "Meny"
-    # Optional logo as brand stored in img/
     logo = "logo-text.png"
+    menu = "Meny"
 
     [[params.navigation.links]]
       name = "Hjem"
       url = "/"
+
+    [[params.navigation.links]]
+      name = "Om oss"
+      url = "/om"
 
     [[params.navigation.links]]
       name = "TrøndeLAN"
@@ -60,7 +61,7 @@ googleAnalytics = ""
       url = "/for-bedrifter"
 
     [[params.navigation.links]]
-      name = "Bli med i crew"
+      name = "Crew-opptak"
       url = "/opptak"
 
   # Banner section
@@ -107,22 +108,13 @@ googleAnalytics = ""
       containImage = true
       url = "/opptak"
 
-    # You can make more showcases by copy and pasting the code above
-
-  [params.blog]
-    # All blogs defined in their own files. You can find example blogs
-    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
-    # at the root of this Hugo site.
-    # For more informtion take a look at the README.
-    # To add more blogs just copy and paste the code.
-
   # Section Type Two
   [params.two]
     enable = true
     title = "Casual Gaming"
-    subtitle = """Casual Gaming er en ideell/non-profit studentorganisasjon som har til formål
-      å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi er
-      medlemsforening i [Hyperion](http://n4f.no/)."""
+    subtitle = """Casual Gaming er en ideell studentorganisasjon som har til formål
+      å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
+      Les mer om oss [her](/om)."""
     buttonText = "Følg oss på Facebook!"
     url = "https://www.facebook.com/CasualGamingTrondheim/"
 
