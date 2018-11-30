@@ -79,13 +79,13 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "TrøndeLAN"
-      subtitle = "Et dataparty for alle"
+      subtitle = "Et LAN-party for alle"
       image = "home/trondelan.jpg"
       url = "/trondelan"
 
     [[params.tiles.showcase]]
       title = "StudLAN"
-      subtitle = "Et tradisjonsrikt dataparty for studenter"
+      subtitle = "Et tradisjonsrikt LAN-party for studenter"
       image = "home/studlan.jpg"
       url = "/studlan"
 
