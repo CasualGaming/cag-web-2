@@ -71,7 +71,6 @@ googleAnalytics = ""
     image = "/img/logo-text.png"
     subtitle = "For spillinteresserte i Trondheim"
 
-
   # Tiles Section
   [params.tiles]
     enable = true
@@ -99,18 +98,27 @@ googleAnalytics = ""
       title = "Crew-opptak"
       subtitle = "Bli med å arrangere"
       image = "home/bli_med.png"
-      containImage = true
+      constrainImage = true
       url = "/opptak"
 
-  # Section Type Two
-  [params.two]
+  # About section
+  [params.about]
     enable = true
     title = "Casual Gaming"
     subtitle = """Casual Gaming er en ideell studentorganisasjon som har til formål
       å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
       Les mer om oss [her](/om)."""
-    buttonText = "Følg oss på Facebook!"
-    url = "https://www.facebook.com/CasualGamingTrondheim/"
+  
+  # Sponsor section
+  [params.sponsors]
+    enable = true
+    title = "Sponsorer"
+
+    [[params.sponsors.sponsor]]
+      image = "sponsors/terrahost.png"
+      alt = "Terrahost"
+      url = "https://terrahost.no/"
+      description = "Støtter oss med en dedikert server for nettstedene våre"
 
   # Footer section
   [params.footer]
