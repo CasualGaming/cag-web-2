@@ -120,6 +120,18 @@ googleAnalytics = ""
       url = "https://terrahost.no/"
       description = "Støtter oss med en dedikert server for nettstedene våre"
 
+#    [[params.sponsors.sponsor]]
+#      image = "logo.png"
+#      alt = "AAAaaa"
+#      url = "https://example.net/"
+#      description = "Støtter oss med en dedikert server for nettstedene våre"
+
+#    [[params.sponsors.sponsor]]
+#      image = ""
+#      alt = "BBBbbb"
+#      url = "https://example.net/"
+#      description = "Støtter oss med en dedikert server for nettstedene våre"
+
   # Footer section
   [params.footer]
     enable = true
