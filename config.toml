@@ -156,7 +156,7 @@ googleAnalytics = ""
 
     [[params.footer.social]]
       icon = "fab fa-discord"
-      url= "https://discord.gg/C7UDyte"
+      url= "https://discord.gg/TENjrqs"
       label = "Discord"
 
     [[params.footer.social]]
