@@ -108,15 +108,23 @@ googleAnalytics = ""
     subtitle = """Casual Gaming er en ideell studentorganisasjon som har til formål
       å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
       Les mer om oss [her](/om)."""
-  
+
   # Sponsor section
   [params.sponsors]
     enable = true
     title = "Sponsorer"
 
     [[params.sponsors.sponsor]]
+      image = "sponsors/hyperion.png"
+      alt = "Hyperion"
+      backgroundColor = "#FFF"
+      url = "http://n4f.no/"
+      description = "Vi er medlemsforening i Hyperion"
+
+    [[params.sponsors.sponsor]]
       image = "sponsors/terrahost.png"
       alt = "Terrahost"
+      backgroundColor = ""
       url = "https://terrahost.no/"
       description = "Støtter oss med en dedikert server for nettstedene våre"
 
