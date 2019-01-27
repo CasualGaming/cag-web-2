@@ -115,9 +115,9 @@ googleAnalytics = ""
     title = "Sponsorer"
 
     [[params.sponsors.sponsor]]
-      image = "sponsors/hyperion.png"
+      image = "sponsors/hyperion_white.png"
       alt = "Hyperion"
-      backgroundColor = "#FFF"
+      backgroundColor = ""
       url = "http://n4f.no/"
       description = "Vi er medlemsforening i Hyperion"
 
