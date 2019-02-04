@@ -66,38 +66,36 @@ googleAnalytics = ""
 
   # Banner section
   [params.banner]
-    # To change the background image on the homepage banner, replace 'banner.jpg' in
-    # the 'static/img' folder.
-    image = "/img/logo-text.png"
+    bannerImage = "/img/home/banner.jpg"
+    logoImage = "/img/logo-text.png"
     subtitle = "For spillinteresserte i Trondheim"
 
   # Tiles Section
   [params.tiles]
     enable = true
-    # Display your showcases here.
 
     [[params.tiles.showcase]]
       title = "TrøndeLAN"
       subtitle = "Et LAN-party for alle"
-      image = "home/trondelan.jpg"
+      image = "/img/home/trondelan.jpg"
       url = "/trondelan"
 
     [[params.tiles.showcase]]
       title = "StudLAN"
       subtitle = "Et tradisjonsrikt LAN-party for studenter"
-      image = "home/studlan.jpg"
+      image = "/img/home/studlan.jpg"
       url = "/studlan"
 
     [[params.tiles.showcase]]
       title = "Spillkvelder"
       subtitle = "Sosialt og gøy"
-      image = "home/konsoll_brett.jpg"
+      image = "/img/home/konsoll_brett.jpg"
       url = "/spillkvelder"
 
     [[params.tiles.showcase]]
       title = "Crew-opptak"
       subtitle = "Bli med å arrangere"
-      image = "home/bli_med.png"
+      image = "/img/home/bli_med.png"
       constrainImage = true
       url = "/opptak"
 
@@ -115,21 +113,21 @@ googleAnalytics = ""
     title = "Sponsorer"
 
     [[params.sponsors.sponsor]]
-      image = "sponsors/hyperion_white.png"
+      image = "/img/sponsors/hyperion_white.png"
       alt = "Hyperion"
       backgroundColor = ""
       url = "http://n4f.no/"
       description = "Vi er medlemsforening i Hyperion"
 
     [[params.sponsors.sponsor]]
-      image = "sponsors/terrahost.png"
+      image = "/img/sponsors/terrahost.png"
       alt = "Terrahost"
       backgroundColor = ""
       url = "https://terrahost.no/"
       description = "Støtter oss med en dedikert server for nettstedene våre"
 
 #    [[params.sponsors.sponsor]]
-#      image = "logo.png"
+#      image = "/img/logo.png"
 #      alt = "AAAaaa"
 #      url = "https://example.net/"
 #      description = "Støtter oss med en dedikert server for nettstedene våre"
