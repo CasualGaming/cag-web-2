@@ -7,24 +7,23 @@ draft: false
 
 ## Litt info om Casual Gaming
 
-- Frivillig studentorganisasjon med tilknytning til linjeforeningen for informatikk ved NTNU Gløshaugen, Online
-- Tar hovedsaklig opp crew-medlemmer fra NTNU Gløshaugen, men er ikke eksklusive for den gruppen
+- Frivillig studentorganisasjon som samarbeider tett med linjeforeningen Online
 - Arrangerer StudLAN én gang i vårsemesteret og én gang i høstsemesteret
 - Arrangerer TrøndeLAN årlig om høsten
 - Arrangerer månedlige konsoll- og brettspillkvelder
-- For større arrangementer som LAN, må crew stille opp under drifting av arrangementet (forskjellige skift over en helg), under opprigg (opptil noen dager i forveien), og under nedrigg.
 
 Mer info kan finnes [her](/om/).
 
-## Litt info om crew-ene
+## Litt info om crewene
 
 - Coord: Ansvar for sponsorer, logistikk og lokaler.
-- Info: Ansvarlig for promotering, sosiale medier, osv.
+- Info: Ansvarlig for promotering, sosiale medier osv.
 - Game: Ansvarlig for konkurranser på arrangementer.
-- Tech: Utarbeider nettsidene, drifter infrastruktur, og er ansvarlig for det tekniske på arrangementer.
+- Tech: Utarbeider nettsidene, drifter infrastruktur og er ansvarlig for det tekniske på arrangementer.
 - Care: Står for stemning og sosialt miljø, samt kioskdrifting på arrangementer.
+- For større arrangementer som LAN, må crew stille opp under drifting av arrangementet (forskjellige skift over en helg), under opprigg (opptil noen dager i forveien) og under nedrigg.
 
-Coord og Tech, deretter Care og Game, har størst behov for flere crew-medlemmer i dette opptaket. For Tech gjelder behovet hovedsaklig utvikling av nettstedene, men også litt LAN-teknisk.
+Coord og Tech, deretter Care og Game, har størst behov for flere crewmedlemmer i dette opptaket. For Tech gjelder behovet hovedsaklig utvikling av nettstedene, men også litt LAN-teknisk.
 
 ## Søknad
 
