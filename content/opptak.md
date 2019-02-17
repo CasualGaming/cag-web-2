@@ -1,5 +1,47 @@
 ---
-title: "Crew-opptak"
+title: "Opptak"
 draft: false
 ---
-Vi har vanligvis crew-opptak to ganger i året. Mer info kommer. Merk at du ikke trenger å være crew for å være medlem.
+
+**Opptaket er ÅPENT!**
+
+## Litt info om Casual Gaming
+
+- Frivillig studentorganisasjon med tilknytning til linjeforeningen for informatikk ved NTNU Gløshaugen, Online
+- Tar hovedsaklig opp crew-medlemmer fra NTNU Gløshaugen, men er ikke eksklusive for den gruppen
+- Arrangerer StudLAN én gang i vårsemesteret og én gang i høstsemesteret
+- Arrangerer TrøndeLAN årlig om høsten
+- Arrangerer månedlige konsoll- og brettspillkvelder
+- For større arrangementer som LAN, må crew stille opp under drifting av arrangementet (forskjellige skift over en helg), under opprigg (opptil noen dager i forveien), og under nedrigg.
+
+Mer info kan finnes [her](/om/).
+
+## Litt info om crew-ene
+
+- Coord: Ansvar for sponsorer, logistikk og lokaler.
+- Info: Ansvarlig for promotering, sosiale medier, osv.
+- Game: Ansvarlig for konkurranser på arrangementer.
+- Tech: Utarbeider nettsidene, drifter infrastruktur, og er ansvarlig for det tekniske på arrangementer.
+- Care: Står for stemning og sosialt miljø, samt kioskdrifting på arrangementer.
+
+Coord og Tech har størst behov for flere crew-medlemmer i dette opptaket, men opptaket er ikke eksklusivt for disse. For Tech gjelder behovet hovedsaklig utvikling av nettstedene, men også litt LAN-teknisk.
+
+## Søknad
+
+Søknaden bør inneholde litt om følgende:
+
+- Hvem er du?
+- Relevant erfaring
+- Har du andre jobber og verv?
+- Motivasjon for å søke
+- Ønskede crew
+- Ditt potensielle bidrag til CaG og ønskede crew
+- Har du mulighet til å stille ved StudLAN og TrøndeLAN?
+- Er du lett å nå på kommunikasjonsplattformer som epost, Discord, Slack og/eller Facebook?
+- Spørsmål til oss?
+
+Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak.
+
+Søknadsfrist: Foreløpig 28. februar 2019
+
+Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).

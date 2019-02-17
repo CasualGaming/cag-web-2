@@ -61,7 +61,7 @@ googleAnalytics = ""
       url = "/for-bedrifter"
 
     [[params.navigation.links]]
-      name = "Crew-opptak"
+      name = "Opptak"
       url = "/opptak"
 
   # Banner section
