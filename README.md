@@ -7,9 +7,10 @@ Static hugo website served by GitHub Pages.
 
 ## Updating and building
 * Checkout master-src.
-* IMPORTANT: Run the update-submodules.sh script to clone the required submodules.
-* Make sure the site is working properly using the local development server, by running either run-\*-server.sh scripts.
-* Run the publish.sh script to build the site and push the generated site to the remote master branch.
+* Run `./update-submodules.sh` (or `make update-submodules`) to clone the required submodules. Required when the repo was just cloned or any submodules were updated.
+* Run `./run-server.sh` (or `make server`) to start a development server with hot reloading.
+* Git commit and push as you usually would. The `publish` directory does not need to be included, but is hard to ignore since it's a submodule.
+* Run `./publish.sh` (or `make publish`) to build and publish the site using the current user's credentials.
 
 ## Tips
 * The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/).

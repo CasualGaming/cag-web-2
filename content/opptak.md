@@ -24,7 +24,7 @@ Mer info kan finnes [her](/om/).
 - Tech: Utarbeider nettsidene, drifter infrastruktur, og er ansvarlig for det tekniske på arrangementer.
 - Care: Står for stemning og sosialt miljø, samt kioskdrifting på arrangementer.
 
-Coord og Tech har størst behov for flere crew-medlemmer i dette opptaket, men opptaket er ikke eksklusivt for disse. For Tech gjelder behovet hovedsaklig utvikling av nettstedene, men også litt LAN-teknisk.
+Coord og Tech, deretter Care og Game, har størst behov for flere crew-medlemmer i dette opptaket. For Tech gjelder behovet hovedsaklig utvikling av nettstedene, men også litt LAN-teknisk.
 
 ## Søknad
 
