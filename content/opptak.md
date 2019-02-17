@@ -14,16 +14,16 @@ draft: false
 
 Mer info kan finnes [her](/om/).
 
-## Litt info om crewene
+## Litt info om crew
 
 - Coord: Ansvar for sponsorer, logistikk og lokaler
 - Info: Ansvarlig for promotering, sosiale medier osv.
 - Game: Ansvarlig for konkurranser på arrangementer
 - Tech: Utarbeider nettsidene, drifter IT-systemer og er ansvarlig for det tekniske på arrangementer
 - Care: Står for stemning og sosialt miljø, samt kioskdrifting på arrangementer
-- For større arrangementer som LAN, må crew stille opp under drifting av arrangementet (forskjellige skift over en helg), under opprigg (opptil noen dager i forveien) og under nedrigg.
+- For større arrangementer som LAN, må crewene stille opp under drifting av arrangementet (forskjellige skift over en helg), under opprigg (opptil noen dager i forveien) og under nedrigg.
 
-Coord og Tech, deretter Care og Game, har størst behov for flere crewmedlemmer i dette opptaket. For Tech, gjelder behovet hovedsaklig utvikling av nettstedene, men også litt LAN-teknisk.
+Coord og Tech, deretter Care og Game, har størst behov for flere crewmedlemmer i dette opptaket. For Tech, gjelder behovet hovedsakelig utvikling av nettstedene.
 
 ## Søknad
 
@@ -34,10 +34,9 @@ Søknaden bør inneholde litt om følgende:
 - Har du andre jobber og verv?
 - Motivasjon for å søke
 - Ønskede crew
-- Ditt potensielle bidrag til CaG og ønskede crew
+- Ditt potensielle bidrag til CaG
 - Har du mulighet til å stille ved StudLAN og TrøndeLAN?
-- Er du lett å nå på kommunikasjonsplattformer som epost, Discord, Slack og/eller Facebook?
-- Har du spørsmål til oss?
+- Er du lett å nå på kommunikasjonsplattformer som e-post, Discord, Slack og/eller Facebook?
 
 Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak.
 

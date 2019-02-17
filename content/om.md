@@ -8,7 +8,7 @@ Casual Gaming er en ideell studentorganisasjon som har til formål å skape en f
 ## Historie
 Casual Gaming ble grunnlagt i 2008 ved Vestnes, Møre og Romsdal. I 2012 ble Casual Gaming slått sammen med interessegruppen StudLAN, som besto av studenter fra linjene Informatikk, Matematikk, Fysikk og Matematikk og Energi og Miljø ved NTNU Trondheim. I dag drives organisasjonen på frivillig basis av studenter med forskjellig faglig bakgrunn fra NTNU. Organisasjonen er ideell (non-profit) og all sponsorstøtte og evt. overskudd fra arrangementer går tilbake til å forbedre fremtidige arrangementer. I 2015 hadde organisasjonen over 400 betalende medlemmer.
 
-## Crewene
+## Crew
 ### Coord
 Coord er en koordineringsgruppe som har ansvaret for å koordinere de andre crewene for å gjennomføre arrangement så effektivt som mulig. Coord er blant annet ansvarlig for booking av lokale, sponsorer, vakthold og organisering av rydding før, under og etter arrangementet.
 
