@@ -93,7 +93,7 @@ googleAnalytics = ""
       url = "/spillkvelder"
 
     [[params.tiles.showcase]]
-      title = "Crew-opptak"
+      title = "Opptak"
       subtitle = "Bli med å arrangere"
       image = "/img/home/bli_med.png"
       constrainImage = true
