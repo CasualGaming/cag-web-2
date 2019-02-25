@@ -40,6 +40,6 @@ Søknaden bør inneholde litt om følgende:
 
 Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak.
 
-Søknadsfrist: 3. mars 2019 (foreløpig)
+Søknadsfrist: Fredag 8. mars 2019
 
 Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
