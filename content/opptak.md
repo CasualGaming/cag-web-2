@@ -23,8 +23,6 @@ Mer info kan finnes [her](/om/).
 - Care: Står for stemning og sosialt miljø, samt kioskdrifting på arrangementer
 - For større arrangementer som LAN, må crewene stille opp under drifting av arrangementet (forskjellige skift over en helg), under opprigg (opptil noen dager i forveien) og under nedrigg.
 
-Coord og Tech, deretter Care og Game, har størst behov for flere crewmedlemmer i dette opptaket. For Tech, gjelder behovet hovedsakelig utvikling av nettstedene.
-
 ## Søknad
 
 Søknaden bør inneholde litt om følgende:
@@ -38,7 +36,7 @@ Søknaden bør inneholde litt om følgende:
 - Har du mulighet til å stille ved StudLAN og TrøndeLAN?
 - Er du lett å nå på kommunikasjonsplattformer som e-post, Discord, Slack og/eller Facebook?
 
-Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak.
+Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak. Vi tar opp til alle crewene i dette opptaket, så det er god sannsynlighet for at du får tilbud! Du finner oss på [konsoll- og brettspillkveld](https://www.facebook.com/events/339963083219414/) 3. mars hvis du vil vite mer om oss før du søker.
 
 Søknadsfrist: Fredag 8. mars 2019
 
