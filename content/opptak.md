@@ -38,6 +38,6 @@ Søknaden bør inneholde litt om følgende:
 
 Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak. Vi tar opp til alle crewene i dette opptaket, så det er god sannsynlighet for at du får tilbud! Du finner oss på [konsoll- og brettspillkveld](https://www.facebook.com/events/339963083219414/) 3. mars hvis du vil vite mer om oss før du søker.
 
-Søknadsfrist: Fredag 8. mars 2019
+Søknadsfrist: Omgående (~~Fredag 8. mars 2019~~)
 
 Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
