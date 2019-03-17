@@ -3,7 +3,7 @@ title: "Opptak"
 draft: false
 ---
 
-**Opptaket er ÅPENT!**
+**Opptaket for vår 2019 er ÅPENT!**
 
 ## Litt info om Casual Gaming
 
@@ -36,8 +36,8 @@ Søknaden bør inneholde litt om følgende:
 - Har du mulighet til å stille ved StudLAN og TrøndeLAN?
 - Er du lett å nå på kommunikasjonsplattformer som e-post, Discord, Slack og/eller Facebook?
 
-Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak. Vi tar opp til alle crewene i dette opptaket, så det er god sannsynlighet for at du får tilbud! Du finner oss på [konsoll- og brettspillkveld](https://www.facebook.com/events/339963083219414/) 3. mars hvis du vil vite mer om oss før du søker.
+Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak. Vi tar opp til alle crewene i dette opptaket, så det er god sannsynlighet for at du får tilbud!
 
-Søknadsfrist: Omgående (~~Fredag 8. mars 2019~~)
+Søknadsfrist: **31. mars 2019**
 
 Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
