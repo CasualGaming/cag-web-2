@@ -3,12 +3,17 @@
 # Required env vars:
 # - GITHUB_TOKEN: From the deployment repo's settings page
 
+dist: xenial
+addons:
+  apt:
+    packages:
+    - hugo
+
 install:
-  - sudo apt-get install -y hugo
-  - ./update-submodules.sh
+- ./update-submodules.sh
 
 script:
-  - hugo -v -s . -d build
+- hugo -v -s . -d build
 
 deploy:
   provider: pages
