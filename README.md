@@ -1,13 +1,17 @@
 # Casual Gaming Website
 Static Hugo website build by Travis CI and served by GitHub Pages.
 
+[![Build Status](https://travis-ci.com/CasualGaming/cag-web.svg?branch=master)](https://travis-ci.com/CasualGaming/cag-web)
+
 Related repos:
 
 * Theme: [CasualGaming/fifty](https://github.com/CasualGaming/fifty)
 * Generated site: [CasualGaming/casualgaming.github.io](https://github.com/CasualGaming/casualgaming.github.io)
 
 ## Online Editing
-Simple content changes and such can be easily changed directly wrong GitHub. When the file is saved/committed, the site is automatically rebuilt and redeployed.
+Simple content changes and such can be easily changed directly wrong GitHub.
+When the file is saved/committed, the site is automatically rebuilt and redeployed.
+Make sure the automatic build succeeds and that the site is working after the deployment has finished (at most 5 minutes after committing).
 
 ## Desktop Editing
 
