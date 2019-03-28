@@ -10,6 +10,9 @@ addons:
     - hugo
 
 install:
+- apt search hugo
+- sudo apt update
+- apt search hugo
 - ./update-submodules.sh
 
 script:
