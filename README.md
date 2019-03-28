@@ -1,9 +1,8 @@
 # Casual Gaming Website
-Static Hugo website build by Travis CI and served by GitHub Pages.
 
 [![Build Status](https://travis-ci.com/CasualGaming/cag-web.svg?branch=master)](https://travis-ci.com/CasualGaming/cag-web)
 
-Related repos:
+Static Hugo website build by Travis CI and served by GitHub Pages.
 
 * Theme: [CasualGaming/fifty](https://github.com/CasualGaming/fifty)
 * Generated site: [CasualGaming/casualgaming.github.io](https://github.com/CasualGaming/casualgaming.github.io)
@@ -19,6 +18,5 @@ Make sure the automatic build succeeds and that the site is working after the de
 * Run `./run-server.sh` (or `make server`) to start a development server with hot reloading.
 
 ## Tips
-* The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/).
+* The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/)
 * Images can be compressed (esp. JPEGs), for instance with <https://compressjpeg.com/> at 75% quality.
-* When updating the theme, make sure HEAD isn't detatched.
