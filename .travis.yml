@@ -3,7 +3,9 @@
 # Required env vars:
 # - GITHUB_TOKEN: From the deployment repo's settings page
 
-dist: xenial
+dist: bionic
+language: minimal
+
 addons:
   apt:
     packages:
