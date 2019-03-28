@@ -3,18 +3,14 @@
 # Required env vars:
 # - GITHUB_TOKEN: From the deployment repo's settings page
 
-dist: bionic
+dist: xenial
 language: minimal
 
-addons:
-  apt:
-    packages:
-    - hugo
+before_install:
+- wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.deb
+- sudo dpkg -i /tmp/hugo.deb
 
 install:
-- apt search hugo
-- sudo apt update
-- apt search hugo
 - ./update-submodules.sh
 
 script:
