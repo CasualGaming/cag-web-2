@@ -7,6 +7,15 @@ Static Hugo website built by Travis CI and served by GitHub Pages.
 * Theme: [CasualGaming/fifty](https://github.com/CasualGaming/fifty)
 * Generated site: [CasualGaming/casualgaming.github.io](https://github.com/CasualGaming/casualgaming.github.io)
 
+## Project Structure
+* `content/`: Web pages.
+* `static/`: Static files placed in the web root of the built site.
+* `themes/`: Contains the theme (after you've run `update-submodules.sh`).
+* `archetypes/`, `data/`, `layouts/`: Templates, don't change these.
+* `extra/`: Extra files, not used to build the site.
+* `config.toml`: Config file for the site, contains front page content as well.
+* `run-server.sh`: A script to build and run the site locally with hot reloading.
+
 ## Online Editing
 Simple content changes and such can be easily changed directly wrong GitHub.
 When the file is saved/committed, the site is automatically rebuilt and redeployed.
