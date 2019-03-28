@@ -1,0 +1,21 @@
+# Travis CI config for cag-web
+
+# Required env vars:
+# - GITHUB_TOKEN: From the deployment repo's settings page
+
+install:
+  - sudo apt-get install -y hugo
+  - ./update-submodules.sh
+
+script:
+  - hugo -v -s . -d build
+
+deploy:
+  provider: pages
+  repo: CasualGaming/casualgaming.github.io
+  github_token: $GITHUB_TOKEN
+  skip_cleanup: true
+  keep_history: true
+  local_dir: build
+  on:
+    branch: master
