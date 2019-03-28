@@ -17,9 +17,9 @@ Static Hugo website built by Travis CI and served by GitHub Pages.
 * `run-server.sh`: A script to build and run the site locally with hot reloading.
 
 ## Online Editing
-Simple content changes and such can be easily changed directly wrong GitHub.
+Simple content changes and such can be easily changed directly within GitHub.
 When the file is saved/committed, the site is automatically rebuilt and redeployed.
-Make sure the automatic build succeeds and that the site is working after the deployment has finished (at most 5 minutes after committing).
+Make sure the automatic build succeeds ([here](https://travis-ci.com/CasualGaming/cag-web)) and that the site is working after the deployment has finished ([here](https://casualgaming.no)) (at most 5 minutes after committing).
 
 ## Desktop Editing
 
