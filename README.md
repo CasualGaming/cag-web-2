@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/CasualGaming/cag-web.svg?branch=master)](https://travis-ci.com/CasualGaming/cag-web)
 
-Static Hugo website build by Travis CI and served by GitHub Pages.
+Static Hugo website built by Travis CI and served by GitHub Pages.
 
 * Theme: [CasualGaming/fifty](https://github.com/CasualGaming/fifty)
 * Generated site: [CasualGaming/casualgaming.github.io](https://github.com/CasualGaming/casualgaming.github.io)
