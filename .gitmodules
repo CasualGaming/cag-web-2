@@ -1,7 +1,3 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/casualgaming/casualgaming.github.io.git
-	ignore = dirty
 [submodule "themes/fifty"]
 	path = themes/fifty
 	url = https://github.com/CasualGaming/fifty
