@@ -1,18 +1,14 @@
 #!/usr/bin/env bash
 
-set -e
-set -u
+set -eu
 
 THEME="fifty"
 
+# Update repo with submodules
 git fetch
 git submodule update --init --recursive --force
 
-cd public
-git fetch
-git checkout --force master
-cd ..
-
+# Update theme to latest version
 cd "themes/$THEME"
 git fetch
 git checkout --force master

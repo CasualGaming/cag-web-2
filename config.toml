@@ -4,7 +4,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Casual Gaming "
 theme = "fifty"
-publishDir = "public"
 enableEmoji = true
 
 # Enter your tracking code to enable Google Analytics

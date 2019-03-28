@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
 
-set -e
+set -eu
 shopt -s dotglob
 
-# Clean
-find public -regextype sed -not -regex "^public$" -not -regex "^public/\\.git$" -delete
+OUT_DIR="server"
 
-# Build
-hugo -v
+# Remove output folder if it exists
+if [ -d "$OUT_DIR" ]; then
+  rm -r "$OUT_DIR"
+fi
+
+# Run live server
+hugo -v -s . -d $OUT_DIR

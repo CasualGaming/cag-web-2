@@ -1,16 +1,18 @@
 # Casual Gaming Website
-Static hugo website served by GitHub Pages.
+Static Hugo website build by Travis CI and served by GitHub Pages.
 
-## Branches
-* **master-src**: Contains the hugo site source.
-* **master**: Contains the generated site, served by GitHub Pages.
+Related repos:
 
-## Updating and building
-* Checkout master-src.
-* Run `./update-submodules.sh` (or `make update-submodules`) to clone the required submodules. Required when the repo was just cloned or any submodules were updated.
+* Theme: [CasualGaming/fifty](https://github.com/CasualGaming/fifty)
+* Generated site: [CasualGaming/casualgaming.github.io](https://github.com/CasualGaming/casualgaming.github.io)
+
+## Online Editing
+Simple content changes and such can be easily changed directly wrong GitHub. When the file is saved/committed, the site is automatically rebuilt and redeployed.
+
+## Desktop Editing
+
+* Run `./update-submodules.sh` (or `make update-submodules`) to clone the required submodules. This is required when the repo was just cloned or any submodules were updated.
 * Run `./run-server.sh` (or `make server`) to start a development server with hot reloading.
-* Git commit and push as you usually would. The `publish` directory does not need to be included, but is hard to ignore since it's a submodule.
-* Run `./publish.sh` (or `make publish`) to build and publish the site using the current user's credentials.
 
 ## Tips
 * The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/).

@@ -1,16 +1,14 @@
 #!/usr/bin/env bash
 
-set -e
+set -eu
 shopt -s dotglob
 
-SERVER_DIR="server"
+OUT_DIR="server"
 
 # Remove output folder if it exists
-if [ -d "$SERVER_DIR" ]; then
-  rm -r "$SERVER_DIR"
+if [ -d "$OUT_DIR" ]; then
+  rm -r "$OUT_DIR"
 fi
 
 # Run live server
-hugo server -wv -s . -d $SERVER_DIR
-
-# Note: Cancelling the server exits the script as well
+hugo server -wv -s . -d $OUT_DIR
