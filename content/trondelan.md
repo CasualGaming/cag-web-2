@@ -4,7 +4,7 @@ draft: false
 ---
 Sted: **[Autronicahallen på Lade](https://goo.gl/maps/Y3Awn3ZBWRo)**
 
-Tid: **18.okt Kl. 18.00 til 20.okt Kl. 12.00**
+Tid: **18. okt. kl. 18:00 til 20. okt. kl. 12:00**
 
 Billetter: **Slippes i sommer**
 
