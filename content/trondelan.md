@@ -2,8 +2,13 @@
 title: "TrøndeLAN"
 draft: false
 ---
-Nettsted: **[trondelan.no](https://trondelan.no)**
+Sted: **[Autronicahallen på Lade](https://goo.gl/maps/Y3Awn3ZBWRo)**
 
+Tid: **18.okt Kl. 18.00 til 20.okt Kl. 12.00**
+
+Billetter: **Slippes i sommer**
+
+___
 ## Om
 TrøndeLAN er et LAN som arrangeres en gang i året, normalt i Autronicahallen på Lade i Trondheim rundt høstferien. Her finner man deltakere i alle aldre som samles rundt en felles interesse for data og spill. Det arrangeres konkurranser i en rekke spill både på data og konsoll, i tillegg til andre spillrelaterte aktiviteter. Årets totale premiepott er på ca. 35.000,-
 
@@ -18,7 +23,7 @@ ___
 ## Strøm
 
 ### Kontroller utstyr!
-Man har selv ansvar for at medbragt utstyr er driftsikkert og ikke medfører brannfare og elektriske problemer. En skadet skjøteledning eller strømforgrener kan være svært brannfarlig! Ved tidligere arrangementer har skadet utstyr ført til store elektriske problemer, i verste fall vil slikt utstyr forårsake brann. Vi har derfor innført nulltoleranse, hvor benyttelse av skadet eller farlig utstyr kan føre til at ikke får lov til å koble seg til strømnettet til utbredelsen er godkjent av Crew. 
+Man har selv ansvar for at medbragt utstyr er driftsikkert og ikke medfører brannfare og elektriske problemer. En skadet skjøteledning eller strømforgrener kan være svært brannfarlig! Ved tidligere arrangementer har skadet utstyr ført til store elektriske problemer, i verste fall vil slikt utstyr forårsake brann. Vi har derfor innført nulltoleranse, hvor benyttelse av skadet eller farlig utstyr kan føre til at ikke får lov til å koble seg til strømnettet til utbedrelsen er godkjent av Crew. 
 
 Ting man må se etter:
 
@@ -48,14 +53,14 @@ LAN party er veldig gøy, men det er viktig å ta vare på seg selv i løpet av 
 Det er viktig å ha en samtale med barnet sitt angående forventninger og komme til enighet om hvordan man best mulig kan oppnå en fin helg for alle parter.
 
 #### Vakt og sikring
-Det vil til enhver tid være våkne vakter fra Casual Gaming på LANet, disse vil være synlig merket med Crew-klær. Hovedsakelig vil personen(e) på vakt sitte som dørvakt, men disse har også ansvar for brannsikkerheten, tømming av søppeldunker og at ro og orden holdes i lokalene. Om deltakerne trenger å kontakte Crew utenom Discord plattformen så er dørvakta den første de skal henvende seg til.
+Det vil til enhver tid være våkne vakter fra Casual Gaming på LANet, disse vil være synlig merket med Crew-klær. Hovedsakelig vil personen(e) på vakt sitte som dørvakt, men disse har også ansvar for brannsikkerheten, tømming av søppeldunker og at ro og orden holdes i lokalene. Om deltakerne trenger å kontakte Crew utenom Discord-plattformen så er dørvakta den første de skal henvende seg til.
 
 ### Pakkeliste
 #### Teknisk
 
 * Datamaskin
 * Skjerm
-* Mus, tastatur, headset og musematte
+* Mus, tastatur, headset
 * Minimum 10 meter lang TP kabel for å få internett
 * Strømforgrener og strømkablene til pc-en og skjermen din (NB: Se regler for strøm)
 * Lader til mobil
@@ -66,7 +71,7 @@ Det vil til enhver tid være våkne vakter fra Casual Gaming på LANet, disse vi
 * Minst ett rent klesskift
 * Tannbørste og deodorant, dusjsåpe og håndduk om du ønsker å benytte dusjen.
 * Mat, godteri og drikke. Det er viktig å spise ordentlig mat og ikke bare snop, vi har kiosk som selger diverse. Har du allergier må du ordne med mat selv, vi ikke har ordning for dette.
-* Penger til kjøp av mat og drikke fra kiosk, vi har støtte for både Vipps og bankkort, ikke kontanter.
+* Penger til kjøp av mat og drikke fra kiosk, vi har støtte for både Vipps, bankkort og kontanter.
 * Pute, sovepose, madrass. Det er eget soveområde på stedet, søvn er viktig!
 * Medisiner du måtte trenge underveis.
 * Stol om ønskelig, men det finnes enkle plastikkstoler til alle deltakere.  
@@ -74,13 +79,13 @@ Det vil til enhver tid være våkne vakter fra Casual Gaming på LANet, disse vi
  
 #### IKKE ta med
 
-* Hvitevarer som kjøleskap, micro, vannkoker, høyttalere og andre apparater som trekker mye strøm.
+* Hvitevarer som kjøleskap, mikrobølgeovn, vannkoker, høyttalere og andre apparater som trekker mye strøm.
  
 #### Lommepenger
-Vi har et godt kiosktilbud og anbefaler derfor å sende med lommepenger for å dekke barnas behov i løpet av helgen. Vi tar dessverre ikke kontanter.
+Vi har et godt kiosktilbud og anbefaler derfor å sende med lommepenger for å dekke barnas behov i løpet av helgen.
 
 ___
-Om du har spørsmål til noe av dette, er det bare å kontakte oss gjennom Facebook-eventen, melding på Facebook eller per e-post til info@casualgaming.no
+Om du har spørsmål til noe av dette, er det bare å kontakte oss gjennom Facebook-eventen, melding på Facebook eller per e-post til post@casualgaming.no
 ___
 
 ## Sikkerhet og tyveri
