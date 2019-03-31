@@ -109,7 +109,7 @@ googleAnalytics = ""
   # Sponsor section
   [params.sponsors]
     enable = true
-    title = "Sponsorer"
+    title = "Sponsorer og samarbeidspartnere"
 
     [[params.sponsors.sponsor]]
       image = "/img/sponsors/hyperion_white.png"
