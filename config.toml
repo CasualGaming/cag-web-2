@@ -175,7 +175,7 @@ googleAnalytics = ""
       label = "Support email"
 
     [[params.footer.social]]
-      icon = "fas fa-inbox"
+      icon = "fas fa-envelope"
       url= "mailto:post@casualgaming.no"
       label = "Email"
 
