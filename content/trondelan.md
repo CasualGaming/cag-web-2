@@ -8,12 +8,12 @@ Nettsted: **[trondelan.no](https://trondelan.no)**
 TrøndeLAN er et LAN som arrangeres en gang i året, normalt i Autronicahallen på Lade i Trondheim. Her finner man deltakere i alle aldre som samles rundt en felles interesse for data og spill. Det arrangeres konkurranser i en rekke spill både på data og konsoll, i tillegg til andre spillrelaterte aktiviteter. Årets totale premiepott er på ca. 35.000,-
 
 Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusj i lokalene. Meld deg på og bli en del av Trondheims største LAN-party!
-
+___
 
 ## Informasjon og kommunikasjon
 Det er viktig at alle som deltar på arrangementet sjekker vår Discord-server jevnlig. Her vil vi dele all viktig informasjon angående arrangementet, våre fasiliteter og konkurranser. I tillegg til dette er dette deltakernes raskeste og enkleste måte å få besvart eventuelle spørsmål til Crew.
 Deltakere som deltar i konkurranser oppfordres til å sjekke Discord ekstra ofte, da all informasjon om konkurransene vil bli publisert her.
-
+___
 
 ## Strøm
 
@@ -32,7 +32,7 @@ Vi har ikke satt en øvre grense på hvor mange strømuttak deltakere kan ha, me
 
 ### Utstyr
 Hvitevarer som kjøleskap, vannkoker, mikrobølgeovn ol.er ikke tillatt. Strøm skal kun benyttes til medbragt konsoll/datautstyr.
-
+___
 
 ## Til foreldre/foresatte
 
@@ -87,7 +87,7 @@ ___
 Det har ikke vært registrert tyveri på TrøndeLAN ved tidligere arrangementer, men vi oppfordrer likevel deltakere til å passe på utstyret sitt. Når man forlater plassen bør man få venner/de man sitter med til å holde et øyet med tingene sine. Mobiltelefon, nøkler og lommebok bør deltakere ha med seg til en hver tid.
 
 Casual Gaming tar ikke ansvar for tyveri av personlige eiendeler.
-
+___
 
 ## Regelverk
 #### Rusfritt
@@ -113,3 +113,4 @@ Casual Gaming har ikke ansvar for medbrakt utstyr o.l. Husk reiseforsikring.
 
 #### Ulovlige deltakere
 Personer som har sneket seg inn vil bli bortvist fra området. Eventuelle betalende deltakere som har bistått vedkommende vil også bli utestengt resten av arrangementet. 
+___
