@@ -3,7 +3,7 @@ title: "Opptak"
 draft: false
 ---
 
-**Opptaket for vår 2019 er ÅPENT!**
+Neste opptak: August/september 2019
 
 ## Litt info om Casual Gaming
 
@@ -38,6 +38,6 @@ Søknaden bør inneholde litt om følgende:
 
 Vi kommer også til å spørre om dette under det eventuelle opptaksintervjuet. Vi svarer på søknadene etter søknadsfristen er utgått. Interessante kandidater kalles inn til intervju, som kan føre til tilbud om opptak. Vi tar opp til alle crewene i dette opptaket, så det er god sannsynlighet for at du får tilbud!
 
-Søknadsfrist: **31. mars 2019**
+Søknadsfrist: **TBD**
 
 Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
