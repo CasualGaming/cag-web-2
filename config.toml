@@ -157,7 +157,7 @@ googleAnalytics = ""
     [[params.footer.social]]
       icon = "fab fa-twitch"
       url= "https://www.twitch.tv/casualgamingnorway"
-      label = "Twitch"https://www.youtube.com/channel/UCwE4Udkp8A881Dfvbfa6KLQ
+      label = "Twitch"
 
     [[params.footer.social]]
       icon = "fab fa-youtube"
