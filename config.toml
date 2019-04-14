@@ -177,7 +177,7 @@ googleAnalytics = "UA-138227770-1"
     [[params.footer.social]]
       icon = "fas fa-life-ring"
       url= "mailto:support@casualgaming.no"
-      label = "Support email"
+      label = "Support"
 
     [[params.footer.social]]
       icon = "fas fa-envelope"
