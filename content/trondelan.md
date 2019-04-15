@@ -2,6 +2,8 @@
 title: "TrøndeLAN"
 draft: false
 ---
+Nettsted:**[trondelan.no](https://trondelan.no/)**
+
 Sted: **[Autronicahallen på Lade](https://goo.gl/maps/Y3Awn3ZBWRo)**
 
 Tid: **18. okt. kl. 18:00 til 20. okt. kl. 12:00**
