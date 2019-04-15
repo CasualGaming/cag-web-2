@@ -18,12 +18,13 @@ script:
 
 deploy:
   provider: pages
+  on:
+    branch: master
   repo: CasualGaming/casualgaming.github.io
   target_branch: master
+  local_dir: build
   github_token: $GITHUB_TOKEN
+  committer_from_gh: true
   skip_cleanup: true
   keep_history: true
   verbose: true
-  local_dir: build
-  on:
-    branch: master
