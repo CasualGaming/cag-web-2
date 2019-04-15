@@ -2,7 +2,7 @@
 title: "TrøndeLAN"
 draft: false
 ---
-Nettsted:**[trondelan.no](https://trondelan.no/)**
+Nettsted: **[trondelan.no](https://trondelan.no/)**
 
 Sted: **[Autronicahallen på Lade](https://goo.gl/maps/Y3Awn3ZBWRo)**
 
