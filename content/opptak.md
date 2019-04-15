@@ -3,7 +3,7 @@ title: "Opptak"
 draft: false
 ---
 
-Neste opptak: August/september 2019
+Neste opptak: **August/september 2019**
 
 ## Litt info om Casual Gaming
 
