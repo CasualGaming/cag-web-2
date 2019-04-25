@@ -151,7 +151,7 @@ googleAnalytics = "UA-138227770-1"
 
     [[params.footer.social]]
       icon = "fab fa-discord"
-      url= "https://discord.gg/TENjrqs"
+      url= "https://link.casualgaming.no/discord"
       label = "Discord"
 
     [[params.footer.social]]
@@ -191,4 +191,4 @@ googleAnalytics = "UA-138227770-1"
       text = "Drevet av [Hugo](https://gohugo.io/) med temaet [Fifty](https://github.com/CasualGaming/fifty)"
 
     [[params.footer.line]]
-      text = "[Kildekode](https://github.com/CasualGaming/cag-web-2)"
+      text = "[cag-web-2](https://github.com/CasualGaming/cag-web-2)"
