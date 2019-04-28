@@ -20,7 +20,7 @@ deploy:
   provider: pages
   on:
     branch: master
-    type = push
+    type: push
   repo: CasualGaming/casualgaming.github.io
   target_branch: master
   local_dir: build
