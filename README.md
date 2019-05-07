@@ -15,7 +15,7 @@ Static Hugo website built by Travis CI and served by GitHub Pages.
 * `themes/`: Contains the theme (after you've run `update-submodules.sh`).
 * `layouts/`: Overrides or extensions for themes.
 * `extra/`: Extra files, not used to build the site.
-* `manage`: Development scripts.
+* `manage/`: Development scripts.
 * `config.toml`: Config file for the site, contains front page content as well.
 
 ## Scripts
