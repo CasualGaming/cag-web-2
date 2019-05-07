@@ -102,7 +102,7 @@ googleAnalytics = "UA-138227770-1"
   [params.about]
     enable = true
     title = "Casual Gaming"
-    subtitle = """Casual Gaming er en ideell studentorganisasjon som har til formål
+    subtitle = """Casual Gaming er en ideell student- og ungdomsorganisasjon som har til formål
       å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
       Les mer om oss [her](/om)."""
 
