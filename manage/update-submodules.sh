@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 set -eu
 
@@ -12,4 +12,3 @@ git submodule update --init --recursive --force
 cd "themes/$THEME"
 git fetch
 git checkout --force master
-cd ../..

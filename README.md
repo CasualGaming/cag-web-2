@@ -13,20 +13,27 @@ Static Hugo website built by Travis CI and served by GitHub Pages.
 * `content/`: Web pages.
 * `static/`: Static files placed in the web root of the built site.
 * `themes/`: Contains the theme (after you've run `update-submodules.sh`).
-* `archetypes/`, `data/`, `layouts/`: Templates, don't change these.
+* `layouts/`: Overrides or extensions for themes.
 * `extra/`: Extra files, not used to build the site.
+* `manage`: Development scripts.
 * `config.toml`: Config file for the site, contains front page content as well.
-* `run-server.sh`: A script to build and run the site locally with hot reloading.
+
+## Scripts
+* `manage/build.sh`: Build the site.
+* `manage/clean.sh`: Remove all temporary files.
+* `manage/run.sh`: Starts the development server with hot reloading.
+* `manage/update-submodules.sh`: Updates the submodules, including the theme.
 
 ## Online Editing
 Simple content changes and such can be easily changed directly within GitHub.
-When the file is saved/committed, the site is automatically rebuilt and redeployed.
-Make sure the automatic build succeeds ([here](https://travis-ci.com/CasualGaming/cag-web)) and that the site is working after the deployment has finished ([here](https://casualgaming.no)) (at most 5 minutes after committing).
+When the file is committed to master, the site is automatically rebuilt and redeployed.
+Make sure the automatic build succeeds ([here](https://travis-ci.com/CasualGaming/cag-web-2)) and that the site is working after the deployment has finished ([here](https://casualgaming.no)) (at most 5 minutes after committing).
 
 ## Desktop Editing
+Allows you to run the site locally while making changes to either content or the theme.
 
-* Run `./update-submodules.sh` (or `make update-submodules`) to clone the required submodules. This is required when the repo was just cloned or any submodules were updated.
-* Run `./run-server.sh` (or `make server`) to start a development server with hot reloading.
+* Run `manage/update-submodules.sh` to clone the required submodules. This is required when the repo was just cloned or any submodules were updated.
+* Run `manage/run.sh` to start a development server with hot reloading.
 
 ## Tips
 * The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/)

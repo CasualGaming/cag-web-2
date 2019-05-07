@@ -1,9 +1,8 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 set -eu
-shopt -s dotglob
 
-OUT_DIR="server"
+OUT_DIR="build"
 
 # Remove output folder if it exists
 if [ -d "$OUT_DIR" ]; then
