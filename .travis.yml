@@ -4,6 +4,9 @@
 # - DOCKER_REPO
 # - DOCKER_USER (secure)
 # - DOCKER_PASSWORD (secure)
+# - SSH_HOST
+# - SSH_USER
+# - (automatic encryption keys) (secure)
 
 dist: xenial
 language: minimal
@@ -11,17 +14,26 @@ language: minimal
 services:
   - docker
 
-# Build Docker image
-script:
-- docker build -t "$DOCKER_REPO:latest" .
+stages:
+  - deploy-repo
+  - deploy-server
 
-# Deploy to Ducker Hub
-before_deploy:
-  - echo "$DOCKER_PASSWORD" | docker login --username "$DOCKER_USER" --password-stdin
-deploy:
-  provider: script
-  on:
-    branch: master
-    type: push
-  skip_cleanup: true
-  script: docker push "$DOCKER_REPO:latest"
+jobs:
+  include:
+    # Stage: Build and deploy til repo
+    - stage: deploy-repo
+      name: Build image
+      script: docker build -t "$DOCKER_REPO:latest" .
+    - stage: deploy-repo
+      name: Deploy to repo
+      if: branch = master AND type = push
+      install: echo "$DOCKER_PASSWORD" | docker login --username "$DOCKER_USER" --password-stdin
+      script: docker push "$DOCKER_REPO:latest"
+
+    # Stage: Deploy to server
+    - name: Deploy to server
+      if: branch = master AND type = push
+      install:
+      - openssl aes-256-cbc -K $encrypted_0fb2bd8af0be_key -iv $encrypted_0fb2bd8af0be_iv -in keys/ssh_deploy.key.enc -out keys/ssh_deploy.key -d
+      - chmod 600 keys/ssh_deploy.key
+      script: ssh -oStrictHostKeyChecking=no -i keys/ssh_deploy.key ${SSH_USER}@${SSH_HOST}
