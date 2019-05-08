@@ -17,5 +17,10 @@ mkdir -p web
 chown -R cag-web-2:cag-web-2 web
 chmod 0755 web
 
+# Logs
+mkdir -p log
+chown root:root log
+chmod 0700 log
+
 # Temporaty web root
 rm -rf web.tmp

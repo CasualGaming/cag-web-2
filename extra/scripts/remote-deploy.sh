@@ -7,9 +7,11 @@
 # deploy ALL=(root) NOPASSWD: /srv/cag-web-2/remote-deploy.sh
 
 APP_DIR="/srv/cag-web-2"
-LOG_FILE="remote-deploy.log"
+LOG_FILE="log/remote-deploy.log"
 
 set -eu
 
 cd $APP_DIR
+
+mkdir -p $(dirname $LOG_FILE)
 ./deploy.sh 2>&1 > $LOG_FILE
