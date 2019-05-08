@@ -24,6 +24,7 @@ jobs:
     # Stage: Build
     - stage: Build
       name: Build
+      if: branch != master OR type != push
       script: docker build -t "$DOCKER_REPO:latest" .
 
     # Stage: Deploy to repo
