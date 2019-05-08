@@ -22,8 +22,8 @@ stages:
 jobs:
   include:
     # Stage: Build
-    - stage: Build and deploy to repo
-      name: Build image
+    - stage: Build
+      name: Build
       script: docker build -t "$DOCKER_REPO:latest" .
 
     # Stage: Deploy to repo
