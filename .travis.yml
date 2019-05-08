@@ -1,4 +1,4 @@
-# Travis CI config for cag-web
+# Travis CI config for cag-web-2
 
 # Required env vars:
 # - DOCKER_REPO
