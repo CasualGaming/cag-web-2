@@ -18,11 +18,13 @@ Static Hugo website built by Travis CI and served by GitHub Pages.
 * `manage`: Development scripts.
 * `config.toml`: Config file for the site, contains front page content as well.
 
-## Scripts
+## Scripts and Commands
 * `manage/build.sh`: Build the site.
 * `manage/clean.sh`: Remove all temporary files.
 * `manage/run.sh`: Starts the development server with hot reloading.
 * `manage/update-submodules.sh`: Updates the submodules, including the theme.
+* `docker build -t cag-web-2 .`: (Requires Docker) Build the site in a Docker container.
+* `docker run --rm -p 8080:80 cag-web-2`: (Requires Docker) Run the site in a Docker container (using nginx) and forward port 8080 to it.
 
 ## Online Editing
 Simple content changes and such can be easily changed directly within GitHub.

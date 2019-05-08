@@ -27,7 +27,7 @@ googleAnalytics = "UA-138227770-1"
 
   # 404 error customization
   [params.error404]
-    heading = "Siden kunne ikke finnes"
+    heading = "Siden finnes ikke"
     text = "Vennligst [gå hjem](/)."
 
   # Navigation Section
@@ -41,27 +41,27 @@ googleAnalytics = "UA-138227770-1"
 
     [[params.navigation.links]]
       name = "Om oss"
-      url = "/om"
+      url = "/om/"
 
     [[params.navigation.links]]
       name = "TrøndeLAN"
-      url = "/trondelan"
+      url = "/trondelan/"
 
     [[params.navigation.links]]
       name = "StudLAN"
-      url = "/studlan"
+      url = "/studlan/"
 
     [[params.navigation.links]]
       name = "Spillkvelder"
-      url = "/spillkvelder"
+      url = "/spillkvelder/"
 
     [[params.navigation.links]]
       name = "For bedrifter"
-      url = "/for-bedrifter"
+      url = "/for-bedrifter/"
 
     [[params.navigation.links]]
       name = "Opptak"
-      url = "/opptak"
+      url = "/opptak/"
 
   # Banner section
   [params.banner]
@@ -77,26 +77,26 @@ googleAnalytics = "UA-138227770-1"
       title = "TrøndeLAN"
       subtitle = "Et LAN-party for alle"
       image = "/img/home/trondelan.jpg"
-      url = "/trondelan"
+      url = "/trondelan/"
 
     [[params.tiles.showcase]]
       title = "StudLAN"
       subtitle = "Et tradisjonsrikt LAN-party for studenter"
       image = "/img/home/studlan.jpg"
-      url = "/studlan"
+      url = "/studlan/"
 
     [[params.tiles.showcase]]
       title = "Spillkvelder"
       subtitle = "Sosialt og gøy"
       image = "/img/home/konsoll_brett.jpg"
-      url = "/spillkvelder"
+      url = "/spillkvelder/"
 
     [[params.tiles.showcase]]
       title = "Opptak"
       subtitle = "Bli med å arrangere"
       image = "/img/home/bli_med.png"
       constrainImage = true
-      url = "/opptak"
+      url = "/opptak/"
 
   # About section
   [params.about]
