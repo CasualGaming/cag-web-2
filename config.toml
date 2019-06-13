@@ -185,7 +185,7 @@ googleAnalytics = "UA-138227770-1"
       label = "Kontakt"
 
     [[params.footer.line]]
-      text = "Orgnr. 993 396 605"
+      text = "Orgnr. [993 396 605](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=993396605)"
 
     [[params.footer.line]]
       text = "Drevet av [Hugo](https://gohugo.io/) med temaet [Fifty](https://github.com/CasualGaming/fifty)"
