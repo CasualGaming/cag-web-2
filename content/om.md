@@ -3,12 +3,16 @@ title: "Om oss"
 draft: false
 ---
 
-Casual Gaming er en ideell studentorganisasjon som har til formål å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi arrangerer konsoll- og brettspillkvelder og to årlige LAN-parties i året (StudLAN) for studenter, samt et større LAN-party årlig som er åpent for alle (TrøndeLAN). Alle våre arrangementer er rusfrie. Vi er medlemsforening i [Hyperion](http://n4f.no/).
+Casual Gaming er en ideell studentorganisasjon som har til formål å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi arrangerer [TrøndeLAN]({{< relref "trondelan.md" >}}) – et LAN-party for alle – hver høst. For studenter ved NTNU arrangerer vi [konsoll- og brettspillkvelder]({{< relref "spillkvelder.md" >}}) med jevne mellomrom og [StudLAN]({{< relref "studlan.md" >}}) hvert semester. Alle våre arrangementer er rusfrie. Vi er medlemsforening i [Hyperion](http://n4f.no/).
+
+ Vi arrangerer [konsoll- og brettspillkvelder]({{< relref "spillkvelder.md" >}}) og to årlige LAN-parties i året (StudLAN) for studenter, samt et større LAN-party årlig som er åpent for alle (TrøndeLAN). Alle våre arrangementer er rusfrie. Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/) og samarbeider med [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/).
 
 ## Historie
 Casual Gaming ble grunnlagt i 2008 ved Vestnes, Møre og Romsdal. I 2012 ble Casual Gaming slått sammen med interessegruppen StudLAN, som besto av studenter fra linjene Informatikk, Matematikk, Fysikk og Matematikk og Energi og Miljø ved NTNU Trondheim. I dag drives organisasjonen på frivillig basis av studenter med forskjellig faglig bakgrunn fra NTNU. Organisasjonen er ideell (non-profit) og all sponsorstøtte og evt. overskudd fra arrangementer går tilbake til å forbedre fremtidige arrangementer. I 2015 hadde organisasjonen over 400 betalende medlemmer.
 
 ## Crew
+Crew-et består av 6 crew-grupper:
+
 ### Coord
 Coord er en koordineringsgruppe som har ansvaret for å koordinere de andre crewene for å gjennomføre arrangement så effektivt som mulig. Coord er blant annet ansvarlig for booking av lokale, sponsorer, vakthold og organisering av rydding før, under og etter arrangementet.
 
@@ -23,6 +27,24 @@ Game er ansvarlig for alle konkurransene som blir holdt på arrangementene våre
 
 ### Care
 Care er ansvarlig for å skape trivsel for deltakere og crew under arrangementer, samt ansvarlig for drift av kiosk.
+
+### Event
+Event består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
+
+## Styret
+Styret valgt av årsmøtet 2019 og følgende styremøter:
+
+- Styreleder: Tobias Ingebrigt Ørstad
+- Styrenestleder: Mathias Flått
+- Økonomiansvarlig: Lars Erik Græsdal-Knutrud
+- Leder for Coord: Sondre Wedding Nyheim
+- Leder for Info: Per Morten Solheim
+- Leder for Tech: Håvard Ose Nordstrand
+- Leder for Game: Mangler, tidligere Rikke Adelén Ditlevsen
+- Leder for Care: Mangler, Kristoffer Lehre Fagerheim som stedfortreder
+
+## Vedtekter og dokumenter
+Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer kan kreve innsyn i organisasjonens regnskap og ikke-konfidensielle vedtak ved å kontakte [Styret](mailto:styret@casualgaming.no).
 
 ## Mediaoppmerksomhet
 * 9. okt. 2015, [Gamer.no: TrøndeLAN åpner dørene for alle denne helgen](https://www.gamer.no/artikler/trondelan-apner-dorene-for-alle/193159)
