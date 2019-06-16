@@ -1,10 +1,10 @@
 # Site settings
 # Needs to be an absolute prefix
 baseURL = "/"
-languageCode = "en-us"
 title = "Casual Gaming "
 theme = "fifty"
 enableEmoji = true
+DefaultContentLanguage = "no"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-138227770-1"
@@ -56,8 +56,8 @@ googleAnalytics = "UA-138227770-1"
       url = "/spillkvelder/"
 
     [[params.navigation.links]]
-      name = "For bedrifter"
-      url = "/for-bedrifter/"
+      name = "For sponsorer"
+      url = "/for-sponsorer/"
 
     [[params.navigation.links]]
       name = "Opptak"

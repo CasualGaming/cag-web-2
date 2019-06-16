@@ -14,7 +14,7 @@ Neste opptak: **August/september 2019**
 
 Mer info kan finnes [her](/om/).
 
-## Litt info om crew
+## Litt info om crew-ene
 
 - Coord: Ansvar for sponsorer, logistikk og lokaler
 - Info: Ansvarlig for promotering, sosiale medier osv.

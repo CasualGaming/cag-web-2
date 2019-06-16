@@ -31,7 +31,7 @@ When the file is committed to master, the site is automatically rebuilt and rede
 Make sure the automatic build succeeds ([here](https://travis-ci.com/CasualGaming/cag-web-2)) and that the site is working after the deployment has finished ([here](https://casualgaming.no)) (at most 5 minutes after committing).
 
 ## Desktop Editing
-Allows you to run the site locally while making changes to either content or the theme.
+Requires [Hugo](https://gohugo.io/). Allows you to run the site locally while making changes.
 
 * Run `manage/update-submodules.sh` to clone the required submodules. This is required when the repo was just cloned or any submodules were updated.
 * Run `manage/run.sh` to start a development server with hot reloading.
