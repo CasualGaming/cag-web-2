@@ -44,6 +44,6 @@ Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
 
 Vi prosesserer søknadene først etter søknadsfristen er utgått. Aktuelle kandidater kalles inn til intervju. Etter intervjuene bestemmer vi hvilke av kandidatene som er mest aktuelle for Casual Gaming.
 
-**Søknadsfrist for Event-guppen**: Helst to uker før TrøndeLAN, men vi godtar søknader senere også.
+**Søknadsfrist for Event-guppen**: Helst minst en uke før TrøndeLAN.
 
 **Søknadsfrist for ordinært crew**: TBD
