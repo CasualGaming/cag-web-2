@@ -109,14 +109,21 @@ googleAnalytics = "UA-138227770-1"
   # Sponsor section
   [params.sponsors]
     enable = true
-    title = "Sponsorer og samarbeidspartnere"
+    title = "Samarbeidspartnere og sponsorer"
 
     [[params.sponsors.sponsor]]
-      image = "/img/sponsors/hyperion_white.png"
-      alt = "Hyperion"
+      image = "/img/sponsors/hyperion.png"
+      alt = "Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser"
       backgroundColor = ""
       url = "http://n4f.no/"
       description = "Vi er medlemsforening i Hyperion"
+
+    [[params.sponsors.sponsor]]
+      image = "/img/sponsors/online.png"
+      alt = "Online, linjeforeningen for informatikk ved NTNU"
+      backgroundColor = ""
+      url = "http://n4f.no/"
+      description = "Vi er tilknyttet Online, linjeforeningen for informatikk ved NTNU"
 
     [[params.sponsors.sponsor]]
       image = "/img/sponsors/terrahost.png"
@@ -177,7 +184,7 @@ googleAnalytics = "UA-138227770-1"
     [[params.footer.social]]
       icon = "fas fa-life-ring"
       url= "mailto:support@casualgaming.no"
-      label = "Støtte"
+      label = "Brukerstøtte"
 
     [[params.footer.social]]
       icon = "fas fa-envelope"
