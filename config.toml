@@ -123,7 +123,7 @@ googleAnalytics = "UA-138227770-1"
       alt = "Online, linjeforeningen for informatikk ved NTNU"
       backgroundColor = ""
       url = "http://n4f.no/"
-      description = "Vi er tilknyttet Online, linjeforeningen for informatikk ved NTNU"
+      description = "Vi har tilknytning til Online, linjeforeningen for informatikk ved NTNU"
 
     [[params.sponsors.sponsor]]
       image = "/img/sponsors/terrahost.png"
