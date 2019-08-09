@@ -3,9 +3,9 @@ title: "Opptak"
 draft: false
 ---
 
-Neste opptak for Event-gruppen: **September/oktober**
-
 Neste opptak for ordinært crew: **Nå!**
+
+Neste opptak for Event-gruppen: **September/oktober**
 
 ## Litt info om Casual Gaming
 
@@ -45,6 +45,6 @@ Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
 
 Vi prosesserer søknadene først etter søknadsfristen er utgått. Aktuelle kandidater kalles inn til intervju. Etter intervjuene bestemmer vi hvilke av kandidatene som er mest aktuelle for Casual Gaming.
 
-Søknadsfrist for Event-guppen: **Helst minst en uke før TrøndeLAN.**
-
 Søknadsfrist for ordinært crew: **15. september 2019 (foreløpig)**
+
+Søknadsfrist for Event-guppen: **Helst minst en uke før TrøndeLAN.**
