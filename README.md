@@ -1,12 +1,7 @@
-# CaG Web II
-
 [![Build Status](https://travis-ci.com/CasualGaming/cag-web-2.svg?branch=master)](https://travis-ci.com/CasualGaming/cag-web-2)
-![Source size](https://img.shields.io/github/repo-size/CasualGaming/cag-web-2.svg?label=source%20size)
-![Build size](https://img.shields.io/github/repo-size/CasualGaming/casualgaming.github.io.svg?label=build%20size)
 
-Static Hugo website.
-
-* Theme: [CasualGaming/fifty](https://github.com/CasualGaming/fifty)
+# CaG Web II
+Static Hugo website, using theme [CasualGaming/fifty](https://github.com/CasualGaming/fifty).
 
 ## Project Structure
 * `content/`: Web pages.
