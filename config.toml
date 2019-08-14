@@ -130,7 +130,7 @@ googleAnalytics = "UA-138227770-1"
       alt = "Terrahost"
       backgroundColor = ""
       url = "https://terrahost.no/"
-      description = "Støtter oss med en dedikert server for nettstedene våre"
+      description = "Terrahost støtter oss med en dedikert server for nettstedene våre"
 
 #    [[params.sponsors.sponsor]]
 #      image = "/img/logo.png"
