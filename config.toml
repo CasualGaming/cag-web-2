@@ -113,10 +113,10 @@ googleAnalytics = "UA-138227770-1"
 
     [[params.sponsors.sponsor]]
       image = "/img/sponsors/hyperion.png"
-      alt = "Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser"
+      alt = "Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
       backgroundColor = ""
       url = "http://n4f.no/"
-      description = "Vi er medlemsforening i Hyperion"
+      description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
     [[params.sponsors.sponsor]]
       image = "/img/sponsors/online.png"
@@ -175,6 +175,11 @@ googleAnalytics = "UA-138227770-1"
       icon = "fab fa-instagram"
       url= "https://www.instagram.com/casualgamingno"
       label = "Instagram"
+
+    [[params.footer.social]]
+      icon = "fab fa-snapchat"
+      url= "https://www.snapchat.com/add/casualgamingno"
+      label = "Snapchat"
 
     [[params.footer.social]]
       icon = "fab fa-github"
