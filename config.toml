@@ -25,6 +25,15 @@ googleAnalytics = "UA-138227770-1"
   custom_css = []
   custom_js  = []
 
+  # Image used when shared on social media
+  # Unset to disable
+  # All 4 must be provided if enabled
+  # Can be overridden in pages
+  sharingImage = "/img/logo-large.png"
+  sharingImageType = "image/png"
+  sharingImageWidth = "1000"
+  sharingImageHeight = "1000"
+
   # 404 error customization
   [params.error404]
     heading = "Siden finnes ikke"
