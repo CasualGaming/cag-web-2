@@ -1,6 +1,6 @@
 ---
 title: "StudLAN"
-draft: false
+description: "Student-LAN ved NTNU Gløshaugen."
 ---
 **[studlan.no](https://studlan.no)**
 

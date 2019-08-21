@@ -1,6 +1,6 @@
 ---
 title: "TrøndeLAN"
-draft: false
+description: "Trondheims største LAN-party."
 ---
 **[trondelan.no](https://trondelan.no/)**
 

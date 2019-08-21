@@ -1,6 +1,6 @@
 ---
 title: "Opptak"
-draft: false
+description: "Opptak til crew."
 ---
 
 Neste opptak for ordinært crew: **Nå!**

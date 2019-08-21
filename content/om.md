@@ -1,6 +1,6 @@
 ---
 title: "Om oss"
-draft: false
+description: "Om organisasjonen, historien, crew-gruppene og annen info."
 ---
 
 Casual Gaming er en ideell studentorganisasjon som har til formål å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi arrangerer [TrøndeLAN]({{< relref "trondelan.md" >}}) – et LAN-party for alle – hver høst. For studenter ved NTNU arrangerer vi [konsoll- og brettspillkvelder]({{< relref "spillkvelder.md" >}}) med jevne mellomrom og [StudLAN]({{< relref "studlan.md" >}}) hvert semester. Alle våre arrangementer er rusfrie. Vi er medlemsforening i [Hyperion](http://n4f.no/).
