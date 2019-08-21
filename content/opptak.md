@@ -35,15 +35,11 @@ Søknaden bør inneholde litt om følgende:
 
 - Hvem er du?
 - Hva er motivasjon din for å søke?
-- Har du relevant kunnskap, erfaring eller andre ting å bidra med? Vi setter ingen krav, men eksempelvis kunnskap om økonomi, sponsing, PR, spillkonkurranser, serverdrifting, utvikling kan være nyttig for oss.
 - Hvilke crew-grupper høres interessante ut for deg? Hvis du søker for Event-gruppen, nevn gjerne hvilken av de andre gruppene du ønsker å bistå under arrangementet.
 - Har du andre jobber og verv? Crew-medlemskap i Casual Gaming tar ikke mye av tiden din og kan fint kombineres med andre verv o.l., men vi forventer du har tid når det kreves.
 - Har du mulighet til å stille ved StudLAN og TrøndeLAN?
-- Er du lett å nå på kommunikasjonsplattformer som e-post, Discord, Slack og/eller Facebook?
 
 Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
-
-Vi prosesserer søknadene først etter søknadsfristen er utgått. Aktuelle kandidater kalles inn til intervju. Etter intervjuene bestemmer vi hvilke av kandidatene som er mest aktuelle for Casual Gaming.
 
 Søknadsfrist for ordinært crew: **15. september 2019 (foreløpig)**
 
