@@ -178,7 +178,7 @@ googleAnalytics = "UA-138227770-1"
     [[params.footer.social]]
       icon = "fab fa-youtube"
       #url = "https://www.youtube.com/channel/UCwE4Udkp8A881Dfvbfa6KLQ"
-      url = https://www.youtube.com/user/studlanNTNU/
+      url = "https://www.youtube.com/user/studlanNTNU/"
       label = "YouTube"
 
     [[params.footer.social]]
