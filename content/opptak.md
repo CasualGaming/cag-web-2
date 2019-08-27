@@ -41,6 +41,6 @@ Søknaden bør inneholde litt om følgende:
 
 Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
 
-Søknadsfrist for ordinært crew: **15. september 2019 (foreløpig)**
+Søknadsfrist for ordinært crew: **~~15.~~ 30. september 2019 (foreløpig)**
 
 Søknadsfrist for Event-guppen: **Helst minst en uke før TrøndeLAN.**
