@@ -43,14 +43,13 @@ Styret valgt av årsmøtet 2019 og følgende styremøter:
 - Leder for Game: Mangler, tidligere Rikke Adelén Ditlevsen
 - Leder for Care: Mangler, Kristoffer Lehre Fagerheim som stedfortreder
 
-(styret at casualgaming.no)
-
 ## Vedtekter og dokumenter
 Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer kan kreve innsyn i organisasjonens regnskap og ikke-konfidensielle vedtak ved å kontakte Styret.
 
 ## Kontakt oss
 
 - Generelle henvendelser: post at casualgaming.no
+- Henvendelser til Styret: styret at casualgaming.no
 - Teknisk støtte: support at casualgaming.no
 - Fakturaer o.l.: okonomi at casualgaming.no
 
