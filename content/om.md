@@ -16,27 +16,17 @@ Crewet består av 6 crew-grupper:
 ### Coord
 Coord er en koordineringsgruppe som har ansvaret for å koordinere de andre crewene for å gjennomføre arrangement så effektivt som mulig. Coord er blant annet ansvarlig for booking av lokale, sponsorer, vakthold og organisering av rydding før, under og etter arrangementet.
 
-(coord at casualgaming.no)
-
 ### Info
 Info er vårt ansikt utad. Dette crewet har ansvaret for alt PR‐arbeid i sammenheng med arrangementene våre. Arbeidet inkluderer, men er ikke begrenset til, bestilling og anskaffelse av plakater, markedsføring, informasjon på nettsider, kommunikasjonskanaler mellom deltakere, og alle former for digitale medier.
-
-(info at casualgaming.no)
 
 ### Tech
 Tech er teknisk ansvarlig for arrangementene våre. Crewet bærer ansvaret for at strøm, nett og teknisk infrastruktur blir satt opp og fungerer som det skal. Crewet har ansvar for å yte brukerstøtte under arrangement dersom de har kapasitet til dette. Crewet har også ansvaret for for drifting av nettstedene våre og utlån av utstyr til medlemmer av Casual Gaming.
 
-(tech at casualgaming.no)
-
 ### Game
 Game er ansvarlig for alle konkurransene som blir holdt på arrangementene våre. Game har ansvar for å sette opp konkurranser og påmelding, og legge alt til rette for at konkurransene blir gjennomført så effektivt og enkelt som mulig for deltakerne.
 
-(game at casualgaming.no)
-
 ### Care
 Care er ansvarlig for å skape trivsel for deltakere og crew under arrangementer, samt ansvarlig for drift av kiosk.
-
-(care at casualgaming.no)
 
 ### Event
 Event består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
