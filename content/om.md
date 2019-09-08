@@ -34,9 +34,9 @@ Event består av medlemmer som tas opp som midlertidig crew for et bestemt event
 ## Styret
 Styret valgt av årsmøtet 2019 og følgende styremøter:
 
-- Styreleder: Tobias Ingebrigt Ørstad (leder at casualgaming.no)
+- Styreleder: Tobias Ingebrigt Ørstad
 - Styrenestleder: Mathias Flått
-- Økonomiansvarlig: Lars Erik Græsdal-Knutrud (okonomi at casualgaming.no)
+- Økonomiansvarlig: Lars Erik Græsdal-Knutrud
 - Leder for Coord: Sondre Wedding Nyheim
 - Leder for Info: Per Morten Solheim
 - Leder for Tech: Håvard Ose Nordstrand
