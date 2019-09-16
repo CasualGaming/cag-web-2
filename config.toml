@@ -125,7 +125,7 @@ googleAnalytics = "UA-138227770-1"
       alt = "Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
       backgroundColor = ""
       url = "http://n4f.no/"
-      description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
+      description = "Vi er stolt medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
     [[params.sponsors.sponsor]]
       image = "/img/sponsors/online.png"
