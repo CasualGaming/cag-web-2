@@ -54,6 +54,9 @@ Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer k
 - Fakturaer o.l.: okonomi at casualgaming.no
 
 ## Mediaoppmerksomhet
-* 9. okt. 2015, [Gamer.no: TrøndeLAN åpner dørene for alle denne helgen](https://www.gamer.no/artikler/trondelan-apner-dorene-for-alle/193159)
-* 11. okt. 2015, [Adresseavisen: Gamerne får testet seg mot de beste](https://www.adressa.no/nyheter/trondheim/2015/10/11/Gamerne-f%C3%A5r-testet-seg-mot-de-beste-11669351.ece)
-* 6. okt. 2017, [Trd.by: Her skal over 130 unge spille, spise og sove i helga](https://trd.by/event/2017/10/06/Her-skal-over-130-unge-spille-spise-og-sove-i-helga-15400017.ece)
+
+- 17. okt. 2019, [Trd.by: Her skal 200 unge spille, spise og sove i helga](https://trd.by/aktuelt/2019/10/17/Her-skal-200-unge-spille-spise-og-sove-i-helga-20159427.ece)
+- 14. okt. 2019, [Nerdeprat (Radio Revolt): Fem år med TrøndeLAN](https://radiorevolt.no/post/fem-ar-med-trndelan)
+- 6. okt. 2017, [Trd.by: Her skal over 130 unge spille, spise og sove i helga](https://trd.by/event/2017/10/06/Her-skal-over-130-unge-spille-spise-og-sove-i-helga-15400017.ece)
+- 11. okt. 2015, [Adresseavisen: Gamerne får testet seg mot de beste](https://www.adressa.no/nyheter/trondheim/2015/10/11/Gamerne-f%C3%A5r-testet-seg-mot-de-beste-11669351.ece)
+- 9. okt. 2015, [Gamer.no: TrøndeLAN åpner dørene for alle denne helgen](https://www.gamer.no/artikler/trondelan-apner-dorene-for-alle/193159)
