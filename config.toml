@@ -121,21 +121,28 @@ googleAnalytics = "UA-138227770-1"
     title = "Samarbeidspartnere og sponsorer"
 
     [[params.sponsors.sponsor]]
-      image = "/img/sponsors/hyperion.png"
+      image = "/img/partners/hyperion.png"
       alt = "Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
       backgroundColor = ""
       url = "http://n4f.no/"
-      description = "Vi er stolt medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
+      description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
     [[params.sponsors.sponsor]]
-      image = "/img/sponsors/online.png"
+      image = "/img/partners/digitalkultur.png"
+      alt = "Norsk Digital Kultur"
+      backgroundColor = ""
+      url = "http://www.digitalkultur.no/"
+      description = "Vi er medlemsforening i Nork Digital Kultur, særforbundet for digital kultur"
+
+    [[params.sponsors.sponsor]]
+      image = "/img/partners/online.png"
       alt = "Online, linjeforeningen for informatikk ved NTNU"
       backgroundColor = ""
       url = "http://n4f.no/"
       description = "Vi har tilknytning til Online, linjeforeningen for informatikk ved NTNU"
 
     [[params.sponsors.sponsor]]
-      image = "/img/sponsors/terrahost.png"
+      image = "/img/partners/terrahost.png"
       alt = "Terrahost"
       backgroundColor = ""
       url = "https://terrahost.no/"
