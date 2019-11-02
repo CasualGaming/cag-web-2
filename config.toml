@@ -65,8 +65,8 @@ googleAnalytics = "UA-138227770-1"
       url = "/spillkvelder/"
 
     [[params.navigation.links]]
-      name = "For sponsorer"
-      url = "/for-sponsorer/"
+      name = "For samarbeidspartnere"
+      url = "/for-samarbeidspartnere/"
 
     [[params.navigation.links]]
       name = "Opptak"
@@ -115,46 +115,46 @@ googleAnalytics = "UA-138227770-1"
       å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
       Les mer om oss [her](/om)."""
 
-  # Sponsor section
-  [params.sponsors]
+  # Partner section
+  [params.partners]
     enable = true
-    title = "Samarbeidspartnere og sponsorer"
+    title = "Samarbeidspartnere"
 
-    [[params.sponsors.sponsor]]
+    [[params.partners.partner]]
       image = "/img/partners/hyperion.png"
       alt = "Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
       backgroundColor = ""
       url = "http://n4f.no/"
       description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
-    [[params.sponsors.sponsor]]
+    [[params.partners.partner]]
       image = "/img/partners/digitalkultur.png"
       alt = "Norsk Digital Kultur"
       backgroundColor = ""
       url = "http://www.digitalkultur.no/"
-      description = "Vi er medlemsforening i Nork Digital Kultur, særforbundet for digital kultur"
+      description = "Vi er medlemsforening i Nork Digital Kultur"
 
-    [[params.sponsors.sponsor]]
+    [[params.partners.partner]]
       image = "/img/partners/online.png"
       alt = "Online, linjeforeningen for informatikk ved NTNU"
       backgroundColor = ""
       url = "http://n4f.no/"
       description = "Vi har tilknytning til Online, linjeforeningen for informatikk ved NTNU"
 
-    [[params.sponsors.sponsor]]
+    [[params.partners.partner]]
       image = "/img/partners/terrahost.png"
       alt = "Terrahost"
       backgroundColor = ""
       url = "https://terrahost.no/"
       description = "Terrahost støtter oss med en dedikert server for nettstedene våre"
 
-#    [[params.sponsors.sponsor]]
+#    [[params.partners.partner]]
 #      image = "/img/logo.png"
 #      alt = "AAAaaa"
 #      url = "https://example.net/"
 #      description = "Støtter oss med en dedikert server for nettstedene våre"
 
-#    [[params.sponsors.sponsor]]
+#    [[params.partners.partner]]
 #      image = ""
 #      alt = "BBBbbb"
 #      url = "https://example.net/"
