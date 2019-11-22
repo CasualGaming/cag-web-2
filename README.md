@@ -34,4 +34,4 @@ Requires [Hugo](https://gohugo.io/). Allows you to run the site locally while ma
 
 ## Tips
 * The favicons were generated using [Favicon Generator. For real.](https://realfavicongenerator.net/)
-* Images can be compressed (esp. JPEGs), for instance with [Compress JPEG Images Onlinedocker run --rm -p 8080:80 cag-web-2: (Requires Docker) Run the site in a Docker container (using nginx) and forward port 8080 to it.](https://compressjpeg.com/) at 75% quality.
+* Images can be compressed (esp. JPEGs), for instance with [Compress JPEG Images Online](https://compressjpeg.com/) at 75% quality.
