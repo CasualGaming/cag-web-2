@@ -14,7 +14,7 @@ Mer info kan finnes [her](/om/).
 
 ## Litt info om crew-gruppene
 
-- Event: Består av midlertidige crew-medlemmer som tas opp i forbindelse med et enkelt arrangement (normalt bare TrøndeLAN). Bistår de andre crew-gruppene under arrangementet.
+- Event: Består av midlertidige crew-medlemmer som tas opp i forbindelse med et enkelt arrangement (normalt bare TrøndeLAN). Gruppen bistår de andre crew-gruppene under arrangementet.
 - Coord: Ansvar for sponsorer, logistikk og lokaler
 - Info: Ansvarlig for promotering, sosiale medier osv.
 - Game: Ansvarlig for konkurranser på arrangementer
@@ -29,7 +29,7 @@ Vi ser etter alle som har interesse for å arrangere LAN-parties, spillkvelder o
 ## Søknad for Event-crew
 Fyll ut og send søknadsskjemaet under. Skjemaet vil fungere som opptaksintervju slik du slipper å møte opp på et fysisk intervju, så skriv gjerne litt ekstra på svarene. Spørsmål og lignende kan sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
 
-Søknadsskjema: [Event-crew for TrøndeLAN 2019](https://forms.gle/UEAfsALbM11GgGku8)
+Søknadsskjema: **TODO** (Send gjerne en e-post hvis du vil søke før skjemaet blir lagt ut.)
 
 Søknadsfrist: En uke før TrøndeLAN. (Men vi kan godta søknader etter også.)
 
