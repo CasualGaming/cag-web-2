@@ -132,7 +132,7 @@ googleAnalytics = "UA-138227770-1"
       alt = "Norsk Digital Kultur"
       backgroundColor = ""
       url = "http://www.digitalkultur.no/"
-      description = "Vi er medlemsforening i Norsk Digital Kultur"
+      description = "Vi er medlemsforening i Norsk Digital Kultur – Særforbundet for digital kultur i Hyperion"
 
     [[params.partners.partner]]
       image = "/img/partners/online.png"
