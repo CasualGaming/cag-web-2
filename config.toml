@@ -193,15 +193,20 @@ googleAnalytics = "UA-138227770-1"
       url = "https://www.instagram.com/casualgamingno"
       label = "Instagram"
 
-    [[params.footer.social]]
-      icon = "fab fa-snapchat"
-      url = "https://www.snapchat.com/add/casualgamingno"
-      label = "Snapchat"
+    #[[params.footer.social]]
+    #  icon = "fab fa-snapchat"
+    #  url = "https://www.snapchat.com/add/casualgamingno"
+    #  label = "Snapchat"
 
     [[params.footer.social]]
       icon = "fab fa-github"
       url = "https://www.github.com/CasualGaming"
       label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fas fa-monitor-heart-rate"
+      url = "https://status.casualgaming.no/"
+      label = "Status"
 
     [[params.footer.social]]
       icon = "fas fa-life-ring"
@@ -217,7 +222,7 @@ googleAnalytics = "UA-138227770-1"
       text = "Orgnr. [993 396 605](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=993396605)"
 
     [[params.footer.line]]
-      text = "Drevet av [Hugo](https://gohugo.io/) med temaet [Fifty](https://github.com/CasualGaming/fifty)"
+      text = "[cag-web-2](https://github.com/CasualGaming/cag-web-2)"
 
     [[params.footer.line]]
-      text = "[cag-web-2](https://github.com/CasualGaming/cag-web-2)"
+      text = "Drevet av [Hugo](https://gohugo.io/) med temaet [Fifty](https://github.com/CasualGaming/fifty)"
