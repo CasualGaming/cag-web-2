@@ -204,7 +204,7 @@ googleAnalytics = "UA-138227770-1"
       label = "GitHub"
 
     [[params.footer.social]]
-      icon = "fas fa-monitor-heart-rate"
+      icon = "fas fa-heartbeat"
       url = "https://status.casualgaming.no/"
       label = "Status"
 
