@@ -32,7 +32,7 @@ Care er ansvarlig for å skape trivsel for deltakere og crew under arrangementer
 Event består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
 
 ## Styret
-Styret valgt av årsmøtet 2019 og følgende styremøter:
+Styret 2019:
 
 - Styreleder: Tobias Ingebrigt Ørstad
 - Styrenestleder: Mathias Flått
@@ -41,7 +41,7 @@ Styret valgt av årsmøtet 2019 og følgende styremøter:
 - Leder for Info: Per Morten Solheim
 - Leder for Tech: Håvard Ose Nordstrand
 - Leder for Game: Mangler, tidligere Rikke Adelén Ditlevsen
-- Leder for Care: Mangler, Kristoffer Lehre Fagerheim som stedfortreder
+- Leder for Care: Julie Haukland, tidligere Kristoffer Lehre Fagerheim som stedfortreder
 
 ## Vedtekter og dokumenter
 Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer kan kreve innsyn i organisasjonens regnskap og ikke-konfidensielle vedtak ved å kontakte Styret.
