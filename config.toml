@@ -76,7 +76,7 @@ googleAnalytics = "UA-138227770-1"
   [params.banner]
     bannerImage = "/img/home/banner.jpg"
     logoImage = "/img/logo-text.png"
-    subtitle = "For spillinteresserte i Trondheim"
+    subtitle = "Datastreff og spillkvelder i Trondheim"
 
   # Tiles Section
   [params.tiles]
