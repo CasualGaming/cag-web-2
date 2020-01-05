@@ -19,7 +19,7 @@ googleAnalytics = "UA-138227770-1"
 
   # Provide your metadata here.
   name = "Casual Gaming"
-  description = "Datastreff og spillkvelder"
+  description = "Datastreff og spillkvelder i Trondheim"
 
   # Link custom assets relative to /static
   custom_css = []
