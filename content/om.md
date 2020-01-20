@@ -17,7 +17,8 @@ Crewet består av 6 crew-grupper:
 - **Care** er ansvarlig for å skape trivsel for deltakere og crew under arrangementer, samt ansvarlig for drift av kiosk.
 - **Event** består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
 
-## Styret (2019)
+## Styret
+Styret 2019-2020:
 
 - Styreleder: Tobias Ingebrigt Ørstad
 - Styrenestleder: Mathias Flått
