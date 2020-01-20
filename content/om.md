@@ -44,7 +44,7 @@ Casual Gaming ble grunnlagt i 2008 ved Vestnes i Møre og Romsdal av en vennegje
 StudLAN har blitt arrangert av StudLAN-gruppen og deretter Casual Gaming hvert semester fra 2012 til 2017 i P15 ved NTNU Gløshaugen med typisk rundt 50-200 deltagere. I 2018 ble det ikke arrangert grunnet blant annet ombygging i P15. I 2019 ble det arrangert igjen i A4 i Realfagbygget.
 
 ### TrøndeLAN
-I 2014 arrangerte Casual Gaming StudentLAN i Autronicahallen på Lade. Arrangementet var eksklusivt for studenter. I 2015 ble TrøndeLAN arrangert for første gang. Likt StudentLAN ble det arrangert i Autronicahallen, men åpent for offentligheten.
+I 2014 arrangerte Casual Gaming StudentLAN i Autronicahallen på Lade, som var et LAN-party eksklusivt for studenter. I 2015 ble TrøndeLAN arrangert for første gang. Det ble arrangert i Autronicahallen, men ulikt StudentLAN var det åpent for offentligheten. Det har siden vært arrangert hvert år rundt høstferien og er hovedarrangementet vårt.
 
 ## Vedtekter og dokumenter
 Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer kan kreve innsyn i organisasjonens regnskap og ikke-konfidensielle vedtak ved å kontakte Styret.
