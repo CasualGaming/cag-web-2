@@ -3,16 +3,16 @@ title: "Opptak"
 description: "Bli med på å arrangere."
 ---
 
-## Litt info om Casual Gaming
+## Kort om Casual Gaming
 
 - Frivillig student- og ungdomsorganisasjon.
-- Arrangerer årlig TrøndeLAN – Trondheims største lanparty.
+- Arrangerer årlig TrøndeLAN – Trondheims største LAN-party.
 - Arrangerer StudLAN hvert semesteret på NTNU Gløshaugen.
 - Arrangerer konsoll- og brettspillkvelder.
 
 Mer info kan finnes [her](/om/).
 
-## Litt info om crew-gruppene
+## Kort om crew-gruppene
 
 - Event: Består av midlertidige crew-medlemmer som tas opp i forbindelse med et enkelt arrangement (normalt bare TrøndeLAN). Gruppen bistår de andre crew-gruppene under arrangementet.
 - Coord: Ansvar for sponsorer, logistikk og lokaler
@@ -24,14 +24,7 @@ Mer info kan finnes [her](/om/).
 - Alle crew-gruppene utenom Event har aldersgrense på 18 år.
 
 ## Hvem vi ser etter
-Vi ser etter alle som har interesse for å arrangere LAN-parties, spillkvelder og andre spillrelaterte arrangementer. Å være crew i Casual Gaming krever ikke mye av tiden din, men vi forventer du har tid til å hjelpe til når det kreves, hovedsakelig ifm. TrøndeLAN og StudLAN. Selv om noen av arrangementene våre er NTNU-eksklusive, så setter vi ingen krav om at crew-medlemmer må være tilknyttet NTNU.
-
-## Søknad for Event-crew
-Fyll ut og send søknadsskjemaet under. Skjemaet vil fungere som opptaksintervju slik du slipper å møte opp på et fysisk intervju, så skriv gjerne litt ekstra på svarene. Spørsmål og lignende kan sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
-
-Søknadsskjema: **TODO** (Send gjerne en e-post hvis du vil søke før skjemaet blir lagt ut.)
-
-Søknadsfrist: En uke før TrøndeLAN. (Men vi kan godta søknader etter også.)
+Vi ser etter alle som har interesse for å arrangere LAN-parties, spillkvelder og andre spillrelaterte arrangementer. Å være crew i Casual Gaming krever ikke mye av tiden din og kan veldig fint kombineres med andre verv, men vi forventer du har tid til å hjelpe til når det kreves, hovedsakelig ifm. TrøndeLAN og StudLAN. Selv om noen av arrangementene våre er NTNU-eksklusive, så setter vi ingen krav om at crew-medlemmer må være tilknyttet NTNU.
 
 ## Søknad for ordinært crew
 Søknaden bør inneholde litt om følgende:
@@ -45,3 +38,10 @@ Søknaden bør inneholde litt om følgende:
 Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no). Dersom søknaden blir godtatt kommer vi til å kalle inn til opptaksintervju.
 
 Søknadsfrist: Løpende
+
+## Søknad for Event-crew
+Fyll ut og send søknadsskjemaet under. Skjemaet vil fungere som opptaksintervju slik du slipper å møte opp på et fysisk intervju, så skriv gjerne litt ekstra på svarene. Spørsmål og lignende kan sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
+
+Søknadsskjema: *Kommer* (Send gjerne en e-post hvis du vil søke før skjemaet blir lagt ut.)
+
+Søknadsfrist: En uke før TrøndeLAN. (Men vi kan godta søknader etter også.)
