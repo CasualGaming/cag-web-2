@@ -1,6 +1,6 @@
 ---
 title: "StudLAN"
-description: "Et studentdatatreff ved NTNU Gløshaugen."
+description: "Student-LAN ved NTNU Gløshaugen."
 ---
 **[studlan.no](https://studlan.no)**
 
