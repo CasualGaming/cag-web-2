@@ -2,4 +2,6 @@
 
 set -eu
 
-rm -rf build
+OUT_DIR="build"
+
+rm -rf "$OUT_DIR"
