@@ -4,7 +4,7 @@ FROM ubuntu:bionic AS build
 
 ENV BUILD_DIR=/src
 ENV WEB_DIR=/web
-ENV HUGO_RELEASE=0.54.0
+ENV HUGO_RELEASE=0.63.2
 ENV HUGO_DEB_FILE=https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_${HUGO_RELEASE}_Linux-64bit.deb
 
 WORKDIR $BUILD_DIR
@@ -19,7 +19,7 @@ RUN wget --quiet $HUGO_DEB_FILE -O /tmp/hugo.deb
 RUN dpkg -i /tmp/hugo.deb
 
 # Build site
-RUN hugo -v -s . -d $WEB_DIR
+RUN hugo -v --minify -s . -d $WEB_DIR
 RUN echo "Output size: $(du -sh ${WEB_DIR})"
 
 ## Final stage
