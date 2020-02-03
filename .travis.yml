@@ -22,10 +22,12 @@ stages:
 jobs:
   include:
     - stage: Build only
+      name: Build only
       if: !(branch = master AND type = push)
       script: docker build -t "$DOCKER_REPO:latest" .
 
     - stage: Build and deploy to repo
+      name: Build and deploy to repo
       if: branch = master AND type = push
       install: echo "$DOCKER_PASSWORD" | docker login --username "$DOCKER_USER" --password-stdin
       script:
@@ -33,6 +35,7 @@ jobs:
       - docker push "$DOCKER_REPO:latest"
 
     - stage: Deploy to server
+      name: Deploy to server
       if: branch = master AND type = push
       install:
       - openssl aes-256-cbc -K $encrypted_0fb2bd8af0be_key -iv $encrypted_0fb2bd8af0be_iv -in keys/ssh_deploy.key.enc -out keys/ssh_deploy.key -d
