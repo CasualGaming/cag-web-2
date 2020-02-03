@@ -13,14 +13,14 @@ WORKDIR $BUILD_DIR
 COPY . .
 
 # Install hugo
-RUN apt-get -qq update
-RUN apt-get -qq install -y wget
-RUN wget --quiet $HUGO_DEB_FILE -O /tmp/hugo.deb
-RUN dpkg -i /tmp/hugo.deb
+RUN apt-get -qq update && \
+    apt-get -qq install -y wget && \
+    wget --quiet $HUGO_DEB_FILE -O /tmp/hugo.deb && \
+    dpkg -i /tmp/hugo.deb
 
 # Build site
-RUN hugo -v --minify -s . -d $WEB_DIR
-RUN echo "Output size: $(du -sh ${WEB_DIR})"
+RUN hugo -v --minify -s . -d $WEB_DIR && \
+    echo "Output size: $(du -sh ${WEB_DIR})"
 
 ## Final stage
 FROM nginx:1-alpine
