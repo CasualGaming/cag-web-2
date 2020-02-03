@@ -90,7 +90,7 @@ googleAnalytics = "UA-138227770-1"
 
     [[params.tiles.showcase]]
       title = "StudLAN"
-      subtitle = "Et datatreff ved NTNU Gløshaugen"
+      subtitle = "Student-LAN ved NTNU Gløshaugen"
       image = "/img/home/studlan.jpg"
       url = "/studlan/"
 
