@@ -103,8 +103,7 @@ googleAnalytics = "UA-138227770-1"
     [[params.tiles.showcase]]
       title = "Opptak"
       subtitle = "Bli med på arrangeringen"
-      image = "/img/home/bli_med.png"
-      constrainImage = true
+      image = "/img/home/opptak.jpg"
       url = "/opptak/"
 
   # About section
