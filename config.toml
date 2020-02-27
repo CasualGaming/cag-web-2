@@ -159,6 +159,12 @@ googleAnalytics = "UA-138227770-1"
 #      url = "https://example.net/"
 #      description = "Støtter oss med en dedikert server for nettstedene våre"
 
+  # Grasrotandelen section
+  [params.grasrotandelen]
+    enable = true
+    # "receiver" is the Norwegian org number
+    url = "https://www.norsk-tipping.no/grasrotandelen/stats-iframe?title=lowercase#receiver=993396605"
+
   # Footer section
   [params.footer]
     enable = true
