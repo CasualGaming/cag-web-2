@@ -17,17 +17,14 @@ Crewet består av 6 crew-grupper:
 - **Care** er ansvarlig for å skape trivsel for deltakere og crew under arrangementer, samt ansvarlig for drift av kiosk.
 - **Event** består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
 
-## Styret
-Styret 2019-2020:
+## Styret 2020
 
-- Styreleder: Tobias Ingebrigt Ørstad
-- Styrenestleder: Mathias Flått
-- Økonomiansvarlig: Lars Erik Græsdal-Knutrud
-- Leder for Coord: Sondre Wedding Nyheim
+- Styreleder: Håvard O. Nordstrand
+- Styrenestleder: Tobias I. Ørstad
 - Leder for Info: Per Morten Solheim
-- Leder for Tech: Håvard Ose Nordstrand
-- Leder for Game: Mangler (tidligere Rikke Adelén Ditlevsen)
-- Leder for Care: Julie Haukland (tidligere Kristoffer Lehre Fagerheim som stedfortreder)
+- Leder for Game: Ole Mathias Gullvåg
+
+Øvrige styreverv er overdratt resten av Styret.
 
 ## Mediaoppmerksomhet
 
