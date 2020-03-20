@@ -54,11 +54,13 @@ googleAnalytics = "UA-138227770-1"
 
     [[params.navigation.links]]
       name = "TrøndeLAN"
-      url = "/trondelan/"
+      #url = "/trondelan/"
+      url = "https://trondelan.no"
 
     [[params.navigation.links]]
       name = "StudLAN"
-      url = "/studlan/"
+      #url = "/studlan/"
+      url = "https://studlan.no"
 
     [[params.navigation.links]]
       name = "Spillkvelder"
@@ -86,13 +88,15 @@ googleAnalytics = "UA-138227770-1"
       title = "TrøndeLAN"
       subtitle = "Trondheims største datatreff"
       image = "/img/home/trondelan.jpg"
-      url = "/trondelan/"
+      #url = "/trondelan/"
+      url = "https://trondelan.no"
 
     [[params.tiles.showcase]]
       title = "StudLAN"
       subtitle = "Student-LAN ved NTNU Gløshaugen"
       image = "/img/home/studlan.jpg"
-      url = "/studlan/"
+      #url = "/studlan/"
+      url = "https://studlan.no"
 
     [[params.tiles.showcase]]
       title = "Spillkvelder"
