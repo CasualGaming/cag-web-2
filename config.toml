@@ -41,7 +41,7 @@ googleAnalytics = "UA-138227770-1"
 
   # Navigation Section
   [params.navigation]
-    logo = "logo-text.png"
+    logo = "banner-logo.png"
     menu = "Meny"
 
     [[params.navigation.links]]
@@ -77,7 +77,7 @@ googleAnalytics = "UA-138227770-1"
   # Banner section
   [params.banner]
     bannerImage = "/img/home/banner.jpg"
-    logoImage = "/img/logo-text.png"
+    logoImage = "/img/banner-logo.png"
     subtitle = "Datastreff og spillkvelder i Trondheim"
 
   # Tiles Section
