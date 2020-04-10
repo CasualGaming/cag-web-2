@@ -67,6 +67,10 @@ googleAnalytics = "UA-138227770-1"
       url = "/spillkvelder/"
 
     [[params.navigation.links]]
+      name = "Spillservere"
+      url = "/spillservere/"
+
+    [[params.navigation.links]]
       name = "For samarbeidspartnere"
       url = "/for-samarbeidspartnere/"
 
