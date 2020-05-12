@@ -28,6 +28,7 @@ Crewet består av 6 crew-grupper:
 
 ## Mediaoppmerksomhet
 
+- 11. okt. 2020, [Opdalingen: Spill er en kunstform på lik linje med film og musikk](https://www.opdalingen.no/nyheter/2020/05/11/Spill-er-en-kunstform-p%C3%A5-lik-linje-med-film-og-musikk-21798906.ece)
 - 17. okt. 2019, [Trd.by: Her skal 200 unge spille, spise og sove i helga](https://trd.by/aktuelt/2019/10/17/Her-skal-200-unge-spille-spise-og-sove-i-helga-20159427.ece)
 - 14. okt. 2019, [Nerdeprat (Radio Revolt): Fem år med TrøndeLAN](https://radiorevolt.no/post/fem-ar-med-trndelan)
 - 6. okt. 2017, [Trd.by: Her skal over 130 unge spille, spise og sove i helga](https://trd.by/event/2017/10/06/Her-skal-over-130-unge-spille-spise-og-sove-i-helga-15400017.ece)
