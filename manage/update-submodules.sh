@@ -4,11 +4,13 @@ set -eu
 
 THEME="fifty"
 
-# Update repo with submodules
+echo "Initializing/updating theme submodule ..."
 git fetch
 git submodule update --init --recursive --force
 
-# Update theme to latest version
+echo
+echo "Updating submodule to latest version ..."
 cd "themes/$THEME"
 git fetch
 git checkout --force master
+git pull
