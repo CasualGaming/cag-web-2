@@ -118,7 +118,7 @@ googleAnalytics = "UA-138227770-1"
   [params.about]
     enable = true
     title = "Casual Gaming"
-    subtitle = """Casual Gaming er en ideell student- og ungdomsorganisasjon som har til formål
+    subtitle = """Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til formål
       å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
       **[Les mer om oss her.](/om)**"""
 
@@ -236,6 +236,3 @@ googleAnalytics = "UA-138227770-1"
 
     [[params.footer.line]]
       text = "[cag-web-2](https://github.com/CasualGaming/cag-web-2)"
-
-    [[params.footer.line]]
-      text = "Drevet av [Hugo](https://gohugo.io/) med temaet [Fifty](https://github.com/CasualGaming/fifty)"

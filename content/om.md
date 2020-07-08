@@ -8,6 +8,7 @@ Casual Gaming (forkortet CaG) er en ideell student- og ungdomsorganisasjon som h
 Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/) og samarbeider med [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/).
 
 ## Crew
+
 Crewet består av 6 crew-grupper:
 
 - **Coord** er en koordineringsgruppe som har ansvaret for å koordinere de andre crewene for å gjennomføre arrangement så effektivt som mulig. Coord er blant annet ansvarlig for booking av lokale, sponsorer, vakthold og organisering av rydding før, under og etter arrangementet.
@@ -24,8 +25,6 @@ Crewet består av 6 crew-grupper:
 - Leder for Info: Per Morten Solheim
 - Leder for Game: Ole Mathias Gullvåg
 
-Øvrige styreverv er overdratt resten av Styret.
-
 ## Mediaoppmerksomhet
 
 - 11. okt. 2020, [Opdalingen: Spill er en kunstform på lik linje med film og musikk](https://www.opdalingen.no/nyheter/2020/05/11/Spill-er-en-kunstform-p%C3%A5-lik-linje-med-film-og-musikk-21798906.ece)
@@ -36,15 +35,19 @@ Crewet består av 6 crew-grupper:
 - 9. okt. 2015, [Gamer.no: TrøndeLAN åpner dørene for alle denne helgen](https://www.gamer.no/artikler/trondelan-apner-dorene-for-alle/193159)
 
 ## Historie
+
 Casual Gaming ble grunnlagt i 2008 ved Vestnes i Møre og Romsdal av en vennegjeng for å arrangere interne LAN-parties. Når gjengen begynte å studere forskjellige steder i landet, blant annet ved NTNU i Trondheim, opphørte det meste av aktiviteten. Cirka samtidig som Casual Gaming ble grunnlagt, begynte Online, linjeforeningen for informatikk ved NTNU i Trondheim, å arrangere LAN-partyet OnLAN. Etter studenter fra andre studieprogrammer (matematikk, fysikk og matematikk og energi og miljø) ble med i arrangørgruppen for LAN-et, ble navnet på både LAN-et og arrangørgruppen endret til StudLAN og StudLAN ble en nodekomité/krysskomité under Online. I 2012 gikk StudLAN inn i Casual Gaming og Casual Gaming ble krysskomité i Online med samme formål. Casual Gaming er ikke lenger en krysskomité men har fortsatt vedtektsfestet tilknytning til Online.
 
 ### StudLAN
+
 StudLAN har blitt arrangert av StudLAN-gruppen og deretter Casual Gaming hvert semester fra 2012 til 2017 i P15 ved NTNU Gløshaugen med typisk rundt 50-200 deltagere. I 2018 ble det ikke arrangert grunnet blant annet ombygging i P15. I 2019 ble det arrangert igjen i A4 i Realfagbygget.
 
 ### TrøndeLAN
+
 I 2014 arrangerte Casual Gaming StudentLAN i Autronicahallen på Lade, som var et LAN-party eksklusivt for studenter. I 2015 ble TrøndeLAN arrangert for første gang. Det ble arrangert i Autronicahallen, men ulikt StudentLAN var det åpent for offentligheten. Det har siden vært arrangert hvert år rundt høstferien og er hovedarrangementet vårt.
 
 ## Vedtekter og dokumenter
+
 Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer kan kreve innsyn i organisasjonens regnskap og ikke-konfidensielle vedtak ved å kontakte Styret.
 
 ## Kontakt oss
