@@ -14,9 +14,12 @@ services:
 jobs:
   include:
     - name: Build
+      if: NOT (branch = master AND type = push)
       script: docker build -t "$DOCKER_REPO:latest" .
 
-    - name: Deploy
+    - name: Build and Deploy
       if: branch = master AND type = push
       install: echo "$DOCKER_PASSWORD" | docker login --username "$DOCKER_USER" --password-stdin
-      script: docker push "$DOCKER_REPO:latest"
+      script:
+        - docker build -t "$DOCKER_REPO:latest" .
+        - docker push "$DOCKER_REPO:latest"
