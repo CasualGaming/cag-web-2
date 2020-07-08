@@ -4,9 +4,6 @@
 # - DOCKER_REPO
 # - DOCKER_USER (secure)
 # - DOCKER_PASSWORD (secure)
-# - SSH_HOST
-# - SSH_USER
-# - (automatic encryption keys) (secure)
 
 dist: bionic
 language: minimal
@@ -17,7 +14,6 @@ services:
 stages:
   - Build only
   - Build and deploy to repo
-  - Deploy to server
 
 jobs:
   include:
@@ -33,11 +29,3 @@ jobs:
       script:
       - docker build -t "$DOCKER_REPO:latest" .
       - docker push "$DOCKER_REPO:latest"
-
-    - stage: Deploy to server
-      name: Deploy to server
-      if: branch = master AND type = push
-      install:
-      - openssl aes-256-cbc -K $encrypted_0fb2bd8af0be_key -iv $encrypted_0fb2bd8af0be_iv -in keys/ssh_deploy.key.enc -out keys/ssh_deploy.key -d
-      - chmod 600 keys/ssh_deploy.key
-      script: ssh -oStrictHostKeyChecking=no -i keys/ssh_deploy.key ${SSH_USER}@${SSH_HOST}
