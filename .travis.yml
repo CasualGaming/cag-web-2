@@ -11,21 +11,12 @@ language: minimal
 services:
   - docker
 
-stages:
-  - Build only
-  - Build and deploy to repo
-
 jobs:
   include:
-    - stage: Build only
-      name: Build only
-      if: NOT (branch = master AND type = push)
+    - name: Build
       script: docker build -t "$DOCKER_REPO:latest" .
 
-    - stage: Build and deploy to repo
-      name: Build and deploy to repo
+    - name: Deploy
       if: branch = master AND type = push
       install: echo "$DOCKER_PASSWORD" | docker login --username "$DOCKER_USER" --password-stdin
-      script:
-      - docker build -t "$DOCKER_REPO:latest" .
-      - docker push "$DOCKER_REPO:latest"
+      script: docker push "$DOCKER_REPO:latest"
