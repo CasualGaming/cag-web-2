@@ -9,32 +9,40 @@ ENV HUGO_DEB_FILE=https://github.com/gohugoio/hugo/releases/download/v${HUGO_REL
 
 WORKDIR $BUILD_DIR
 
-# Import everything
-COPY . .
-
 # Install hugo
-RUN apt-get -qq update && \
-    apt-get -qq install -y wget && \
-    wget --quiet $HUGO_DEB_FILE -O /tmp/hugo.deb && \
-    dpkg -i /tmp/hugo.deb
+RUN \
+apt-get -qq update \
+&& apt-get -qq install -y wget \
+&& wget --quiet $HUGO_DEB_FILE -O /tmp/hugo.deb \
+&& dpkg -i /tmp/hugo.deb
 
 # Build site
-RUN hugo -v --minify -s . -d $WEB_DIR && \
-    echo "Output size: $(du -sh ${WEB_DIR})"
+COPY config.toml ./
+COPY themes/ themes/
+COPY content/ content/
+COPY layouts/ layouts/
+COPY static/ static/
+COPY i18n/ i18n/
+RUN \
+hugo -v --minify -s . -d $WEB_DIR \
+&& echo "Output size: $(du -sh ${WEB_DIR})"
 
 ## Final stage
 FROM nginx:1-alpine
 
-ENV BUILD_DIR=/src
-ENV WEB_DIR=/web
-ENV NGINX_WEB_DIR=/usr/share/nginx/html
+ENV WEB_DIR="/web"
+ENV NGINX_WEB_DIR="/usr/share/nginx/html"
 
 # Import and chown webdir from build stage
 COPY --from=build $WEB_DIR $WEB_DIR
 RUN chown -R nginx:nginx $WEB_DIR
 
+# TMP
+RUN cat /etc/nginx/nginx.conf
+
 # nginx server config
-RUN echo $'server {\n\
+RUN echo \
+$'server {\n\
     listen 80;\n\
     server_name localhost;\n\
     location / {\n\

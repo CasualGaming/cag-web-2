@@ -1,6 +1,6 @@
 # Site settings
 # Needs to be an absolute prefix
-baseURL = "https://casualgaming.no/"
+baseURL = "/"
 title = "Casual Gaming "
 theme = "fifty"
 enableEmoji = true
