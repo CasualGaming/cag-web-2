@@ -118,9 +118,12 @@ googleAnalytics = "UA-138227770-1"
   [params.about]
     enable = true
     title = "Casual Gaming"
-    subtitle = """Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til formål
-      å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
-      **[Les mer om oss her.](/om)**"""
+    subtitle = """
+Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til formål
+å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
+
+**[Les mer om oss her.](/om)**
+"""
 
   # Partner section
   [params.partners]
