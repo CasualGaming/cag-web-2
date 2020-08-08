@@ -23,18 +23,6 @@ TrøndeLAN er et datatreff som arrangeres årlig i Trondheim rundt høstferien, 
 
 Se [spillkvelder]({{< relref "spillkvelder.md" >}}).
 
-## Historie
-
-Casual Gaming ble grunnlagt i 2008 ved Vestnes i Møre og Romsdal av en vennegjeng for å arrangere interne LAN-parties. Når gjengen begynte å studere forskjellige steder i landet, blant annet ved NTNU i Trondheim, opphørte det meste av aktiviteten. Cirka samtidig som Casual Gaming ble grunnlagt, begynte Online, linjeforeningen for informatikk ved NTNU i Trondheim, å arrangere LAN-partyet OnLAN. Etter studenter fra andre studieprogrammer (matematikk, fysikk og matematikk og energi og miljø) ble med i arrangørgruppen for LAN-et, ble navnet på både LAN-et og arrangørgruppen endret til StudLAN og StudLAN ble en nodekomité/krysskomité under Online. I 2012 gikk StudLAN inn i Casual Gaming og Casual Gaming ble krysskomité i Online med samme formål. Casual Gaming er ikke lenger en krysskomité men har fortsatt vedtektsfestet tilknytning til Online.
-
-### StudLAN
-
-StudLAN har blitt arrangert av StudLAN-gruppen og deretter Casual Gaming hvert semester fra 2012 til 2017 i P15 ved NTNU Gløshaugen med typisk rundt 50-200 deltagere. I 2018 ble det ikke arrangert grunnet blant annet ombygging i P15. I 2019 ble det arrangert igjen i A4 i Realfagbygget.
-
-### TrøndeLAN
-
-I 2014 arrangerte Casual Gaming StudentLAN i Autronicahallen på Lade, som var et LAN-party eksklusivt for studenter. I 2015 ble TrøndeLAN arrangert for første gang. Det ble arrangert i Autronicahallen, men ulikt StudentLAN var det åpent for offentligheten. Det har siden vært arrangert hvert år rundt høstferien og er hovedarrangementet vårt.
-
 ## Crew
 
 Crewet består av 6 crew-grupper:
@@ -46,9 +34,9 @@ Crewet består av 6 crew-grupper:
 - **Care** er ansvarlig for å skape trivsel for deltakere og crew under arrangementer, samt ansvarlig for drift av kiosk.
 - **Event** består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
 
-## Styret
+### Styret
 
-Styret 2020:
+Styret for 2020-2021:
 
 - Styreleder: Håvard O. Nordstrand
 - Styrenestleder: Tobias I. Ørstad
@@ -68,9 +56,21 @@ Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer k
 - 11\. okt. 2015, [Adresseavisen: Gamerne får testet seg mot de beste](https://www.adressa.no/nyheter/trondheim/2015/10/11/Gamerne-f%C3%A5r-testet-seg-mot-de-beste-11669351.ece)
 - 9\. okt. 2015, [Gamer.no: TrøndeLAN åpner dørene for alle denne helgen](https://www.gamer.no/artikler/trondelan-apner-dorene-for-alle/193159)
 
+## Historie
+
+Casual Gaming ble grunnlagt i 2008 ved Vestnes i Møre og Romsdal av en vennegjeng for å arrangere interne LAN-parties. Når gjengen begynte å studere forskjellige steder i landet, blant annet ved NTNU i Trondheim, opphørte det meste av aktiviteten. Cirka samtidig som Casual Gaming ble grunnlagt, begynte Online, linjeforeningen for informatikk ved NTNU i Trondheim, å arrangere LAN-partyet OnLAN. Etter studenter fra andre studieprogrammer (matematikk, fysikk og matematikk og energi og miljø) ble med i arrangørgruppen for LAN-et, ble navnet på både LAN-et og arrangørgruppen endret til StudLAN og StudLAN ble en nodekomité/krysskomité under Online. I 2012 gikk StudLAN inn i Casual Gaming og Casual Gaming ble krysskomité i Online med samme formål. Casual Gaming er ikke lenger en krysskomité men har fortsatt vedtektsfestet tilknytning til Online.
+
+### StudLAN
+
+StudLAN har blitt arrangert av StudLAN-gruppen og deretter Casual Gaming hvert semester fra 2012 til 2017 i P15 ved NTNU Gløshaugen med typisk rundt 50-200 deltagere. I 2018 ble det ikke arrangert grunnet blant annet ombygging i P15. I 2019 ble det arrangert igjen i A4 i Realfagbygget.
+
+### TrøndeLAN
+
+I 2014 arrangerte Casual Gaming StudentLAN i Autronicahallen på Lade, som var et LAN-party eksklusivt for studenter. I 2015 ble TrøndeLAN arrangert for første gang. Det ble arrangert i Autronicahallen, men ulikt StudentLAN var det åpent for offentligheten. Det har siden vært arrangert hvert år rundt høstferien og er hovedarrangementet vårt.
+
 ## Kontakt oss
 
-- Generelle henvendelser: post at casualgaming.no
-- Henvendelser til Styret: styret at casualgaming.no
-- Teknisk støtte: support at casualgaming.no
-- Fakturaer o.l.: okonomi at casualgaming.no
+- Generelle henvendelser: post (at) casualgaming.no
+- Henvendelser til Styret: styret (at) casualgaming.no
+- Teknisk støtte: support (at) casualgaming.no
+- Økonomi/fakturaer: okonomi (at) casualgaming.no
