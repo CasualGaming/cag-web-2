@@ -209,20 +209,20 @@ Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til for
       url = "https://www.instagram.com/casualgamingno"
       label = "Instagram"
 
-    #[[params.footer.social]]
-    #  icon = "fab fa-snapchat"
-    #  url = "https://www.snapchat.com/add/casualgamingno"
-    #  label = "Snapchat"
+    # [[params.footer.social]]
+    #   icon = "fab fa-snapchat"
+    #   url = "https://www.snapchat.com/add/casualgamingno"
+    #   label = "Snapchat"
 
     [[params.footer.social]]
       icon = "fab fa-github"
       url = "https://www.github.com/CasualGaming"
       label = "GitHub"
 
-    [[params.footer.social]]
-      icon = "fas fa-heartbeat"
-      url = "https://status.casualgaming.no/"
-      label = "Status"
+    # [[params.footer.social]]
+    #   icon = "fas fa-heartbeat"
+    #   url = "https://status.casualgaming.no/"
+    #   label = "Status"
 
     [[params.footer.social]]
       icon = "fas fa-life-ring"
