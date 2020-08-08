@@ -3,7 +3,7 @@ title: "Opptak"
 description: "Bli med på arrangeringen."
 ---
 
-**Merk:** Mye av informasjonen her gjelder i hovedsak for *ordinært crew*, ikke Event-crew. **For spesifikk informasjon for Event-crew, se lenger nede på siden.**
+**Merk:** Informasjonen i starten gjelder hovedsakelig for ordinært crew. Se lenger ned på siden for [Event-crew](#event-crew).
 
 ## Om Casual Gaming
 
