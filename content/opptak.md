@@ -44,6 +44,7 @@ Noen av tingene vi driver med eller ønsker å drive med i større grad er:
 - (Care) Kioskdrift, derav innkjøp og salg av kioskvarer, planlegging av varmmat og i stor grad kioskvakter (der hele crewet bidrar).
 - Transport av utstyr, eksempelvis henting av strømutstyr og eget varelager i varebil vi leier.
 - Rigging, hovedsakelig bordradene, strøm og nettverk, litt lyd og lys.
+- Finne kule ting vi kan søke støtte for å kjøpe.
 - Mye mer.
 
 Ta gjerne kontakt dersom du har spørsmål eller er usikker på om vi driver med ting som interesserer deg.
