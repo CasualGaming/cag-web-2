@@ -32,9 +32,8 @@ Noen av tingene vi driver med eller ønsker å drive med i større grad er:
 - (Care) Interne sosiale arrangementer.
 - (Game) Spillturneringer, inkl. regler, braketter, osv.
 - (Game/Tech) Spillservere, hovedsakelig under arrangementer.
-- (Tech) Nettverk, derav design og drift av mellomstore nettverk med offentlige IP-adresser og 10Gb/s uplink til Internett.
-- (Tech) Generell serverdrift, med fysiske rack-servere som kjører Linux, Proxmox, Docker osv.
-- (Tech) Automasjon av servere og nettverk.
+- (Tech) Design og drift av nettverk. Mellomstore nettverk med offentlige IP-adresser og 10Gb/s uplink til Internett. Ubiquiti UniFi, Cisco IOS, Juniper Junos OS, VyOS, osv.
+- (Tech) Generell serverdrift. Fysiske rack-servere. Linux, Proxmox, Docker osv. Automasjon.
 - Utvikling av gjeldende og nye nettsider, diverse andre ting rundt eksempelvis spillservere, lysstyring, osv.
 - (Info) Grafisk design, eksempelvis av plakater.
 - (Info) PR, gjennom Facebook, instagram o.l.
