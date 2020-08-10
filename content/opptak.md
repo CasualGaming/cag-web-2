@@ -26,7 +26,7 @@ Noen av fordelene av å være crew i CaG er:
 
 Vi arrangerer hovedsakelig datatreff og lavterskel spillkvelder, både for offentligheten i Trondheim og for studenter ved NTNU Gløshaugen.
 
-Noen av tingene vi driver med eller ønsker å drive med i større grad er:
+Noen av tingene vi driver med i varierende grad, hovedsakelig ting man lærer ved å være crew:
 
 - Arrangering av små og mellomstore arrangementer (fra 5 til 200 personer).
 - (Care) Interne sosiale arrangementer.
