@@ -70,7 +70,7 @@ Søknadsfrist: Løpende.
 
 ## Event-crew
 
-Denne seksjonen omhandler crewgruppen Event, en gruppe vi setter sammen ifm. større arrangementer der vi trenger mer crew (hovedsakelig TrøndeLAN). Event-crew driver mye med det samme som *ordinært crew* under arrangementet. Aldersgrensen
+Denne seksjonen omhandler crewgruppen Event, en gruppe vi setter sammen ifm. større arrangementer der vi trenger mer crew (hovedsakelig TrøndeLAN). Event-crew driver mye med det samme som *ordinært crew* under arrangementet.
 
 Event-crew sin oppgave er hovedsakelig å bistå ordinært crew med oppgaver under arrangementet. Siden Event-crew ofte har lite erfaring så jobber ofte dette crewet med litt "lettere" oppgaver slik som eksempelvis å sette opp pulter, trekke kabler, o.l., men folk med mer motivasjon/kunnskap/erfaring kan naturligvis få jobbe med ting de ønsker.
 
