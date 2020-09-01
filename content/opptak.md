@@ -87,4 +87,5 @@ Event-crew sin oppgave er hovedsakelig å bistå ordinært crew med oppgaver und
 Fyll ut og send søknadsskjemaet under. Spørsmål og lignende kan sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
 
 Søknadsskjema: [TrøndeLAN 2020: Opptak Event](https://docs.google.com/forms/d/e/1FAIpQLSd_nspXfYeV0ysbBqxe33D9kwlcYAnI9P5x-Np3FdvRYI4D4Q/viewform?usp=sf_link)
+
 Søknadsfrist: **13. september**
