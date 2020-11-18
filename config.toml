@@ -66,9 +66,9 @@ googleAnalytics = ""
       name = "Spillkvelder"
       url = "/spillkvelder/"
 
-    [[params.navigation.links]]
-      name = "Spillservere"
-      url = "/spillservere/"
+#    [[params.navigation.links]]
+#      name = "Spillservere"
+#      url = "/spillservere/"
 
     [[params.navigation.links]]
       name = "For samarbeidspartnere"
@@ -134,21 +134,21 @@ Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til for
       image = "/img/partners/hyperion.png"
       alt = "Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
       backgroundColor = ""
-      url = "http://n4f.no/"
+      url = "https://n4f.no/"
       description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
     [[params.partners.partner]]
       image = "/img/partners/digitalkultur.png"
       alt = "Norsk Digital Kultur"
       backgroundColor = ""
-      url = "http://www.digitalkultur.no/"
+      url = "https://www.digitalkultur.no/"
       description = "Vi er medlemsforening i Norsk Digital Kultur"
 
     [[params.partners.partner]]
       image = "/img/partners/online.png"
       alt = "Online, linjeforeningen for informatikk ved NTNU"
       backgroundColor = ""
-      url = "http://n4f.no/"
+      url = "https://online.ntnu.no/"
       description = "Vi har tilknytning til Online, linjeforeningen for informatikk ved NTNU"
 
     [[params.partners.partner]]
