@@ -82,7 +82,7 @@ googleAnalytics = ""
   [params.banner]
     bannerImage = "/img/home/banner.jpg"
     logoImage = "/img/banner-logo.png"
-    subtitle = "Datastreff og spillkvelder i Trondheim"
+    subtitle = "Datatreff og spillkvelder i Trondheim"
 
   # Tiles Section
   [params.tiles]
