@@ -117,10 +117,11 @@ googleAnalytics = ""
   # About section
   [params.about]
     enable = true
-    title = "Casual Gaming"
+    title = "Om oss"
     subtitle = """
 Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til formål
 å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
+Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
 
 **[Les mer om oss her.](/om)**
 """
@@ -173,8 +174,12 @@ Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til for
   # Grasrotandelen section
   [params.grasrotandelen]
     enable = true
-    # "receiver" is the Norwegian org number
     url = "https://www.norsk-tipping.no/grasrotandelen/stats-iframe?title=lowercase#receiver=993396605"
+
+  # Discord section
+  [params.discord]
+    enable = true
+    url = "https://discord.com/widget?id=153895015590920192&theme=dark"
 
   # Footer section
   [params.footer]
