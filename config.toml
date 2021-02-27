@@ -164,7 +164,7 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       alt = "VyOS»
       backgroundColor = ""
       url = "https://vyos.io/"
-      description = «VyOS støtter oss med et pro-abonnement for bruk av ruter-programvaren deres som vi bruker på arrangementene våre»
+      description = "VyOS støtter oss med et pro-abonnement for bruk av ruter-programvaren deres som vi bruker på arrangementene våre"
 
 #    [[params.partners.partner]]
 #      image = "/img/logo.png"
