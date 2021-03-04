@@ -1,5 +1,5 @@
 ---
-title: "For samarbeidspartnerre"
+title: "For samarbeidspartnere"
 description: "Informasjon til organisasjoner som ønsker å støtte oss."
 ---
 
