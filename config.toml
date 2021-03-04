@@ -202,7 +202,7 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
 
     [[params.footer.social]]
       icon = "fab fa-discord"
-      url = "https://link.casualgaming.no/discord"
+      url = "http://discord.casualgaming.no/"
       label = "Discord"
 
     [[params.footer.social]]
