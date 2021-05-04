@@ -84,6 +84,6 @@ Event-crew sin oppgave er hovedsakelig å bistå ordinært crew med oppgaver und
 
 ### Søknad for Event-crew
 
-**Grunnet usikkerhet rundt COVID-19 til høsten så har vi ikke ennå bestemt om vi skal ta opp Event-crew eller ikke. Du kan gjerne sende oss en e-post for å vise interesse for å hjelpe oss vekte valget litt.**
+**Grunnet usikkerhet rundt COVID-19 til høsten så har vi ikke ennå bestemt om vi skal ta opp Event-crew eller ikke. Du kan gjerne sende oss en e-post for å vise interesse for å hjelpe oss vekte valget litt. (Mer info kommer cirka august.)**
 
 Spørsmål og lignende kan sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
