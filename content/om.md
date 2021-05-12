@@ -11,13 +11,13 @@ Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteres
 
 Nettsted: **[studlan.no](https://studlan.no)**
 
-StudLAN er et datatreff som arrangeres typisk hvert semester ved NTNU Gløshaugen uten (direkte) tilknytning til noen linjeforening. Det blir arrangert quiz og konkurranser i en rekke spill. Vi stiller med brettspill og konsoller som kan lånes/brukes. Se nettstedet for mer info.
+StudLAN er et datatreff som arrangeres typisk hvert semester ved NTNU Gløshaugen, typisk i A-blokken i Realfagbygget (tidligere i P15). Det arrangeres quiz og konkurranser i en rekke spill. Vi stiller med brettspill og konsoller som kan lånes/brukes.
 
 ## TrøndeLAN
 
 Nettsted: **[trondelan.no](https://trondelan.no/)**
 
-TrøndeLAN er et datatreff som arrangeres årlig i Trondheim rundt høstferien, normalt i Autronicahallen på Lade. Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene. Bli med på Trondheims største datatreff!
+TrøndeLAN Trondheims største dataparty og arrangeres årlig i høstferien i Utleirahallen (tidligere i Autronicahallen på Lade). Også kjent som "TrønderLAN", selv om det ikke er den offisielle skrivemåten. Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene. Bli med på Trondheims største datatreff!
 
 ## Spillkvelder
 
@@ -66,7 +66,7 @@ Casual Gaming ble grunnlagt i 2008 ved Vestnes i Møre og Romsdal av en vennegje
 
 ### StudLAN
 
-StudLAN har blitt arrangert av StudLAN-gruppen og deretter Casual Gaming hvert semester fra 2012 til 2017 i P15 ved NTNU Gløshaugen med typisk rundt 50-200 deltagere. I 2018 ble det ikke arrangert grunnet blant annet ombygging i P15. I 2019 ble det arrangert igjen i A4 i Realfagbygget.
+StudLAN ble arrangert ved NTNU Gløshaugen av StudLAN-gruppen (hovedsakelig fra linjeforeningene Online og Nabla) og deretter Casual Gaming hvert semester fra 2011/2012 til 2017 i P15, med typisk rundt 50-200 deltagere. I 2018 ble det ikke arrangert grunnet blant annet ombygging i P15, men i 2019 ble det startet opp igjen i A4 i Realfagbygget.
 
 ### TrøndeLAN
 
