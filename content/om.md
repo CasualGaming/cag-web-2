@@ -7,17 +7,17 @@ Casual Gaming (forkortet CaG) er en ideell student- og ungdomsorganisasjon som h
 
 Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/), medlemsforening i [Norsk Digital Kultur](https://www.digitalkultur.no/) og samarbeider med [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/).
 
-## StudLAN
-
-Nettsted: **[studlan.no](https://studlan.no)**
-
-StudLAN er et datatreff som arrangeres typisk hvert semester ved NTNU Gløshaugen, typisk i A-blokken i Realfagbygget (tidligere i P15). Det arrangeres quiz og konkurranser i en rekke spill. Vi stiller med brettspill og konsoller som kan lånes/brukes.
-
 ## TrøndeLAN
 
 Nettsted: **[trondelan.no](https://trondelan.no/)**
 
 TrøndeLAN Trondheims største dataparty og arrangeres årlig i høstferien i Utleirahallen (tidligere i Autronicahallen på Lade). Også kjent som "TrønderLAN", selv om det ikke er den offisielle skrivemåten. Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene. Bli med på Trondheims største datatreff!
+
+## StudLAN
+
+Nettsted: **[studlan.no](https://studlan.no)**
+
+StudLAN er et datatreff som arrangeres typisk hvert semester ved NTNU Gløshaugen, typisk i A-blokken i Realfagbygget (tidligere i P15). Det arrangeres quiz og konkurranser i en rekke spill. Vi stiller med brettspill og konsoller som kan lånes/brukes.
 
 ## Spillkvelder
 
@@ -36,11 +36,13 @@ Crewet består av 6 crew-grupper:
 
 ### Styret
 
-Styret for 2020-2021:
+Styret for 2021-2022:
 
 - Styreleder: Håvard O. Nordstrand
 - Styrenestleder: Tobias I. Ørstad
-- Leder for Info: Per Morten Solheim
+- Økonomiansvarlig: Farhad Ismayilov
+- Leder for Info: Stian Tørstad
+- Leder for Tech: Omer Jonuzi
 - Leder for Game: Ole Mathias Gullvåg
 
 ## Vedtekter og dokumenter
