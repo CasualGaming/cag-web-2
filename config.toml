@@ -153,6 +153,13 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       description = "Vi har tilknytning til Online, linjeforeningen for informatikk ved NTNU"
 
     [[params.partners.partner]]
+      #image = "/img/partners/TODO.png"
+      alt = "Temporal AS"
+      backgroundColor = ""
+      url = "https://temporal.no/"
+      description = "Temporal AS støtter oss med midler til å gjennomføre aktivitetene våre"
+
+    [[params.partners.partner]]
       image = "/img/partners/terrahost.png"
       alt = "Terrahost"
       backgroundColor = ""
@@ -165,7 +172,7 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       backgroundColor = ""
       url = "https://vyos.io/"
       description = "VyOS støtter oss med et pro-abonnement for bruk av deres ruter-programvare"
-      
+
 #    [[params.partners.partner]]
 #      image = "/img/logo.png"
 #      alt = "AAAaaa"

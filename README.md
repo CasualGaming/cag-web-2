@@ -16,11 +16,11 @@ Static Hugo website, using theme [CasualGaming/fifty](https://github.com/CasualG
 
 ## Scripts and Commands
 
+* `manage/update-submodules.sh`: Updates the submodules, including the theme. **You will get weird build errors if you forget this!**
 * `manage/build.sh`: Build the site.
 * `manage/clean.sh`: Remove all temporary files.
 * `manage/run.sh`: Starts the development server with hot reloading.
-* `manage/update-submodules.sh`: Updates the submodules, including the theme.
-* `docker build -t cag-web-2 .`: (Requires Docker) Build the site in a Docker container.
+* `docker build -t cag-web-2 .`: (Requires Docker) Build the site in a Docker container. (Remember to pull the submodules first!)
 * `docker run --rm -p 8080:80 cag-web-2`: (Requires Docker) Run the site in a Docker container (using nginx) and forward port 8080 to it.
 
 ## Editing
