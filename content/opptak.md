@@ -13,7 +13,7 @@ Crewet vårt er delt opp i _Event_-crew som er crew for TrøndeLAN og _ordinært
 
 ## Forventninger og krav
 
-Crewet består av både NTNU-ere og ikke-NTNU-ere mellom cirka 18 og 35 år og vi er interesserte i både ekstra interesserte folk som vil bidra og lære, samt de med kunnskap og erfaring til å kunne forbedre diverse aspekter ved arrangementene. Å være crew i Casual Gaming krever ikke mye av tiden din og kan veldig fint kombineres med andre verv, arbeid eller skole. Vi forventer derimot at du ofte har tid til å hjelpe til når det kreves (hovedsakelig ifm. TrøndeLAN rundt høsten da vi har størst behov for crew). Selv om noen av de mindre arrangementene våre er NTNU-eksklusive, så setter vi ingen krav eller preferanse om at crewmedlemmer må være tilknyttet NTNU. Ordinært crew har ordinær aldersgrense på 18 år (gjelder ikke Event/TrøndeLAN!).
+Crewet består av både NTNU-ere og ikke-NTNU-ere mellom cirka 18 og 35 år og vi er interesserte i både ekstra interesserte folk som vil bidra og lære, samt de med kunnskap og erfaring til å kunne forbedre diverse aspekter ved arrangementene. Å være crew i Casual Gaming krever ikke mye av tiden din og kan veldig fint kombineres med andre verv, arbeid eller skole. Vi forventer derimot at du ofte har tid til å hjelpe til når det kreves (hovedsakelig ifm. TrøndeLAN rundt høsten da vi har størst behov for crew). Selv om noen av de mindre arrangementene våre er NTNU-eksklusive, så setter vi ingen krav eller preferanse om at crewmedlemmer må være tilknyttet NTNU. Ordinært crew har ordinær aldersgrense på 18 år. Event-crew har ordinær aldersgrense på 16 år, men der kan vi gjøre unntak.
 
 ## Fordeler av å være crew
 
