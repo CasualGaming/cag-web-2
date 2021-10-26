@@ -55,7 +55,7 @@ Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer k
 - 12\. oktober 2020, [Opdalingen: Gikk over 100.000 skritt på dataparty](https://www.opdalingen.no/nyheter/2020/10/12/Gikk-over-100.000-skritt-p%C3%A5-dataparty-22806315.ece)
 - 10\. oktober 2020, [Adresseavisen: - Ørene betyr absolutt ingenting, de skal bare være fancy](https://www.adressa.no/pluss/kultur/2020/10/10/%C3%98rene-betyr-absolutt-ingenting-de-skal-bare-v%C3%A6re-fancy-22801219.ece)
 - 10\. oktober 2020, [Nidaros: Vi sender finalene fra TrøndeLAN direkte: – Billettene ble revet unna](https://www.nidaros.no/vi-sender-finalene-fra-trondelan-direkte-billettene-ble-revet-unna/s/5-113-112817)
-- 7\. oktober 2020, [https://nardoposten.no/2020/10/trondheims-storste-dataparty-i-utleirahallen/](https://nardoposten.no/2020/10/trondheims-storste-dataparty-i-utleirahallen/)
+- 7\. oktober 2020, [Nardo-Posten: Trondheims største dataparty i Utleirahallen](https://nardoposten.no/2020/10/trondheims-storste-dataparty-i-utleirahallen/)
 - 11\. mai 2020, [Opdalingen: Spill er en kunstform på lik linje med film og musikk](https://www.opdalingen.no/nyheter/2020/05/11/Spill-er-en-kunstform-p%C3%A5-lik-linje-med-film-og-musikk-21798906.ece)
 - 17\. oktober 2019, [Trd.by: Her skal 200 unge spille, spise og sove i helga](https://trd.by/aktuelt/2019/10/17/Her-skal-200-unge-spille-spise-og-sove-i-helga-20159427.ece)
 - 14\. oktober 2019, [Nerdeprat (Radio Revolt): Fem år med TrøndeLAN](https://radiorevolt.no/post/fem-ar-med-trndelan)
