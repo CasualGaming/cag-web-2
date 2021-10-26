@@ -51,6 +51,7 @@ Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer k
 
 ## Mediaoppmerksomhet
 
+- 26\. oktober 2021, [Under Dusken: God stemning på TrøndeLAN](https://underdusken.no/e-sport-sport/god-stemning-pa-trondelan/296254)
 - 12\. oktober 2020, [Opdalingen: Gikk over 100.000 skritt på dataparty](https://www.opdalingen.no/nyheter/2020/10/12/Gikk-over-100.000-skritt-p%C3%A5-dataparty-22806315.ece)
 - 10\. oktober 2020, [Adresseavisen: - Ørene betyr absolutt ingenting, de skal bare være fancy](https://www.adressa.no/pluss/kultur/2020/10/10/%C3%98rene-betyr-absolutt-ingenting-de-skal-bare-v%C3%A6re-fancy-22801219.ece)
 - 10\. oktober 2020, [Nidaros: Vi sender finalene fra TrøndeLAN direkte: – Billettene ble revet unna](https://www.nidaros.no/vi-sender-finalene-fra-trondelan-direkte-billettene-ble-revet-unna/s/5-113-112817)
