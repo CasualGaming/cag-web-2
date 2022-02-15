@@ -42,7 +42,6 @@ Styret for 2021-2022:
 - Styrenestleder: Tobias I. Ørstad
 - Økonomiansvarlig: Farhad Ismayilov
 - Leder for Info: Stian Tørstad
-- Leder for Tech: Omer Jonuzi
 - Leder for Game: Ole Mathias Gullvåg
 
 ## Vedtekter og dokumenter
