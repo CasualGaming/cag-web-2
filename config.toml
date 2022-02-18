@@ -63,14 +63,6 @@ googleAnalytics = ""
       url = "https://studlan.no"
 
     [[params.navigation.links]]
-      name = "Spillkvelder"
-      url = "/spillkvelder/"
-
-#    [[params.navigation.links]]
-#      name = "Spillservere"
-#      url = "/spillservere/"
-
-    [[params.navigation.links]]
       name = "For samarbeidspartnere"
       url = "/for-samarbeidspartnere/"
 
@@ -92,21 +84,19 @@ googleAnalytics = ""
       title = "TrøndeLAN"
       subtitle = "Trondheims største datatreff"
       image = "/img/home/trondelan.jpg"
-      #url = "/trondelan/"
       url = "https://trondelan.no"
 
     [[params.tiles.showcase]]
-      title = "StudLAN"
-      subtitle = "Student-LAN ved NTNU Gløshaugen"
-      image = "/img/home/studlan.jpg"
-      #url = "/studlan/"
-      url = "https://studlan.no"
+      title = "Om oss"
+      subtitle = "Aktivitet, organisasjon, kontakt osv."
+      image = "/img/home/konsoll_brett.jpg"
+      url = "/om/"
 
     [[params.tiles.showcase]]
-      title = "Spillkvelder"
-      subtitle = "Konsoll- og brettspillkvelder"
-      image = "/img/home/konsoll_brett.jpg"
-      url = "/spillkvelder/"
+      title = "Discord"
+      subtitle = "Join serveren vår!"
+      image = "/img/home/studlan.jpg"
+      url = "https://discord.casualgaming.no/"
 
     [[params.tiles.showcase]]
       title = "Opptak"
@@ -117,7 +107,7 @@ googleAnalytics = ""
   # About section
   [params.about]
     enable = true
-    title = "Om oss"
+    title = "Casual Gaming"
     subtitle = """
 Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til formål
 å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
