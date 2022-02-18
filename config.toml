@@ -87,16 +87,16 @@ googleAnalytics = ""
       url = "https://trondelan.no"
 
     [[params.tiles.showcase]]
-      title = "Om oss"
-      subtitle = "Aktivitet, organisasjon, kontakt osv."
-      image = "/img/home/konsoll_brett.jpg"
-      url = "/om/"
-
-    [[params.tiles.showcase]]
       title = "Discord"
       subtitle = "Join serveren vår!"
       image = "/img/home/studlan.jpg"
       url = "https://discord.casualgaming.no/"
+
+    [[params.tiles.showcase]]
+      title = "Om oss"
+      subtitle = "Aktivitet, organisasjon, kontakt osv."
+      image = "/img/home/konsoll_brett.jpg"
+      url = "/om/"
 
     [[params.tiles.showcase]]
       title = "Opptak"
