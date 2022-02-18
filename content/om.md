@@ -1,6 +1,6 @@
 ---
 title: "Om oss"
-description: "Formål, historie, crew-grupper osv."
+description: "Formål, aktivitet, historie osv."
 ---
 
 Casual Gaming (forkortet CaG) er en ideell student- og ungdomsorganisasjon som har til formål å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi arrangerer Trondheims største LAN-party – TrøndeLAN – hver høst. For studenter ved NTNU arrangerer vi StudLAN hvert semester og [spillkvelder]({{< relref "spillkvelder.md" >}}) med jevne mellomrom. Alle våre offentlige arrangementer er rusfrie. Organisasjonen drives på frivillig basis av studenter med forskjellig faglig bakgrunn fra NTNU og andre ungdommer i Trondheimsområdet. All sponsorstøtte og evt. overskudd fra arrangementer går tilbake til å forbedre fremtidige arrangementer. I 2015 hadde organisasjonen over 400 betalende medlemmer.
@@ -21,32 +21,9 @@ StudLAN er et datatreff som arrangeres typisk hvert semester ved NTNU Gløshauge
 
 ## Spillkvelder
 
-Se [spillkvelder]({{< relref "spillkvelder.md" >}}).
+Konsoll og brettspillkvelder blir arrangert flere ganger i året. Her møtes man for å spille konsoll og brettspill fra de tre siste tiår. Vi stiller med TV-er, konsoller og brettspill. Man står også fritt til å ta med egne spill. Møt opp for en lavterskel sosial kveld hvor man kan møte folk med felles interesser!
 
-## Crew
-
-Crewet består av 6 crew-grupper:
-
-- **Coord** er en koordineringsgruppe som har ansvaret for å koordinere de andre crewene for å gjennomføre arrangement så effektivt som mulig. Coord er blant annet ansvarlig for booking av lokale, sponsorer, vakthold og organisering av rydding før, under og etter arrangementet.
-- **Info** er vårt ansikt utad. Dette crewet har ansvaret for alt PR‐arbeid i sammenheng med arrangementene våre. Arbeidet inkluderer, men er ikke begrenset til, bestilling og anskaffelse av plakater, markedsføring, informasjon på nettsider, kommunikasjonskanaler mellom deltakere, og alle former for digitale medier.
-- **Tech** er teknisk ansvarlig for arrangementene våre. Crewet bærer ansvaret for at strøm, nett og teknisk infrastruktur blir satt opp og fungerer som det skal. Crewet har ansvar for å yte brukerstøtte under arrangement dersom de har kapasitet til dette. Crewet har også ansvaret for for drifting av nettstedene våre og utlån av utstyr til medlemmer av Casual Gaming.
-- **Game** er ansvarlig for alle konkurransene som blir holdt på arrangementene våre. Game har ansvar for å sette opp konkurranser og påmelding, og legge alt til rette for at konkurransene blir gjennomført så effektivt og enkelt som mulig for deltakerne.
-- **Care** er ansvarlig for å skape trivsel for deltakere og crew under arrangementer, samt ansvarlig for drift av kiosk.
-- **Event** består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
-
-### Styret
-
-Styret for 2021-2022:
-
-- Styreleder: Håvard O. Nordstrand
-- Styrenestleder: Tobias I. Ørstad
-- Økonomiansvarlig: Farhad Ismayilov
-- Leder for Info: Stian Tørstad
-- Leder for Game: Ole Mathias Gullvåg
-
-## Vedtekter og dokumenter
-
-Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer kan kreve innsyn i organisasjonens regnskap og ikke-konfidensielle vedtak ved å kontakte Styret.
+Følg med på [Facebook](https://www.facebook.com/CasualGamingTrondheim/) for å få med deg kommende spillkvelder (husk å like/følge oss slik du får varsler).
 
 ## Mediaoppmerksomhet
 
@@ -61,6 +38,33 @@ Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer k
 - 6\. oktober 2017, [Trd.by: Her skal over 130 unge spille, spise og sove i helga](https://trd.by/event/2017/10/06/Her-skal-over-130-unge-spille-spise-og-sove-i-helga-15400017.ece)
 - 11\. oktober 2015, [Adresseavisen: Gamerne får testet seg mot de beste](https://www.adressa.no/nyheter/trondheim/2015/10/11/Gamerne-f%C3%A5r-testet-seg-mot-de-beste-11669351.ece)
 - 9\. oktober 2015, [Gamer.no: TrøndeLAN åpner dørene for alle denne helgen](https://www.gamer.no/artikler/trondelan-apner-dorene-for-alle/193159)
+
+## Organisasjonen
+
+### Styret
+
+Styret for 2021-2022:
+
+- Styreleder: Håvard O. Nordstrand
+- Styrenestleder: Tobias I. Ørstad
+- Økonomiansvarlig: Farhad Ismayilov
+- Leder for Info: Stian Tørstad
+- Leder for Game: Ole Mathias Gullvåg
+
+### Crewet
+
+Crewet består av 6 crew-grupper:
+
+- **Coord** er en koordineringsgruppe som har ansvaret for å koordinere de andre crewene for å gjennomføre arrangement så effektivt som mulig. Coord er blant annet ansvarlig for booking av lokale, sponsorer, vakthold og organisering av rydding før, under og etter arrangementet.
+- **Info** er vårt ansikt utad. Dette crewet har ansvaret for alt PR‐arbeid i sammenheng med arrangementene våre. Arbeidet inkluderer, men er ikke begrenset til, bestilling og anskaffelse av plakater, markedsføring, informasjon på nettsider, kommunikasjonskanaler mellom deltakere, og alle former for digitale medier.
+- **Tech** er teknisk ansvarlig for arrangementene våre. Crewet bærer ansvaret for at strøm, nett og teknisk infrastruktur blir satt opp og fungerer som det skal. Crewet har ansvar for å yte brukerstøtte under arrangement dersom de har kapasitet til dette. Crewet har også ansvaret for for drifting av nettstedene våre og utlån av utstyr til medlemmer av Casual Gaming.
+- **Game** er ansvarlig for alle konkurransene som blir holdt på arrangementene våre. Game har ansvar for å sette opp konkurranser og påmelding, og legge alt til rette for at konkurransene blir gjennomført så effektivt og enkelt som mulig for deltakerne.
+- **Care** er ansvarlig for å skape trivsel for deltakere og crew under arrangementer, samt ansvarlig for drift av kiosk.
+- **Event** består av medlemmer som tas opp som midlertidig crew for et bestemt event. Gruppen bistår andre crew-grupper under arrangementet.
+
+### Vedtekter og dokumenter
+
+Vedtektene kan finnes [her](https://link.casualgaming.no/vedtekter). Medlemmer kan kreve innsyn i organisasjonens regnskap og ikke-konfidensielle vedtak ved å kontakte Styret.
 
 ## Historie
 
