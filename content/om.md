@@ -43,13 +43,16 @@ Følg med på [Facebook](https://www.facebook.com/CasualGamingTrondheim/) for å
 
 ### Styret
 
-Styret for 2021-2022:
+Styret for 2022-2023:
 
-- Styreleder: Håvard O. Nordstrand
-- Styrenestleder: Tobias I. Ørstad
-- Økonomiansvarlig: Farhad Ismayilov
-- Leder for Info: Stian Tørstad
-- Leder for Game: Ole Mathias Gullvåg
+- Håvard O. Nordstrand (leder)
+- Ole Mathias Gullvåg (nestleder)
+- Stian Tørstad
+- Tor Andre Haugdahl
+- Ola Fagerhaug
+- Erlend Størkson
+- Daniel Christensen
+- Farhad Ismayilov (vara)
 
 ### Crewet
 
