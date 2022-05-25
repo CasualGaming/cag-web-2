@@ -50,9 +50,10 @@ Styret for 2022-2023:
 - Stian Tørstad
 - Tor Andre Haugdahl
 - Ola Fagerhaug
-- Erlend Størkson
 - Daniel Christensen
+- Tobias Dyngeland (tok over etter Erlend)
 - Farhad Ismayilov (vara)
+- Erlend Størkson (utmeldt)
 
 ### Crewet
 
