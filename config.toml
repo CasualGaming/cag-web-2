@@ -190,56 +190,59 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
     enable = true
     copyright = "Casual Gaming"
 
-    # "fas" means FontAwesome solid, "fab" means FA brands
-
     [[params.footer.social]]
-      icon = "fab fa-facebook"
+      icon = "fa-brands fa-facebook"
       url = "https://www.facebook.com/CasualGamingTrondheim/"
       label = "Facebook"
 
     [[params.footer.social]]
-      icon = "fab fa-discord"
+      icon = "fa-brands fa-discord"
       url = "https://discord.casualgaming.no/"
       label = "Discord"
 
     [[params.footer.social]]
-      icon = "fab fa-twitch"
+      icon = "fa-brands fa-twitch"
       url = "https://www.twitch.tv/casualgamingnorway"
       label = "Twitch"
 
     [[params.footer.social]]
-      icon = "fab fa-youtube"
+      icon = "fa-brands fa-youtube"
       #url = "https://www.youtube.com/channel/UCwE4Udkp8A881Dfvbfa6KLQ"
       url = "https://www.youtube.com/user/studlanNTNU/"
       label = "YouTube"
 
     [[params.footer.social]]
-      icon = "fab fa-instagram"
+      icon = "fa-brands fa-instagram"
       url = "https://www.instagram.com/casualgamingno"
       label = "Instagram"
 
+    [[params.footer.social]]
+      icon = "fa-brands fa-tiktok"
+      url = "https://www.tiktok.com/@trondelan"
+      label = "TikTok"
+
     # [[params.footer.social]]
-    #   icon = "fab fa-snapchat"
+    #   icon = "fa-brands fa-snapchat"
     #   url = "https://www.snapchat.com/add/casualgamingno"
     #   label = "Snapchat"
 
     [[params.footer.social]]
-      icon = "fab fa-github"
+      icon = "fa-brands fa-github"
       url = "https://www.github.com/CasualGaming"
       label = "GitHub"
 
     # [[params.footer.social]]
-    #   icon = "fas fa-heartbeat"
+    #   icon = "fa-solid fa-heartbeat"
     #   url = "https://status.casualgaming.no/"
     #   label = "Status"
 
     [[params.footer.social]]
-      icon = "fas fa-life-ring"
+      icon = "fa-solid fa-life-ring"
       url = "mailto:support@casualgaming.no"
       label = "Brukerstøtte"
 
     [[params.footer.social]]
-      icon = "fas fa-envelope"
+      icon = "fa-solid fa-envelope"
       url = "mailto:post@casualgaming.no"
       label = "Kontakt"
 
