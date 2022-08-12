@@ -150,13 +150,6 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       description = "Temporal AS støtter oss med midler til å gjennomføre aktivitetene våre"
 
     [[params.partners.partner]]
-      image = "/img/partners/terrahost.png"
-      alt = "Terrahost"
-      backgroundColor = ""
-      url = "https://terrahost.no/"
-      description = "Terrahost støtter oss med en dedikert server for nettstedene våre"
-
-    [[params.partners.partner]]
       image = "/img/partners/vyos.svg"
       alt = "VyOS"
       backgroundColor = ""
