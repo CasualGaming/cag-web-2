@@ -11,7 +11,7 @@ Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteres
 
 Nettsted: **[trondelan.no](https://trondelan.no/)**
 
-TrøndeLAN Trondheims største dataparty og arrangeres årlig i høstferien i Utleirahallen (tidligere i Autronicahallen på Lade). Også kjent som "TrønderLAN", selv om det ikke er den offisielle skrivemåten. Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene. Bli med på Trondheims største datatreff!
+TrøndeLAN, også kjent som TrønderLAN, er Trondheims største dataparty og arrangeres årlig i høstferien i Utleirahallen (tidligere i Autronicahallen på Lade). Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene.
 
 ## StudLAN
 
