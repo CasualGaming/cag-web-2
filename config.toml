@@ -195,8 +195,13 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
 
     [[params.footer.social]]
       icon = "fa-brands fa-twitch"
-      url = "https://www.twitch.tv/casualgamingnorway"
-      label = "Twitch"
+      url = "https://www.twitch.tv/CasualGamingNorway"
+      label = "Twitch 1"
+
+    [[params.footer.social]]
+      icon = "fa-brands fa-twitch"
+      url = "https://www.twitch.tv/TrondeLAN"
+      label = "Twitch 2"
 
     [[params.footer.social]]
       icon = "fa-brands fa-youtube"
