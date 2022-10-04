@@ -1,3 +1,5 @@
+.hugo_build.lock
+
 /build/
 /keys/*.key
 /public/

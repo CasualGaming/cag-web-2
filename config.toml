@@ -21,6 +21,10 @@ googleAnalytics = ""
   name = "Casual Gaming"
   description = "Datatreff og spillkvelder i Trondheim"
 
+  # Plausible, set to enable
+  plausibleLocalDomain = "casualgaming.no"
+  plausibleRemoteDomain = "plausible.casualgaming.no"
+
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
