@@ -13,6 +13,23 @@ Nettsted: **[trondelan.no](https://trondelan.no/)**
 
 TrøndeLAN, også kjent som TrønderLAN, er Trondheims største dataparty og arrangeres årlig i høstferien i Utleirahallen (tidligere i Autronicahallen på Lade). Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene.
 
+### Statistikk
+
+| Arrangement | Hall | Deltakertall |
+| - | - | - |
+| TrøndeLAN 2015 | Autronicahallen | 192 |
+| TrøndeLAN 2016 | Autronicahallen | 210 |
+| TrøndeLAN 2017 | Autronicahallen | 194 |
+| TrøndeLAN 2018 | Autronicahallen | 188 |
+| TrøndeLAN 2019 | Autronicahallen | 221 |
+| TrøndeLAN 2020 | Utleirahallen | 199 |
+| TrøndeLAN 2021 | Utleirahallen | 295\* |
+| TrøndeLAN 2022 | Utleirahallen | 186 |
+| TrøndeLAN 2023 | Utleirahallen | 108 |
+| TrøndeLAN 2024 | *Ukjent* | *Ukjent* |
+
+(\*) *TrøndeLAN 2021: Pluss ~100 minibilletter til kommunen for BFG chill-out zone.*
+
 ## StudLAN
 
 Nettsted: **[studlan.no](https://studlan.no)**
