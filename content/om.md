@@ -60,17 +60,17 @@ Følg med på [Facebook](https://www.facebook.com/CasualGamingTrondheim/) for å
 
 ### Styret
 
-Styret for 2022-2023:
+Styret for 2024-2025:
 
-- Håvard O. Nordstrand (leder)
-- Ole Mathias Gullvåg (nestleder)
+- Tor Andre Haugdahl (leder)
+- Magnus Skjølberg (nestleder)
+- Håvard O. Norstrand (økonomiansvarlig)
 - Stian Tørstad
-- Tor Andre Haugdahl
-- Ola Fagerhaug
-- Daniel Christensen
-- Tobias Dyngeland (tok over etter Erlend)
-- Farhad Ismayilov (vara)
-- Erlend Størkson (utmeldt)
+- Michael Grønbech
+- Alexander Gjeset
+- Jarle E. Røstum
+- Victor Kibsgaard (vara)
+- Dina N. R. Bakkevik (vara)
 
 ### Crewet
 
