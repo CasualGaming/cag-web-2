@@ -178,9 +178,9 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
     url = "https://www.norsk-tipping.no/grasrotandelen/statistikk/iframe/993396605"
 
   # Discord section
-  [params.discord]
-    enable = true
-    url = "https://discord.com/widget?id=153895015590920192&theme=dark"
+  #[params.discord]
+  #  enable = true
+  #  url = "https://discord.com/widget?id=153895015590920192&theme=dark"
 
   # Footer section
   [params.footer]
