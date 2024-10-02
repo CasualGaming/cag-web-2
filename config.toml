@@ -89,7 +89,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Nidaros Games"
       subtitle = "Made by the gamers, for the gamers"
-      image = "/img/home/nidaros-games.png"
+      image = "/img/home/nidaros-games.jpg"
       url = "https://nidaros.games"
 
     [[params.tiles.showcase]]
