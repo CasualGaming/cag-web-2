@@ -7,11 +7,19 @@ Casual Gaming (forkortet CaG) er en ideell student- og ungdomsorganisasjon som h
 
 Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/), medlemsforening i [Norsk Digital Kultur](https://www.digitalkultur.no/) og samarbeider med [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/).
 
+## Nidaros Games
+
+Nettsted: **[nidaros.games](https://nidaros.games/)**
+
+Nidaros Games (NG) arrangeres for første gang i høstferien 2024 i Leangenhallen i Trondheim. Dette en spirituell videreutvikling av datatreffet TrøndeLAN, med fokus på digital kultur som videospillkonkurranser og e-sportturneringer.
+
 ## TrøndeLAN
 
 Nettsted: **[trondelan.no](https://trondelan.no/)**
 
-TrøndeLAN, også kjent som TrønderLAN, er Trondheims største dataparty og arrangeres årlig i høstferien i Utleirahallen (tidligere i Autronicahallen på Lade). Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene.
+TrøndeLAN (TL), også kjent som TrønderLAN, er Trondheims største dataparty og arrangeres årlig i høstferien i Utleirahallen (tidligere i Autronicahallen på Lade). Det arrangeres konkurranser i en rekke spill, samt noen kreative aktiviteter. Vi stiller med en kiosk med variert mat, drikke og snacks. Det er muligheter for både overnatting og dusjing i lokalene.
+
+I 2024 ble TrøndeLAN spirituelt videreutvikling som Nidaros Games, der konseptet ble endret for å gå bort fra LAN-plasser og fokusere i større grad på turneringer og innhold. Hovedårsaken til dette var at vi opplevde minkende interesse for LAN-partykonseptet de siste årene, både på TrøndeLAN og andre datatreff rundt om i landet, og så derfor behovet for å pivotere til noe nytt.
 
 ### Statistikk
 
@@ -26,7 +34,6 @@ TrøndeLAN, også kjent som TrønderLAN, er Trondheims største dataparty og arr
 | TrøndeLAN 2021 | Utleirahallen | 295\* |
 | TrøndeLAN 2022 | Utleirahallen | 186 |
 | TrøndeLAN 2023 | Utleirahallen | 108 |
-| TrøndeLAN 2024 | *Ukjent* | *Ukjent* |
 
 (\*) *TrøndeLAN 2021: Pluss ~100 minibilletter til kommunen for BFG chill-out zone.*
 

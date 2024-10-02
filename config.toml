@@ -57,14 +57,16 @@ googleAnalytics = ""
       url = "/om/"
 
     [[params.navigation.links]]
+      name = "Nidaros Games"
+      url = "https://nidaros.games"
+
+    [[params.navigation.links]]
       name = "TrøndeLAN"
-      #url = "/trondelan/"
-      url = "https://trondelan.no"
+      url = "/om/#trøndelan"
 
     [[params.navigation.links]]
       name = "StudLAN"
-      #url = "/studlan/"
-      url = "https://studlan.no"
+      url = "/om/#studlan"
 
     [[params.navigation.links]]
       name = "For samarbeidspartnere"
@@ -85,10 +87,10 @@ googleAnalytics = ""
     enable = true
 
     [[params.tiles.showcase]]
-      title = "TrøndeLAN"
-      subtitle = "Trondheims største datatreff"
-      image = "/img/home/trondelan.jpg"
-      url = "https://trondelan.no"
+      title = "Nidaros Games"
+      subtitle = "Made by the gamers, for the gamers"
+      image = "/img/home/nidaros-games.png"
+      url = "https://nidaros.games"
 
     [[params.tiles.showcase]]
       title = "Discord"
@@ -146,12 +148,12 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       url = "https://online.ntnu.no/"
       description = "Vi har tilknytning til Online, linjeforeningen for informatikk ved NTNU"
 
-    [[params.partners.partner]]
-      #image = "/img/partners/TODO.png"
-      alt = "Temporal AS"
-      backgroundColor = ""
-      url = "https://temporal.no/"
-      description = "Temporal AS støtter oss med midler til å gjennomføre aktivitetene våre"
+#    [[params.partners.partner]]
+#      #image = "/img/partners/TODO.png"
+#      alt = "Temporal AS"
+#      backgroundColor = ""
+#      url = "https://temporal.no/"
+#      description = "Temporal AS støtter oss med midler til å gjennomføre aktivitetene våre"
 
     [[params.partners.partner]]
       image = "/img/partners/vyos.svg"
