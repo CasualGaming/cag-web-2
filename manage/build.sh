@@ -10,4 +10,4 @@ if [ -d "$OUT_DIR" ]; then
 fi
 
 # Run live server
-hugo -v -s . -d $OUT_DIR
+hugo -s . -d $OUT_DIR

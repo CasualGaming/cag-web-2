@@ -4,8 +4,8 @@ FROM ubuntu:bionic AS build
 
 ENV BUILD_DIR="/src"
 ENV WEB_DIR="/web"
-ENV HUGO_RELEASE="0.81.0"
-ENV HUGO_DEB_FILE="https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_${HUGO_RELEASE}_Linux-64bit.deb"
+ENV HUGO_RELEASE="0.143.1"
+ENV HUGO_DEB_FILE="https://github.com/gohugoio/hugo/releases/download/v${HUGO_RELEASE}/hugo_${HUGO_RELEASE}_linux-amd64.deb"
 
 WORKDIR "$BUILD_DIR"
 
@@ -26,7 +26,7 @@ COPY i18n/ i18n/
 
 # Build site
 RUN \
-hugo -v --minify -s . -d "$WEB_DIR" \
+hugo --minify -s . -d "$WEB_DIR" \
 && echo "Output size: $(du -sh ${WEB_DIR})"
 
 ## Runtime stage
