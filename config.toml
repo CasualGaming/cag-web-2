@@ -134,12 +134,12 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       url = "https://n4f.no/"
       description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
-    [[params.partners.partner]]
-      image = "/img/partners/digitalkultur.png"
-      alt = "Norsk Digital Kultur"
-      backgroundColor = ""
-      url = "https://www.digitalkultur.no/"
-      description = "Vi er medlemsforening i Norsk Digital Kultur"
+#    [[params.partners.partner]]
+#      image = "/img/partners/digitalkultur.png"
+#      alt = "Norsk Digital Kultur"
+#      backgroundColor = ""
+#      url = "https://www.digitalkultur.no/"
+#      description = "Vi er medlemsforening i Norsk Digital Kultur"
 
     [[params.partners.partner]]
       image = "/img/partners/online.png"
