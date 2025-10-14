@@ -88,7 +88,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "Studentenes OnLAN 2025"
-      subtitle = "LAN-party 17.–19. oktober ved NTNU"
+      subtitle = "LAN-party 17.–19. oktober ved NTNU Trondheim"
       image = "/img/home/onlan.jpg"
       url = "https://casualgaming.no/onlan-2025/"
 

@@ -1,6 +1,6 @@
 ---
 title: "Studentenes OnLAN 2025"
-description: "Studentenes OnLAN 2025 – Trondheim"
+description: "LAN-party 17.–19. oktober ved NTNU Trondheim"
 ---
 
 Bli med på en helg fylt med masse gode folk, gaming og sjukt god stemning! Konkurrer i en av våre mange turneringer, eller se de live på OnLAN sin Twitch-kanal!
