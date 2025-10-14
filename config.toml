@@ -57,8 +57,8 @@ googleAnalytics = ""
       url = "/om/"
 
     [[params.navigation.links]]
-      name = "Nidaros Games"
-      url = "https://nidaros.games"
+      name = "Studentenes OnLAN"
+      url = "https://cag.gg/onlan"
 
     [[params.navigation.links]]
       name = "TrøndeLAN"
@@ -87,10 +87,10 @@ googleAnalytics = ""
     enable = true
 
     [[params.tiles.showcase]]
-      title = "Nidaros Games"
-      subtitle = "Made by the gamers, for the gamers"
-      image = "/img/home/nidaros-games.jpg"
-      url = "https://nidaros.games"
+      title = "Studentenes OnLAN 2025"
+      subtitle = "LAN-party 17.–19. oktober ved NTNU"
+      image = "/img/home/onlan.jpg"
+      url = "https://casualgaming.no/onlan-2025/"
 
     [[params.tiles.showcase]]
       title = "Discord"
@@ -191,7 +191,7 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
 
     [[params.footer.social]]
       icon = "fa-brands fa-facebook"
-      url = "https://www.facebook.com/CasualGamingTrondheim/"
+      url = "https://www.facebook.com/casualgamingno/"
       label = "Facebook"
 
     [[params.footer.social]]
@@ -201,13 +201,13 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
 
     [[params.footer.social]]
       icon = "fa-brands fa-twitch"
-      url = "https://www.twitch.tv/CasualGamingNorway"
+      url = "https://www.twitch.tv/casualgamingno"
       label = "Twitch 1"
 
-    [[params.footer.social]]
-      icon = "fa-brands fa-twitch"
-      url = "https://www.twitch.tv/TrondeLAN"
-      label = "Twitch 2"
+    # [[params.footer.social]]
+    #   icon = "fa-brands fa-twitch"
+    #   url = "https://www.twitch.tv/TrondeLAN"
+    #   label = "Twitch 2"
 
     [[params.footer.social]]
       icon = "fa-brands fa-youtube"
@@ -220,10 +220,10 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       url = "https://www.instagram.com/casualgamingno"
       label = "Instagram"
 
-    [[params.footer.social]]
-      icon = "fa-brands fa-tiktok"
-      url = "https://www.tiktok.com/@trondelan"
-      label = "TikTok"
+    # [[params.footer.social]]
+    #   icon = "fa-brands fa-tiktok"
+    #   url = "https://www.tiktok.com/@trondelan"
+    #   label = "TikTok"
 
     # [[params.footer.social]]
     #   icon = "fa-brands fa-snapchat"
