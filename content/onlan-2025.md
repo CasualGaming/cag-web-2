@@ -3,6 +3,8 @@ title: "Studentenes OnLAN 2025"
 description: "LAN-party 17.–19. oktober ved NTNU Trondheim"
 ---
 
+[**Facebook**](https://www.facebook.com/events/821539570342575/) | [**Discord**](https://nidaros.gg/discord) | [**OnLAN**](https://onlan.gg/)
+
 ## AVLYST
 
 Grunnet få deltakere så har vi dessverre valgt å avlyse arrangementet. Vi beklager og håper vi ser dere igjen en annen gang.
@@ -37,7 +39,7 @@ Resten av informasjonen her gjelder for Trondheim, sjekk ut [**OnLAN.gg**](https
 - Mario Kart
 - Super Smash Bros
 
-Counter-Strik 2, League og Legends og GeoGuessr spilles sammen med Ålesund og Bergen, resten spilles kun lokalt i Trondheim.
+Counter-Strike 2, League og Legends og GeoGuessr spilles sammen med Ålesund og Bergen, resten spilles kun lokalt i Trondheim.
 
 Alle turneringene skjer i utgangspunktet på lørdagen mellom kl. 1300 og 2400, men det blir god stemning fredag og søndag også.
 
@@ -61,7 +63,7 @@ Ordnes med Vipps ved ankomst.
 
 Spørsmål, turneringsprat og slikt foregår på [**Discord**](https://nidaros.gg/discord).
 
-Mer info om arrangementet kommer løpende på [**Facebook**](https://www.facebook.com/casualgamingno/).
+Mer info om arrangementet kommer løpende på [**Facebook-arrangementet**](https://www.facebook.com/events/821539570342575/). Trykk gjerne at du deltar så flere ser arrangementet og så du får varsel om oppdateringer. :)
 
 Arrangementet streames på [**Twitch**](https://www.twitch.tv/studentenesonlan/), om du vil følge med på hva som skjer!
 
