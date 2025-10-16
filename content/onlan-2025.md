@@ -3,6 +3,14 @@ title: "Studentenes OnLAN 2025"
 description: "LAN-party 17.–19. oktober ved NTNU Trondheim"
 ---
 
+## AVLYST
+
+Grunnet få deltakere så har vi dessverre valgt å avlyse arrangementet. Vi beklager og håper vi ser dere igjen en annen gang.
+
+Arrangementet er likevel aktivt de andre lokasjonene (utenom Trondheim). Følg med på [**Twitch**](https://www.twitch.tv/studentenesonlan/) om du vil.
+
+## Original info fra før avlysning
+
 Bli med på en helg fylt med masse gode folk, gaming og sjukt god stemning! Konkurrer i en av våre mange turneringer, eller se de live på OnLAN sin Twitch-kanal!
 
 **Tid:** Fra fredag 17. oktober kl. 1800 til søndag 19. oktober kl. 1800
