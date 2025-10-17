@@ -11,6 +11,8 @@ Grunnet få deltakere så har vi dessverre valgt å avlyse arrangementet. Vi bek
 
 Arrangementet er likevel aktivt de andre lokasjonene (utenom Trondheim). Følg med på [**Twitch**](https://www.twitch.tv/studentenesonlan/) om du vil.
 
+*Psst! Rommet et fortsatt booket og styr, selv om arrangementet avlyst. Kom innom om du vil, men ikke forvent turneringer eller noe.*
+
 ## Original info fra før avlysning
 
 Bli med på en helg fylt med masse gode folk, gaming og sjukt god stemning! Konkurrer i en av våre mange turneringer, eller se de live på OnLAN sin Twitch-kanal!
