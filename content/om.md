@@ -5,7 +5,7 @@ description: "Formål, aktivitet, historie osv."
 
 Casual Gaming (forkortet CaG) er en ideell student- og ungdomsorganisasjon som har til formål å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi arrangerer Trondheims største LAN-party – TrøndeLAN – hver høst. For studenter ved NTNU arrangerer vi StudLAN hvert semester og spillkvelder med jevne mellomrom. Alle våre offentlige arrangementer er rusfrie. Organisasjonen drives på frivillig basis av studenter med forskjellig faglig bakgrunn fra NTNU og andre ungdommer i Trondheimsområdet. All sponsorstøtte og evt. overskudd fra arrangementer går tilbake til å forbedre fremtidige arrangementer.
 
-Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/) og samarbeider med blant annet [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/) og [Niddaros E-sport](https://nidarosesport.no).
+Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/) og samarbeider med blant annet [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/) og [Nidaros E-sport](https://nidarosesport.no).
 
 ## Medlemskap
 
