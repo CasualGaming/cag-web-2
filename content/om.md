@@ -3,17 +3,37 @@ title: "Om oss"
 description: "Formål, aktivitet, historie osv."
 ---
 
-Casual Gaming (forkortet CaG) er en ideell student- og ungdomsorganisasjon som har til formål å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi arrangerer Trondheims største LAN-party – TrøndeLAN – hver høst. For studenter ved NTNU arrangerer vi StudLAN hvert semester og spillkvelder med jevne mellomrom. Alle våre offentlige arrangementer er rusfrie. Organisasjonen drives på frivillig basis av studenter med forskjellig faglig bakgrunn fra NTNU og andre ungdommer i Trondheimsområdet. All sponsorstøtte og evt. overskudd fra arrangementer går tilbake til å forbedre fremtidige arrangementer. I 2015 hadde organisasjonen over 400 betalende medlemmer.
+Casual Gaming (forkortet CaG) er en ideell student- og ungdomsorganisasjon som har til formål å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet. Vi arrangerer Trondheims største LAN-party – TrøndeLAN – hver høst. For studenter ved NTNU arrangerer vi StudLAN hvert semester og spillkvelder med jevne mellomrom. Alle våre offentlige arrangementer er rusfrie. Organisasjonen drives på frivillig basis av studenter med forskjellig faglig bakgrunn fra NTNU og andre ungdommer i Trondheimsområdet. All sponsorstøtte og evt. overskudd fra arrangementer går tilbake til å forbedre fremtidige arrangementer.
 
-Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/), medlemsforening i [Norsk Digital Kultur](https://www.digitalkultur.no/) og samarbeider med [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/).
+Vi er medlemsforening i [Hyperion - Norsk Forbund for Fantastiske Fritidsinteresser](http://n4f.no/) og samarbeider med blant annet [Online, linjeforeningen for informatikk ved NTNU](https://online.ntnu.no/) og [Niddaros E-sport](https://nidarosesport.no).
 
-## Nidaros Games
+## Medlemskap
+
+Vi er en frivillig forening som i stor grad får driftsmidlene våre fra frifond (pengestøtte fra staten), der flere medlemmer gir mer frifond. Informasjon om medlemmene våre deles med forbundet [Hyperion](http://n4f.no/), som søker frifond på vegne av oss. Deltakere på arrangementene våre blir automatisk medlem dersom det må kjøpes billett (som informeres om på billettsiden), så om du har kjøpt billett til et av arrangementene våre i år så er du sannsynligvis medlem hos oss. Det å være medlem koster deg ikke noe mer enn billetten du allerede har kjøpt (eller kontingenten på 50kr du kanskje betalte på Vipps).
+
+Medlemsfordelene inkluderer stemmerett ved årsmøtet vårt, men vi planlegger for å kunne tilby noe litt mer spennende til medlemmene våre på sikt.
+
+Vil du støtte oss og bli medlem, uten å kjøpe billett til arrangementene våre? [Trykk her! 😊](https://cag.gg/medlem)
+
+## Arrangementer
+
+Her ser du litt om de største eller viktigste arrangementene våre, men vi arrangerer eller deltar på mye mer enn dette!
+
+### Studentenes OnLAN (lokalarrangør for Trondheim)
+
+Nettsted: **[onlan.gg](https://onlan.gg)**
+
+Studentenes OnLAN ("OnLAN" på kort) er et student-LAN som foregår samtidig i flere studiesteder i Norge på høsten. Det arrangeres turneringer på tvers og kjøres livestream for å se hva som skjer på de forskjellige lokasjonene. OnLAN arrangeres av en selvstendig organisasjon, der vi er arrangør for Trondheim-lokasjonen.
+
+Informasjon om forrige års OnLAN (Trondheim-lokasjonen) kan finnes her: [Studentenes OnLAN 2025](/onlan-2025/)
+
+### Nidaros Games
 
 Nettsted: **[nidaros.games](https://nidaros.games/)**
 
 Nidaros Games (NG) arrangeres for første gang i høstferien 2024 i Leangenhallen i Trondheim. Dette en spirituell videreutvikling av datatreffet TrøndeLAN, med fokus på digital kultur som videospillkonkurranser og e-sportturneringer.
 
-## TrøndeLAN
+### TrøndeLAN
 
 Nettsted: **[trondelan.no](https://trondelan.no/)**
 
@@ -21,7 +41,7 @@ TrøndeLAN (TL), også kjent som TrønderLAN, er Trondheims største dataparty o
 
 I 2024 ble TrøndeLAN spirituelt videreutvikling som Nidaros Games, der konseptet ble endret for å gå bort fra LAN-plasser og fokusere i større grad på turneringer og innhold. Hovedårsaken til dette var at vi opplevde minkende interesse for LAN-partykonseptet de siste årene, både på TrøndeLAN og andre datatreff rundt om i landet, og så derfor behovet for å pivotere til noe nytt.
 
-### Statistikk
+#### Statistikk
 
 | Arrangement | Hall | Deltakertall |
 | - | - | - |
@@ -34,22 +54,27 @@ I 2024 ble TrøndeLAN spirituelt videreutvikling som Nidaros Games, der konsepte
 | TrøndeLAN 2021 | Utleirahallen | 295\* |
 | TrøndeLAN 2022 | Utleirahallen | 186 |
 | TrøndeLAN 2023 | Utleirahallen | 108 |
+| TrøndeLAN 2024 (ikke avholdt, grunnet Nidaros Games) | | |
+| TrøndeLAN 2025 (ikke avholdt, grunnet omstrukturering) | | |
+| TrøndeLAN 2026 (under planlegging) | *Ikke bestemt* | |
 
 (\*) *TrøndeLAN 2021: Pluss ~100 minibilletter til kommunen for BFG chill-out zone.*
 
-## StudLAN
+### StudLAN
 
 Nettsted: **[studlan.no](https://studlan.no)**
 
 StudLAN er et datatreff som arrangeres typisk hvert semester ved NTNU Gløshaugen, typisk i A-blokken i Realfagbygget (tidligere i P15). Det arrangeres quiz og konkurranser i en rekke spill. Vi stiller med brettspill og konsoller som kan lånes/brukes.
 
-## Spillkvelder
+### Spillkvelder
 
 Konsoll og brettspillkvelder blir arrangert flere ganger i året. Her møtes man for å spille konsoll og brettspill fra de tre siste tiår. Vi stiller med TV-er, konsoller og brettspill. Man står også fritt til å ta med egne spill. Møt opp for en lavterskel sosial kveld hvor man kan møte folk med felles interesser!
 
 Følg med på [Facebook](https://www.facebook.com/CasualGamingTrondheim/) for å få med deg kommende spillkvelder (husk å like/følge oss slik du får varsler).
 
 ## Mediaoppmerksomhet
+
+*Ikke oppdatert.*
 
 - 26\. oktober 2021, [Under Dusken: God stemning på TrøndeLAN](https://underdusken.no/e-sport-sport/god-stemning-pa-trondelan/296254)
 - 12\. oktober 2020, [Opdalingen: Gikk over 100.000 skritt på dataparty](https://www.opdalingen.no/nyheter/2020/10/12/Gikk-over-100.000-skritt-p%C3%A5-dataparty-22806315.ece)
@@ -69,14 +94,12 @@ Følg med på [Facebook](https://www.facebook.com/CasualGamingTrondheim/) for å
 
 Styret for 2024-2025:
 
-- Tor Andre Haugdahl (leder)
+- Håvard O. Nordstrand (leder)
 - Magnus Skjølberg (nestleder)
-- Håvard O. Norstrand (økonomiansvarlig)
 - Stian Tørstad
-- Michael Grønbech
 - Alexander Gjeset
-- Jarle E. Røstum
-- Victor Kibsgaard (vara)
+- Victor Kibsgaard
+- Jarle E. Røstum (vara)
 - Dina N. R. Bakkevik (vara)
 
 ### Crewet
@@ -105,6 +128,10 @@ StudLAN ble arrangert ved NTNU Gløshaugen av StudLAN-gruppen (hovedsakelig fra 
 ### TrøndeLAN
 
 I 2014 arrangerte Casual Gaming StudentLAN i Autronicahallen på Lade, som var et LAN-party eksklusivt for studenter. I 2015 ble TrøndeLAN arrangert for første gang. Det ble arrangert i Autronicahallen, men ulikt StudentLAN var det åpent for offentligheten. Det har siden vært arrangert hvert år rundt høstferien og er hovedarrangementet vårt.
+
+## Ymse
+
+- Casual Gaming og Nidaros E-sport var en kort periode nesten-sammenslått til foreningen Nidaros Creations i perioden 2024–2025. Dette ble reversert når vi fant ut at det ga større gevinst og fleksibilitet å samarbeide som separate foreninger.
 
 ## Kontakt oss
 

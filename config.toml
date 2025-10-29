@@ -120,6 +120,8 @@ Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til for
 Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
 
 **[Les mer om oss her.](/om)**
+
+[Vil du støtte oss og bli medlem? Trykk her! 😊](https://cag.gg/medlem)
 """
 
   # Partner section
@@ -196,13 +198,13 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
 
     [[params.footer.social]]
       icon = "fa-brands fa-discord"
-      url = "https://discord.casualgaming.no/"
+      url = "https://cag.gg/discord/"
       label = "Discord"
 
     [[params.footer.social]]
       icon = "fa-brands fa-twitch"
       url = "https://www.twitch.tv/casualgamingno"
-      label = "Twitch 1"
+      label = "Twitch"
 
     # [[params.footer.social]]
     #   icon = "fa-brands fa-twitch"
