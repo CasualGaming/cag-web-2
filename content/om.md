@@ -92,15 +92,15 @@ Følg med på [Facebook](https://www.facebook.com/CasualGamingTrondheim/) for å
 
 ### Styret
 
-Styret for 2024-2025:
+Styret for 2025-2026:
 
-- Håvard O. Nordstrand (leder)
-- Magnus Skjølberg (nestleder)
-- Stian Tørstad
-- Alexander Gjeset
-- Victor Kibsgaard
-- Jarle E. Røstum (vara)
-- Dina N. R. Bakkevik (vara)
+- Håvard O. Nordstrand (leder, økonomiansvarlig, Tech-leder)
+- Mia-Dyveke Sandstrak (nestleder, Care-leder)
+- Celine Berntsen (Info-leder)
+- Victor S. Kibsgaard (Coord-leder)
+- Magnus Skjølberg (Game-leder)
+- Jarle Eidsli Røstum (første vara)
+- Maja Terese Nilssen (andre vara)
 
 ### Crewet
 
