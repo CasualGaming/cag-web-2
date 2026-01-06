@@ -57,24 +57,24 @@ googleAnalytics = ""
       url = "/om/"
 
     [[params.navigation.links]]
-      name = "Studentenes OnLAN"
-      url = "https://cag.gg/onlan"
+      name = "Konsoll- og brettspillkvelder"
+      url = "/kob/"
 
     [[params.navigation.links]]
-      name = "TrøndeLAN"
+      name = "TrøndeLAN (historisk)"
       url = "/om/#trøndelan"
 
     [[params.navigation.links]]
-      name = "StudLAN"
+      name = "StudLAN (historisk)"
       url = "/om/#studlan"
-
-    [[params.navigation.links]]
-      name = "For samarbeidspartnere"
-      url = "/for-samarbeidspartnere/"
 
     [[params.navigation.links]]
       name = "Opptak"
       url = "/opptak/"
+
+    [[params.navigation.links]]
+      name = "For samarbeidspartnere"
+      url = "/for-samarbeidspartnere/"
 
   # Banner section
   [params.banner]
@@ -87,10 +87,10 @@ googleAnalytics = ""
     enable = true
 
     [[params.tiles.showcase]]
-      title = "Studentenes OnLAN 2025"
-      subtitle = "LAN-party 17.–19. oktober ved NTNU Trondheim"
-      image = "/img/home/onlan.jpg"
-      url = "https://casualgaming.no/onlan-2025/"
+      title = "Konsoll- og brettspillkvelder"
+      subtitle = "Månedlige spillkvelder ved Smia"
+      image = "/img/home/kob.jpg"
+      url = "/kob/"
 
     [[params.tiles.showcase]]
       title = "Discord"
@@ -101,7 +101,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Om oss"
       subtitle = "Aktivitet, organisasjon, kontakt osv."
-      image = "/img/home/konsoll_brett.jpg"
+      image = "/img/home/gaming.jpg"
       url = "/om/"
 
     [[params.tiles.showcase]]
