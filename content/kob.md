@@ -1,5 +1,5 @@
 ---
-title: "Konsoll- og brettspillkveld"
+title: "Konsoll- og brettspillkvelder"
 description: "Månedlig spillkveld ved Smia, NTNU Gløshaugen"
 ---
 
