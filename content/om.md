@@ -129,10 +129,6 @@ StudLAN ble arrangert ved NTNU Gløshaugen av StudLAN-gruppen (hovedsakelig fra 
 
 I 2014 arrangerte Casual Gaming StudentLAN i Autronicahallen på Lade, som var et LAN-party eksklusivt for studenter. I 2015 ble TrøndeLAN arrangert for første gang. Det ble arrangert i Autronicahallen, men ulikt StudentLAN var det åpent for offentligheten. Det har siden vært arrangert hvert år rundt høstferien og er hovedarrangementet vårt.
 
-## Ymse
-
-- Casual Gaming og Nidaros E-sport var en kort periode nesten-sammenslått til foreningen Nidaros Creations i perioden 2024–2025. Dette ble reversert når vi fant ut at det ga større gevinst og fleksibilitet å samarbeide som separate foreninger.
-
 ## Kontakt oss
 
 - Generelle henvendelser: post (at) casualgaming.no
