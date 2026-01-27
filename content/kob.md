@@ -11,11 +11,11 @@ Spørsmål? Kom innom `#konsoll-og-brettspillkveld` på [Discord-serveren](https
 
 ## Neste spillkveld
 
-**Tid:** Onsdag 7. februar 2026 kl. 18–21
+**Tid:** Onsdag 4. februar 2026 kl. 18–21
 
 **Sted:** Smia, NTNU Gløshaugen ([kart](https://link.mazemap.com/CKdk0M6w))
 
-**Tema og innhold:** Rolig oppstart av 2026 med brettspill
+**Tema:** Overcooked (Nintendo Switch) 🍳
 
 Bli med!
 
@@ -25,11 +25,10 @@ Om du vil ha påminnelser, så bli med i Discord-serveren eller følg med på Fa
 
 | Dato | Tid | Sted | Tema og innhold |
 |-|-|-|-|
-| Onsdag 4. februar 2026 | 18–21 | Smia | TBD |
-| Onsdag 4. mars 2026 | 18–21 | Smia | TBD (Turnering?) |
-| Onsdag 8. april 2026 \* | 18–21 | Smia | TBD |
-| Søndag 3. mai 2026 \* | 18–21 | Smia | TBD (Eksamensavbrekk?) |
-| Onsdag 3. juni 2026 | 18–21 | Smia | TBD (Sommeravslutning m/ snacks?) |
+| Onsdag 4. mars 2026 | 18&ndash;21 | Smia | TBD |
+| Onsdag 8. april 2026 \* | 18&ndash;21 | Smia | TBD |
+| Søndag 3. mai 2026 \* | 18&ndash;21 | Smia | TBD |
+| Onsdag 3. juni 2026 | 18&ndash;21 | Smia | TBD |
 
 (\*) Avvikende tid eller sted, typisk fordi rommet eller vi er opptatt.
 
@@ -39,6 +38,6 @@ F.o.m. januar 2026. Om du vil se eldre spillkvelder, så sjekk Facebook-siden v�
 
 | Dato | Tid | Sted | Tema og innhold |
 |-|-|-|-|
-| TODO | TODO | TODO | TODO |
+| Onsdag 7. januar 2026 | 18&ndash;21 | Smia | Rolig oppstart |
 
 (\*) Avvikende tid eller sted, typisk fordi rommet eller vi er opptatt.
