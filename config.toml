@@ -58,7 +58,7 @@ googleAnalytics = ""
 
     [[params.navigation.links]]
       name = "Konsoll- og brettspillkvelder"
-      url = "/kob/"
+      url = "/spillkveld/"
 
     [[params.navigation.links]]
       name = "TrøndeLAN (historisk)"
@@ -90,7 +90,7 @@ googleAnalytics = ""
       title = "Konsoll- og brettspillkvelder"
       subtitle = "Månedlige spillkvelder ved Smia"
       image = "/img/home/kob.jpg"
-      url = "/kob/"
+      url = "/spillkveld/"
 
     [[params.tiles.showcase]]
       title = "Discord"
