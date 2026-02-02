@@ -7,7 +7,7 @@ description: "Månedlig spillkveld ved Smia, NTNU Gløshaugen"
 
 Spillkveldene arrangeres førstkommende onsdag hver måned kl. 18–21 (med unntak). Vi stiller med ymse brettspill, kanskje konsoller, kanskje turneringer og kanskje snacks, mens du stiller med deg selv og kanskje et kult brettspill.
 
-Spørsmål? Kom innom `#konsoll-og-brettspillkveld` på [Discord-serveren](https://cag.gg/discord). Der annonserer vi også info om kommende spillkvelder og andre arrangementer!
+Spørsmål? Kom innom `#spillkveld` på [Discord-serveren](https://cag.gg/discord). Der annonserer vi også info om kommende spillkvelder og andre arrangementer!
 
 ## Neste spillkveld
 
