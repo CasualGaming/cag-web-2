@@ -206,11 +206,6 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       url = "https://www.twitch.tv/casualgamingno"
       label = "Twitch"
 
-    # [[params.footer.social]]
-    #   icon = "fa-brands fa-twitch"
-    #   url = "https://www.twitch.tv/TrondeLAN"
-    #   label = "Twitch 2"
-
     [[params.footer.social]]
       icon = "fa-brands fa-youtube"
       #url = "https://www.youtube.com/channel/UCwE4Udkp8A881Dfvbfa6KLQ"
@@ -222,25 +217,15 @@ Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
       url = "https://www.instagram.com/casualgamingno"
       label = "Instagram"
 
-    # [[params.footer.social]]
-    #   icon = "fa-brands fa-tiktok"
-    #   url = "https://www.tiktok.com/@trondelan"
-    #   label = "TikTok"
-
-    # [[params.footer.social]]
-    #   icon = "fa-brands fa-snapchat"
-    #   url = "https://www.snapchat.com/add/casualgamingno"
-    #   label = "Snapchat"
-
     [[params.footer.social]]
       icon = "fa-brands fa-github"
       url = "https://www.github.com/CasualGaming"
       label = "GitHub"
 
-    # [[params.footer.social]]
-    #   icon = "fa-solid fa-heartbeat"
-    #   url = "https://status.casualgaming.no/"
-    #   label = "Status"
+    [[params.footer.social]]
+      icon = "fa-solid fa-heart-pulse"
+      url = "https://status.casualgaming.no"
+      label = "Status"
 
     [[params.footer.social]]
       icon = "fa-solid fa-life-ring"
