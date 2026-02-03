@@ -57,7 +57,7 @@ googleAnalytics = ""
       url = "/om/"
 
     [[params.navigation.links]]
-      name = "Konsoll- og brettspillkvelder"
+      name = "Spillkvelder"
       url = "/spillkveld/"
 
     [[params.navigation.links]]
@@ -87,8 +87,8 @@ googleAnalytics = ""
     enable = true
 
     [[params.tiles.showcase]]
-      title = "Konsoll- og brettspillkvelder"
-      subtitle = "Månedlige spillkvelder ved Smia"
+      title = "Spillkvelder"
+      subtitle = "Månedlige spillkvelder på Gløshaugen"
       image = "/img/home/kob.jpg"
       url = "/spillkveld/"
 
