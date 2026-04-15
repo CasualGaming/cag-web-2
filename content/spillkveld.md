@@ -11,11 +11,11 @@ Spørsmål? Kom innom `#spillkveld` på [Discord-serveren](https://cag.gg/discor
 
 ## Neste spillkveld
 
-**Tid:** Onsdag 8. april 2026 kl. 18–21
+**Tid:** Onsdag 29. april 2026 kl. 18&ndash;21
 
 **Sted:** Smia, NTNU Gløshaugen ([kart](https://link.mazemap.com/CKdk0M6w))
 
-**Tema:** Buzz! (PlayStation 2)
+**Tema:** Magic: The Gathering
 
 Bli med!
 
@@ -25,7 +25,6 @@ Om du vil ha påminnelser, så bli med i Discord-serveren eller følg med på Fa
 
 | Dato | Tid | Sted | Tema og innhold |
 |-|-|-|-|
-| Søndag 3. mai 2026 \* | 18&ndash;21 | Smia | TBD |
 | Onsdag 3. juni 2026 | 18&ndash;21 | Smia | TBD |
 
 (\*) Avvikende tid eller sted, typisk fordi rommet eller vi er opptatt.
@@ -36,6 +35,7 @@ F.o.m. januar 2026. Om du vil se eldre spillkvelder, så sjekk Facebook-siden v�
 
 | Dato | Tid | Sted | Tema og innhold |
 |-|-|-|-|
+| Onsdag 8. april 2026 | 18&ndash;21 | Smia | Buzz! |
 | Onsdag 4. mars 2026 | 18&ndash;21 | Smia | Overcooked |
 | Onsdag 4. februar 2026 | 18&ndash;21 | Smia | Overcooked & Melee |
 | Onsdag 7. januar 2026 | 18&ndash;21 | Smia | Rolig oppstart |
