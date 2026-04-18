@@ -13,8 +13,8 @@ Spørsmål? Kom innom `#spillkveld` på [Discord-serveren](https://cag.gg/discor
 
 | Dato | Tid | Sted | Tema og innhold |
 |-|-|-|-|
-| Onsdag 29. april 2026 | 18&ndash;21 | S21 | Magic: The Gathering |
-| Onsdag 3. juni 2026 | 18&ndash;21 | Smia eller S21 | *TBD* |
+| Onsdag 29. april 2026 | 18&ndash;21 | Smia | Magic: The Gathering |
+| Onsdag 3. juni 2026 | 18&ndash;21 | S21 | *TBD* |
 
 ## Tidligere spillkvelder
 
