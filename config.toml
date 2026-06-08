@@ -1,7 +1,7 @@
 # Site settings
 # Needs to be an absolute prefix
 baseURL = "/"
-title = "Casual Gaming "
+title = "Casual Gaming"
 theme = "fifty"
 enableEmoji = true
 DefaultContentLanguage = "no"
