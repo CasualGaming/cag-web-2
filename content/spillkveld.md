@@ -11,7 +11,6 @@ Spørsmål? Kom innom `#spillkveld` på [Discord-serveren](https://cag.gg/discor
 
 | Dato | Tid | Sted | Tema og innhold |
 |-|-|-|-|
-| Onsdag 3. juni 2026 | 18&ndash;21 | S21 | Super Smash Bros. Melee |
 
 ## Tidligere spillkvelder
 
@@ -19,6 +18,7 @@ F.o.m. januar 2026. Om du vil se eldre spillkvelder, så sjekk Facebook-siden v�
 
 | Dato | Tid | Sted | Tema og innhold |
 |-|-|-|-|
+| Onsdag 3. juni 2026 | 18&ndash;21 | S21 | Super Smash Bros. Melee |
 | Onsdag 29. april 2026 | 18&ndash;21 | Smia | Magic: The Gathering |
 | Onsdag 8. april 2026 | 18&ndash;21 | Smia | Buzz! |
 | Onsdag 4. mars 2026 | 18&ndash;21 | Smia | Overcooked |
