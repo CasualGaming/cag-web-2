@@ -61,12 +61,12 @@ googleAnalytics = ""
       url = "/spillkveld/"
 
     [[params.navigation.links]]
-      name = "TrøndeLAN (historisk)"
-      url = "/om/#trøndelan"
+      name = "StudLAN"
+      url = "https://studlan.no"
 
     [[params.navigation.links]]
-      name = "StudLAN (historisk)"
-      url = "/om/#studlan"
+      name = "TrøndeLAN (historisk)"
+      url = "/om/#trøndelan"
 
     [[params.navigation.links]]
       name = "Opptak"
@@ -88,25 +88,25 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "Spillkvelder"
-      subtitle = "Månedlige spillkvelder på Gløshaugen"
+      subtitle = "Spillkvelder på Gløshaugen"
       image = "/img/home/kob.jpg"
       url = "/spillkveld/"
 
     [[params.tiles.showcase]]
-      title = "Discord"
-      subtitle = "Join serveren vår!"
+      title = "StudLAN"
+      subtitle = "Spillhelg på Gløshaugen"
       image = "/img/home/studlan.jpg"
-      url = "https://discord.casualgaming.no/"
+      url = "https://studlan.no"
 
     [[params.tiles.showcase]]
-      title = "Om oss"
-      subtitle = "Aktivitet, organisasjon, kontakt osv."
+      title = "Discord"
+      subtitle = "Join the casual community"
       image = "/img/home/gaming.jpg"
-      url = "/om/"
+      url = "https://cag.gg/discord"
 
     [[params.tiles.showcase]]
       title = "Opptak"
-      subtitle = "Bli med på arrangeringen"
+      subtitle = "Bli med i crewet"
       image = "/img/home/opptak.jpg"
       url = "/opptak/"
 
@@ -117,7 +117,7 @@ googleAnalytics = ""
     subtitle = """
 Casual Gaming (CaG) er en ideell student- og ungdomsorganisasjon som har til formål
 å skape en felles sosial arena for spillinteresserte studenter og ungdom i Trondheimsområdet.
-Vi arrangerer bl.a. **TrøndeLAN**, **StudLAN** og casual spillkvelder.
+Vi arrangerer bl.a. spillkvelder, StudLAN, <insert upcoming LAN> og mye rart sammen med andre organisasjoner.
 
 **[Les mer om oss her.](/om)**
 
