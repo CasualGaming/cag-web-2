@@ -136,13 +136,6 @@ Vi arrangerer bl.a. spillkvelder, StudLAN, <insert upcoming LAN> og mye rart sam
       url = "https://n4f.no/"
       description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
-#    [[params.partners.partner]]
-#      image = "/img/partners/digitalkultur.png"
-#      alt = "Norsk Digital Kultur"
-#      backgroundColor = ""
-#      url = "https://www.digitalkultur.no/"
-#      description = "Vi er medlemsforening i Norsk Digital Kultur"
-
     [[params.partners.partner]]
       image = "/img/partners/online.png"
       alt = "Online, linjeforeningen for informatikk ved NTNU"
@@ -150,31 +143,19 @@ Vi arrangerer bl.a. spillkvelder, StudLAN, <insert upcoming LAN> og mye rart sam
       url = "https://online.ntnu.no/"
       description = "Vi har tilknytning til Online, linjeforeningen for informatikk ved NTNU"
 
-#    [[params.partners.partner]]
-#      #image = "/img/partners/TODO.png"
-#      alt = "Temporal AS"
-#      backgroundColor = ""
-#      url = "https://temporal.no/"
-#      description = "Temporal AS støtter oss med midler til å gjennomføre aktivitetene våre"
+    [[params.partners.partner]]
+      image = "/img/partners/vanly.png"
+      alt = "Vanly"
+      backgroundColor = ""
+      url = "https://vanly.no/"
+      description = "Vanly støtter oss med god rabatt på leie av fornuftige varebiler"
 
     [[params.partners.partner]]
       image = "/img/partners/vyos.svg"
       alt = "VyOS"
       backgroundColor = ""
       url = "https://vyos.io/"
-      description = "VyOS støtter oss med et pro-abonnement for bruk av ruter-programvaren deres"
-
-#    [[params.partners.partner]]
-#      image = "/img/logo.png"
-#      alt = "AAAaaa"
-#      url = "https://example.net/"
-#      description = "Støtter oss med en dedikert server for nettstedene våre"
-
-#    [[params.partners.partner]]
-#      image = ""
-#      alt = "BBBbbb"
-#      url = "https://example.net/"
-#      description = "Støtter oss med en dedikert server for nettstedene våre"
+      description = "VyOS støtter oss med lisens til nettverksplattformen deres"
 
   # Grasrotandelen section
   [params.grasrotandelen]
