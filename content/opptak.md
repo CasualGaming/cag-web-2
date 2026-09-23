@@ -32,5 +32,4 @@ Listen under viser fordelene du får som crew hos oss:
 
 Pluss alle fordelene som PixelLAN-crewet har! 
 
-Hørtes det spennende ut? Søk da vel! 
-Søknaden sendes til [opptak@casualgaming.no](mailto:opptak@casualgaming.no).
+Hørtes det spennende ut? [Søk gjennom det skjemaet her!](https://forms.gle/x3t9XGBNJrPborY27)
