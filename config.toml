@@ -137,6 +137,13 @@ Vi arrangerer bl.a. spillkvelder, StudLAN, <insert upcoming LAN> og mye rart sam
       description = "Vi er medlemsforening i Hyperion – Norsk Forbund for Fantastiske Fritidsinteresser"
 
     [[params.partners.partner]]
+      image = "/img/partners/esportalliansen.png"
+      alt = "E-sport Alliansen"
+      backgroundColor = ""
+      url = "https://www.esportalliansen.no/"
+      description = "Vi er medlemsforening i E-sport Alliansen"
+
+    [[params.partners.partner]]
       image = "/img/partners/online.png"
       alt = "Online, linjeforeningen for informatikk ved NTNU"
       backgroundColor = ""
